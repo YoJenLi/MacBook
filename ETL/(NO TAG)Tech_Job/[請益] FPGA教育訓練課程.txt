@@ -1,0 +1,28 @@
+
+作者saes2005 (saes2005)看板Tech_Job標題[請益] FPGA教育訓練課程時間Sun Oct 11 00:11:28 2015
+本魯目前大四
+
+專題方向為Verilog撰寫/FPGA驗證及演算法實現
+
+由於指導教授暑假提前開課
+
+所以對於Verilog 有一些基礎
+
+但我對介面溝通部分實在沒有任何的基礎 (VGA RS232 LAN PCIE等)
+
+不知道哪邊有在做這方面的訓練
+
+目前是有看到艾鍗學院有開這方面的課程
+
+http://www.ittraining.com.tw/ittraining/index.php/course/hardware/fpga
+
+不知道大家推不推薦
+
+或者有更好的選擇
+
+先感謝大家了
+
+如果這方面學習毫無起色
+
+我也已經做好成為一位設備工程師的準備
+

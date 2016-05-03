@@ -1,0 +1,45 @@
+
+作者NVidiaHR (NVidia HR)看板Tech_Job標題[徵才] NVIDIA 104年度研發替代役 軟體職務筆試時間Wed Sep  3 15:23:23 2014
+
+[徵才] NVIDIA 104年度研發替代役 軟體職務筆試 (台北/台南)
+
+
+NVIDIA即將在9/19(五) 下午兩點在台北辦公室舉行軟體職筆試，歡迎資工/電子/電機，
+軟體專才到現場報名，請攜帶一份中文或英文履歷。
+
+為了體恤在中南部的同學們，我們也會在10/8(三) 於成功大學光復校區多功能會議廳舉
+辦筆試，免去南北交通的時間。但僅此一場，希望有軟體背景的同學能夠一同參加。到場
+時，請攜帶一份中文或英文履歷。
+
+
+有興趣者請將履歷寄到 tw-recruitment@nvidia.com以便報名。
+
+
+考試職缺如下(詳細內容請參考http://0rz.tw/UP1tq
+括號內為工作地點:
+1.Mobile System Software Engineer (台北)
+2.Mobile Software Customer Engineer (台北)
+3.Software QA Engineer (台北)
+4.Test Engineering Methodology Engineer (新竹)
+
+考試內容: C/C++ (65%) Java / Perl/ Python/ Script (15%)/ Concept (20%)
+考試地點: NVIDIA 台北辦公室 台北市基湖路8號
+薪資: 年薪保障六十萬以上(由個人薪資不透露故寫上六十萬，根據不同職務會作調整)
+
+台北辦公室當天流程如下:
+1400-1430 報到
+1430-1530 公司介紹/職務說明/校友分享/Q&A
+1530-1730 筆試
+
+
+成功大學光復校區當天流程如下:
+1400-1430 報到/ 職務說明
+1430-1630 筆試
+
+
+筆試與面試另外舉行
+1.DFT Engineer (台北或新竹)
+
+毋需筆試職務，請附上大學成績單
+1.Test Engineer (新竹)
+

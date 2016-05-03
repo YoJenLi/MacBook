@@ -1,0 +1,8 @@
+
+作者skingu (美味夏天)看板Tech_Job標題[請益]Vender轉IC測試 時間Wed Feb  3 19:56:10 2016
+ 版上各位大大好，小弟目前剛就職ATE Vender的FAE，工作內容主要是debug
+之後想轉跳design house 的TestEngineer，請問要做什麼準備？
+會寫測試程式可是沒接過產品公司會要嗎？想請問大家我該怎麼準備？
+或者是除了TE之外，有什麼推薦的工作...
+
+

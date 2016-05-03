@@ -1,0 +1,127 @@
+
+作者a654 (奇想)看板Tech_Job標題[徵才] 外商SQA Engineer,APP manager時間Thu Aug 23 23:41:25 2012
+【公司名稱 】Pentasia Recruitment  代徵
+IT service company
+
+【公司介紹】我們的客人是國外的軟體/網站開發及營運公司 ,因業務擴展
+
+現於內湖增設以下職位
+
+QA Engineer
+
+Mandatory skills and experience:
+‧ Hands on Experience Functional Testing Automation Tools
+‧ Excellent knowledge of testing application principles, practices, tool and
+procedures
+‧ Hands on Experience in Systems and User Test Case Specifications
+Documentation and Scripting Design, as well as Business and Systems Process
+and Data Analysis
+‧ Experience using automated test tools for testing of performance and
+application capacity (e.g Loadrunner / QA Load)
+‧ Strong and consistent record of academic achievement.
+
+Desirable skills and experience:
+‧ Experience in Test Management Tools ie Quality Centre (Test Director)
+‧ Relevant technical background in web technologies or background in
+business analysis.
+‧ Experience using web based bug tracking tools such as JIRA and Bugzilla
+‧ Previous experience in working for an Online Gaming company
+
+一定要會的 web application scrum, agile
+
+QA Manager
+
+http://www.pentasia.com/vacancies/detail.asp?jid=6587
+
+一定要會的 web application scrum, agile
+
+NOC Manager
+
+http://www.pentasia.com/vacancies/detail.asp?jid=6586
+
+Application Manager
+
+Application manager will be responsible for the design, delivery, support and
+Improvement of the application delivery environments, including user facing
+websites, core system services, APIs, and bespoke software.
+
+Responsibilities
+
+
+
+You will be managing the availability and operations. For example, deploying
+website, web application. Coordinate and supervise application support,
+tracking of bugs. Liaise with offshore Development and QA team.
+
+You will be managing application teams.( Application Delivery, Application
+Support and DBA)
+
+Planing and participate in projects.
+You will be working with Project Managers with project framework to achieve
+goals.
+Design and implement strategic plans to ensure infrastructure capacity meets
+existing and future requirements. Report activities to the IT Operations and
+Infrastructure Director.
+
+
+Requirements:
+
+Strong background in IIS, .NET, PHP,
+Demonstrable experience in SQL and MySQL
+Experience in ITIL
+
+Experience in ITIL
+Knowledge of development tools e.g. JIRA, Visual Studio and Bugzilla
+Deep understaning and experience of web hosting and server environments
+
+
+
+
+
+
+【工作時間】
+９～１８
+
+【工作地點】
+內湖
+
+【薪資待遇】
+1800~2000 USD/month - QA Engineer (職員級
+
+Negotiable - QA Manager - (管 QA Engineer
+
+Negotiable - Application Manager
+
+Negotiable - NOC Manager
+
+Negotiable = 最低 3000 USD 但看相關經驗 (4000 USD/ month 也有機會
+
+基本上 Manager 的客戶沒有訂明薪水.只要你有很好的經驗,(I-Gaming相關的
+
+絕對可以更多,當然也要你現在薪水不低就是了
+
+Manager 的英文要好,會有英語跟其他主管對話的機會
+
+外商的要求其實我真的很清楚
+
+1.相關經驗
+
+2.英文.
+
+等等我也可以發篇文講一下好了..
+
+
+【聯絡方式】
+angus.che@pentasia.com
+
+履歷表請用英文,特別是Manager 的職位是一定要有英文
+
+如果不確定夠不夠好可以寄來angus.che@pentasia.com
+
+可是內容要注明是讓我幫你先檢查 (鄉民服務 我公司沒在做這個的
+
+請加上你的ＳＫＹＰＥ帳號，因為總公司在馬尼拉，和人事部的約談很有可能在ＳＫＹＰ
+Ｅ
+
+想看清楚公司的生意內容請在這版搜我的ID 我有很詳細的介紹這行業
+

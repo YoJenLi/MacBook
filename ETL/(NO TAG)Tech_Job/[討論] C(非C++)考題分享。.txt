@@ -1,0 +1,35 @@
+
+作者lovec (不顧)看板Tech_Job標題[討論] C(非C++)考題分享。時間Tue Mar 24 21:43:03 2015
+明天要去某一家公司面試
+
+如果沒意外應該是要考C(非C++)
+
+但是本小魯只有出社會第一份工作是寫C
+
+後面幾年跟碩士時都是寫C++
+
+為避免連50分都拿不到的窘境只好利用今晚惡補一下
+
+以下是我Google到的一個Blog
+
+資訊還不錯
+
+分享給也要臨時抱佛腳的板友 XDDD
+
+
+PS: 我也不知道這是誰的Blog，不喜勿入喔 :)
+
+
+C經典100題 : http://ppt.cc/p1wq
+
+Embedded C Language Porblems : http://ppt.cc/AEZe
+
+(這個Blog有些內容滿不錯的，C跟C++都有，有心的可以偶爾看一看)
+
+C library : http://www.cplusplus.com/reference/clibrary/
+
+
+以上分享完畢
+
+繼續唸書....
+

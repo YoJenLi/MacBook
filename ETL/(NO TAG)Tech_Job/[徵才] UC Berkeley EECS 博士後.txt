@@ -1,0 +1,63 @@
+
+作者sovereignty ( )看板Tech_Job標題[徵才] UC Berkeley EECS 博士後時間Sun Mar 20 04:35:01 2016
+工作地點：UC Berkeley BSIM group
+          http://www-device.eecs.berkeley.edu/bsim/
+
+指導教授：Prof. Chenming Hu 胡正明院士
+          (2004 中研院院士、2016 美國國家技術與創新獎章得主)
+
+          Prof. Sayeef Salahuddin
+          (2016 Presidential Early Career Awards for Scientists and Engineers)
+
+徵求條件：需有 EECS 博士學位
+
+加分條件：1. 具備業界 SPICE modeling 工作經驗 (有參與 production model
+             project 佳)
+
+          2. 碩博士論文為 compact modeling of semiconductor devices
+
+工作時間：原則上是 3 年
+
+          J-1 簽證申請手續需三到四個月，確定聘任後半年開始工作，
+          通常是九月中開始。
+
+          若需攜帶家眷，可一併申請簽證 (J-2)
+
+工作內容/職務要求:
+
+          1. (80%)
+
+             維護現有 BSIM model family 包含 BSIMCMG, BSIMIMG, BSIMSOI,
+             BSIM6, BSIM4。
+
+             處理來自世界各國 foundry, EDA vendors 的問題，包含 debug
+             或新增 feature。
+
+             需要熟悉 Hspice (主要), Spectre 等 simulator 語法，會跑模
+             擬，看波形，做 QA (Perl)。
+
+             編輯 LaTeX 文件，使用 GitHub 系統。
+
+             希望對 SPICE 模擬有一定的熟悉程度，其他工作事項不了解或不
+             熟悉的部分，可以開始工作後繼續學習。
+
+             另，每年有機會參加四次 Compact Model Coalition 國際會議，
+             兩次在美國，兩次在其他國家(今年一次在日本、一次在奧地利)，
+             接觸各國業界菁英，拓展人脈。
+
+          2. (20%)
+
+             可瞭解學界最新半導體元件發展趨勢，如 Tunneling FET 或
+             Negative Capacitance FET 等，參與研究工作並發表論文。
+
+使用工具：Hspice + Verilog-A (必須)。
+          Spectre, ADS, MATLAB, Python (會的話更好)。
+
+薪資條件：第一年年薪 50,000 美金以上 (稅前)，薪資面議。
+          每一年享有給薪假 24 天，病假 12 天。
+
+工作環境：工時彈性，環境與台灣業界比相對輕鬆。校園優美、加州天氣超好。
+          雖然薪資不如美國科技業界，但若將來考慮在美國工作或進入學術界，
+          這個工作經驗將非常有幫助。
+
+

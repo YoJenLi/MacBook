@@ -1,0 +1,18 @@
+
+作者qaz0901 (SK)看板Tech_Job標題[徵才] (代PO)台灣應材急徵CIM/MES工程師時間Wed Oct 15 22:39:10 2014
+【公司名稱】台灣應用材料股份有限公司
+  公司網址：http://www.appliedmaterials.com
+
+
+【工作職缺】竹科&南科 CIM/MES 軟體工程師
+【工作時間】免打卡 依現場狀況 超過八小時算加班費 周休二日
+【工作內容】
+1. 開發與維護PLC程式
+2. 熟悉Real-Time Dispatching
+3. Design & improve automation framework base
+   on VB script or C# on .Net Framework
+4. 須進無塵室
+
+【職缺要求】
+1. MES
+2. Real-Time Dispatching (RTD) 

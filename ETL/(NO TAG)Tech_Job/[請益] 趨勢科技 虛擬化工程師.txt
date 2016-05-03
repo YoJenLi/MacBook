@@ -1,0 +1,28 @@
+
+作者bosskiss00 (黑蘋果派)看板Tech_Job標題[請益] 趨勢科技 虛擬化工程師??時間Mon Dec 29 14:24:06 2014
+如題 想要請教一下版友
+
+剛剛在下收到趨勢科技通知面試的邀請信
+
+職務內容是Sr. Storage/ Virtualization Engineer (DCS, Data Center Service Team)
+
+看字面是作虛擬化跟Storage的
+
+
+之前在下在SI業界待過兩年  剛好vsphere跟storage架構都有接觸過一點...
+
+不過講實在話  SI做的都是硬體跟系統整合  coding是完全沒在做的
+
+(當初一開始進這麼賽的SI  也是因為沒有coding能力)
+
+看板上大家的心得  趨勢面試都會考coding  那我不就得整張交白卷了
+
+
+另外就是也好像沒有看過人家在討論趨勢有虛擬化Team的
+
+是他們最近才在做嗎...?
+
+
+有沒有版友能解惑一下  感謝XD"
+
+

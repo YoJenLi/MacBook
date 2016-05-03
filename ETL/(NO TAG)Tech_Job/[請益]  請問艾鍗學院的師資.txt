@@ -1,0 +1,13 @@
+
+作者bebeewei (蜜蜂)看板Tech_Job標題[請益]  請問艾鍗學院的師資時間Fri Dec 26 00:04:09 2014
+
+
+
+   想去艾鍗學習bsp 包含 ARM bootloader  、linux 、 嵌入式等
+
+   所以想請問一下師資
+
+  http://www.ittraining.com.tw/ittraining/index.php/aboutus/teacher
+
+    懇請前輩指點  萬分感激
+

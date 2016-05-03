@@ -1,0 +1,13 @@
+
+作者bandee (拍拍)看板Tech_Job標題[請益] 請板友推薦PADS(PowerPCB)教學書籍時間Fri Dec 19 22:29:13 2014
+
+最近公司老闆希望我能自己layout
+
+公司是用PADS, 以前叫PowerPCB
+
+希望板友能推薦一下適合的入門教學書籍
+
+PS.有在電機板爬文到"High Speed Digital Design: A Handbook of Black Magic"這本書
+
+   不過我現在需要的是教我怎麼用軟體的書啊...Orz
+

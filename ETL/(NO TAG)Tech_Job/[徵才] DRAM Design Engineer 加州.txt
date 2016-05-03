@@ -1,0 +1,56 @@
+
+作者jawfang (阿肇)看板Tech_Job標題[徵才] DRAM Design Engineer 加州時間Tue Jan 26 12:34:33 2016
+【公司名稱】
+Omnivision Tech http://www.ovt.com/
+
+【工作職缺】
+DRAM Design Engineer
+
+【工作內容】
+‧ DRAM circuit design – Row/Column/Address/Command/Data/DC path
+‧ Simulation and verification
+‧ Works with Process Integration/Layout Design/Test Engineering
+‧ Collaborate with team to successfully deliver product
+‧ New circuit R&D to be ahead of current technology
+
+【徵求條件】
+‧2 to 5 years of experience designing and debugging DRAM Memories
+‧M.S.E.E. or above
+‧Have a good understanding of DRAM circuit
+‧Have the capability to design and develop DRAM circuit independently
+
+【工作地點】
+Santa Clara, CA (一開始可以在台灣工作)
+
+【工作時間】
+※沒有填寫工作時間將會被刪文。
+9:00-18:00
+周休二日
+
+【公司福利】
+‧401K
+‧醫療保險
+‧帶薪休假（特休）10天/年
+‧幫忙辦H1B or L1 and 綠卡
+
+【薪資範圍】
+年薪10萬到15萬美金.
+
+【聯絡人/連絡方式】
+Mark Tsai
+mark.tsai@ovt.com
+
+謝謝!
+
+
+
+
+會幫忙辦H1B or L1, 享有401K, 保險, relocation fee.
+一開始可以在台灣工作
+
+
+
+
+有意者請把履歷寄於
+mark.tsai@ovt.com
+

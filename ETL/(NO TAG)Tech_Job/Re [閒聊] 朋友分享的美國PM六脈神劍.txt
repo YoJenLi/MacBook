@@ -1,0 +1,41 @@
+
+作者mjh (Pandora, been opened)看板Tech_Job標題Re: [閒聊] 朋友分享的美國PM六脈神劍時間Sun Sep 30 16:22:46 2012
+我想...不懂美國人做事方式 商業文化與工作態度
+才是會有如是看法的主因
+
+簡單問一句
+
+在每次開會前  有多少人會花多少時間去準備??
+在歐美人概念裡  因為時間管理的根深柢固  所以他們開會前都會做很多基本功課
+
+而開會基本上就是  一個需要效率討論  做成  有效結論的場子
+
+如果身為R&D的一員  在PM不懂時  何不用"英文""簡單有效率"的說到讓他懂呢??
+因為團隊本就要互相cover  沒有只有單單只聽PM在唱獨角戲的
+
+我就常常主動在會議上  沒事幫PM上上課  讓PM瞭解我這行的語言
+好方便他對我這塊業務的掌握
+
+就是互相囉~
+
+※ 引述《gmoz (  This can't do that. )》之銘言：
+: ※ [本文轉錄自 Soft_Job 看板 #1GG9L9ct ]
+: 作者: gmoz (  This can't do that. ) 看板: Soft_Job
+: 標題: [閒聊] 朋友分享的美國PM六脈神劍
+: 時間: Fri Aug 31 18:43:18 2012
+: 這是我一位最近去美國工作的RD朋友，上次在他FB看到這個XDDD
+: 雖然台灣應該也差不多，不過不知道大家會怎樣應付呢?
+: 我發覺美國的PM過好爽 已經完全到只出一張嘴的地步了
+: 精簡整理一下美國RD PM開會經典六脈神劍
+: 1. Is the design done ? (我都是被cue到這句話)
+: 2. It's customer request(講不過你的時候出大絕)
+: 3. How long will you finish this ?
+: (都是在你沒答應要做前他會問你這句,要你多做史
+: 凱揪以外的巨大東西,回答出時間就代表被凹了, 之後我都這樣回答 it depends on the
+: spec we discussed and the requirement, 然後PM通常會開始胡扯...)
+: 4. I don't think so, it's should be ....
+: (關鍵是要在他講should be 之後10秒內 插話進去即可破解)
+: 5. Can you explain how does it work?
+: (最難回答, 講得太深他聽不懂 講得太淺又會提出一堆很沒sense的新要求)
+: 6. It doesn't make sense.(OS:你才沒SENSE....)
+

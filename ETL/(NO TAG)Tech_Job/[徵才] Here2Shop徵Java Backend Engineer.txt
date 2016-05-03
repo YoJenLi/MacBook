@@ -1,0 +1,30 @@
+
+作者here2shop (Here2Shop)看板Tech_Job標題[徵才] Here2Shop徵Java Backend Engineer時間Mon Nov 10 10:11:38 2014
+
+  Here2Shop徵Java Backend Engineer
+
+  WHAT WE WANT TO DO?
+  我們相信電子＋行動商務是未來的趨勢！
+  我們更相信我們可以把電子＋行動商務變得比現在更有趣！！
+  讓我們一起來打造下一代的電子＋行動商務吧！
+
+  WE ARE LOOKING FOR:
+  Back End Engineer
+  Basic:
+  * Familiar with Java & Spring framework
+  * Familiar with MySQL
+  * Familiar with one of the version control solutions (GIT, SVN...)
+
+  Plus:
+  * Experience of web service design
+  * Experience of one of NoSQL databases
+  * Experience of memcached
+  * Familiar with Amazon Web Service
+  * Familiar with Apache and nginx configuration and performance tuning
+  * Experience of building E-Comm site
+
+  Salary Range: NT$ 50,000 ~ NT$ 100,000 (Monthly)
+  Location: 內湖瑞光路 (近捷運港墘站)
+
+  Send your resume to alan.chang at here2shop.com
+

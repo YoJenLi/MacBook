@@ -1,0 +1,16 @@
+
+作者alan0915 (AlanHou)看板Tech_Job標題[請益] Acer Component Engineer工作性質??時間Thu Oct 16 01:14:36 2014
+小弟有幸得到Acer Component Engineer 的面試機會
+
+想請教一下這是個怎麼樣的工作性質
+
+工作內容是
+
+1. Camera algorithm development & component analysis
+2. Display image processing technology development
+3. Storage architecture & driver development
+
+第一次發文
+
+還請各位大大指教
+

@@ -1,0 +1,30 @@
+
+作者arashi233 (arashi233)看板Tech_Job標題[徵才] 外商Technical Team Lead
+時間: Fri Nov 20 07:18:40 2015
+
+【公司名稱】
+ Robert Walters 代外商徵 Technical Team Lead
+ 官方網站：http://www.robertwalters.com.tw/
+
+【工作職缺】
+Technical Team Lead
+
+【工作內容】
+-You will be responsible for performing as a technical lead for a team of developers
+-You will need to lead the technical analysis, architecture design, code reviewing & implement technology solutions.
+-You will be responsible to work closely with product managers, business unit, technical leaders and executives to communicate program status, escalate issues, and guide and influence strategic decision-making.
+-You will need to develop, manage, and implement the technical deliverables of our cross-functional teams that are focused on the implementation of our library, framework and modules of our products.
+
+【徵求條件】
+
+-BS in Computer Science or equivalent experience, a Master's degree has an added advantage.
+-5+ years of web software design & development experience on scalable web properties supporting multiple browsers.
+-5+ years of experience design and development, including strong working knowledge and experience with various architectural and design pattern implementation using Java.
+-3+ years of experience in a Team Lead capacity leading a team of engineers and mentoring them
+-Broad technical skills coverage, including, Internet technologies and protocols (e.g. HTML, XML, TCP / IP, HTTP), RDBMS, Open Source Exposure (e.g. Node.js, React, reactor, zmq, etc), Monitor/Matrix.
+-Broad experience with iterative development with quick release cycles, such as Agile/SCRUM/TDD methodologies and associated tools.
+-Experience in benchmark testing, performance analysis, and tuning with experience developing software benchmarks.
+
+【工作地點】台北市信義區
+
+【工作時間】週一

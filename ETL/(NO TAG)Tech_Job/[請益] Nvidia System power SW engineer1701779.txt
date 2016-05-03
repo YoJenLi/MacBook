@@ -1,0 +1,41 @@
+
+作者morrischen (porsche~my drive)看板Tech_Job標題[請益] Nvidia System power SW engineer1701779時間Tue May 13 22:11:29 2014
+最近收到了公司寄來的面試邀請函
+公司: NVIDIA_香港商輝達香港控股有限公司台灣分公司
+職務:SR. SYSTEM POWER SOFTWARE ENGINEER, Linux for TEGRA#1701779
+
+工作內容:
+Qualifications:
+The NVIDIA Linux for Tegra software team is looking for senior software
+engineers who will have the opportunity to work with cutting-edge mobile
+computing technologies built around the Tegra SoC. Ideal candidates will
+have a thorough understanding of Linux kernel internals, filesystems,
+distributions and user-space applications, with strong C programming and
+system-level debugging experience. Selected candidates will be required
+to work with an international team of hardware, system and software
+engineers in developing software for the next-generation of the mobile
+processors and SoCs.
+
+請問有經驗的前輩大大,Nvidia最近還會找人做業績嗎?
+他們真的有需要高階工程師嗎?還是免洗?
+
+其他條件:
+MINIMUM REQUIREMENTS:
+- 5+ years software development experience with a significant focus on Linux
+- Excellent C programming/debugging skills
+- Hands-on Linux kernel/user space programming experience
+- Excellent communication skill (verbal & written), plays well with others
+- Strong system-level debugging experience
+- Ability and flexibility to work and communicate effectively in a multi-national, multi-time-zone environment
+- Understanding and appreciation of computer system architecture and operating systems
+
+Bonus:
+- MS or PhD in Engineering
+- Experience in working with the Linux and open-source software communities
+- Technical leadership and mentorship experience
+- Experience with multiple Linux distributions and processor architectures
+
+就覺得要跨時區con-call還蠻操的,有做過的前輩大大,可以經驗分享一下嗎?
+若不方便在板上討論,可以私信聊
+感謝
+

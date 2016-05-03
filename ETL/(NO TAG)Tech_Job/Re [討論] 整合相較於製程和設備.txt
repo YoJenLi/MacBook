@@ -1,0 +1,35 @@
+
+作者Iamniketa (做人要低調點~~~)看板Tech_Job標題Re: [討論] 整合相較於製程和設備時間Sun Sep 29 14:24:22 2013
+※ 引述《johmdick (johmdick)》之銘言：
+: 剛剛看了幾篇比較製程和設備
+: 那個比較賽的文章
+
+~~~43~~~
+
+我來補刀一下好了
+
+先介紹一下 我的背景  DRAM PE==> DRAM TD==>傳產副課長==> PEI
+
+比“賽“ 只而更賽 沒有什麼好比的
+
+會“推“給別人或“推“出機制然後再'推'給別人  就不“賽“了
+
+有Issue / low yield
+
+EE 有本事 查完SPC/FDC/機台 就推給製程 再加上 highlight 製程        結案
+
+PE 有本事 看完設備的資料+前後 loop 的關係跟Porcess window 推給 PEI 結案
+
+PEI 有本事 找共同/找異常/推機制 再highligh 四大module
+    等報告==>整理報告==>再highligh 單一module                      結案
+
+OP/EE/PE/PEI/RD/TD都一樣 說好聽一下，就推一推，演一演戲，不要得罪別人
+
+常常都是自己(EE/PE) issue 造成 low yield 然後想辦法蓋，蓋不掉 PEI就highligh
+
+PEI loop 不熟，改製程 死貨 被客戶釘 剛好而以...........
+
+關係好，才是重點。
+
+嘴炮要會打，報告要會打，關係要打的好。
+

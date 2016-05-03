@@ -1,0 +1,36 @@
+
+作者xcloudx (U are the banana king!)看板Tech_Job標題[請益] Embedded相關技能與未來發展時間Wed Dec 24 20:36:02 2014
+大家好，
+我前一公司是做Bluetooth Embedded的，做了四年，
+目前有Bluetooth、MCU (ARM Cortex-M)經驗，
+接下來換工作有在考慮增加相關的技能，
+雖然希望下一工作可以長久待下去，但有時候蠻難說的，
+期許未來自已能成為業界所需的資深人材。
+
+我自已先做了一些功課，但不知是否正確，
+想請各位前輩幫忙我補充或是指正。
+我對Linux Embedded / RTOS特別感興趣，
+許多產品因為需要是必須上OS的，
+如果只會無OS的Embedded，還蠻吃虧的。
+希望各位可以給在下一些指點，
+感謝！
+
+1. Linux Embedded
+
+發展：Android Driver / 帶Moniter的小型系統，如汽車電腦 / 網路器材
+
+Linux Embedded 一定會碰到TCP/IP嗎？看到大多的職缺都是網路相關的。
+不知還有哪些常見應用？
+
+2. RTOS
+
+發展：好像沒有一定，但似乎是Embedded的必備技能。
+
+3. 影像辨識
+
+發展：IP Camera / 產線良率辨識
+
+4. 儲存技術
+
+發展：硬碟、Flash等
+

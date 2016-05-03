@@ -1,0 +1,36 @@
+
+作者Aqas (aqas)看板Tech_Job標題[請益] 關於一些系統廠的問題時間Tue Dec 18 17:42:52 2012
+
+想請問大家在網通行業，在 design house做 SoC 和 系統廠工作內容上的差別
+
+做 SoC 需要瞭解 linux kernel、driver和一些基本的電路知識，
+
+整個 SoC 系統聽起來像是包山包海什麼都做了。
+
+
+版上曾有人提過熟悉這些後進入系統廠也吃得很開，
+
+意思是說這部份才是整個系統最核心的部份，只有在 design house 才能接觸得到?
+
+相較於系統廠可能會玩許多 network protocol 之間的轉換或是客製化應用之類的，
+
+這些應該不是 design house 會做的事，跟做 SoC 的比起來，
+
+在系統廠的工作內容真的這麼沒價值嗎?
+
+還有系統廠也都會提到會碰到 driver，不知道 design house 和系統廠接觸的 driver
+
+差別在哪裡? 系統廠也需要熟悉各種 interface 之間的轉換嗎?
+
+還是就是 call function 之類的而已?
+
+
+不考慮 design house 的福利較好的事情，我想知道從工作內容的角度，
+
+為什麼版上會一面倒向 design house呢?
+
+
+問題有點多
+
+先感謝各位了!
+

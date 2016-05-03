@@ -1,0 +1,34 @@
+
+作者ljsnonocat2 (平凡是幸福)看板Tech_Job標題[新聞] 鈣鈦礦太陽能電池可用於窗戶的新方法時間Sat Mar 21 12:01:52 2015
+
+標題: New Trick Promises Perovskite Solar Films For Windows and Walls
+
+簡略翻譯一下重點...
+
+Perovskite solar cells(鈣鈦礦太陽能電池) 在近五年成為研究焦點
+效率從5%很快的進步到20%左右,  快接近矽晶25%
+
+鈣鈦礦太陽能電池吸引人的地方是比矽晶太陽能電池製造便宜，
+只要把前驅物化學溶液混合，塗佈在基材上加熱烤乾就可以得到鈣鈦礦結晶的薄膜。
+
+但是這個加熱過程會造成不均勻，而且留下孔洞在薄膜上面。
+布朗大學Nitin Padture教授表示:一般這個製程使用100~150度C加熱，也限制了
+製造在塑膠表面的應用。
+
+Padture教授的團隊利用了新方法，使用一種使用在石化業稱為NMP的溶劑，製造出鈣鈦礦
+前驅物。先將此溶液塗佈在基板上，再用另一種不同的溶劑把NMP清洗掉取代傳統加熱製
+程方法。
+
+這個方法可以得到大面積均勻的薄膜，而且光電轉換效率高達15%以上。傳統鈣鈦礦薄膜
+厚達300nm，而且黑而不透明。相較之下新方法可以做到20nm近乎透明的薄膜，透過調整
+前驅物的化學成分還可以改變薄膜顏色。
+
+這新製程方法也較傳統加熱得花一小時以上迅速很多，只需要2分鐘，很適合大量生產。
+
+此研究發表在"Chemistry’s Journal of Materials Chemistry A."
+
+原文網址:
+http://spectrum.ieee.org/energywise/green-tech/solar/new-trick-promises-perovskite-solar-films-for-windows-and-walls
+縮址:http://tinyurl.com/p9eht2m
+
+ 

@@ -1,0 +1,26 @@
+
+作者omichaelo (天)看板Tech_Job標題[徵才] 丞希綠色資訊時間Fri Sep  7 20:08:19 2012
+歡迎有興趣的伙伴一同加入我們團隊!^^
+
+
+詳情可見: http://chenghsi.com/career_index.html
+
+
+● 兼職類型1: 資深研究
+Social Network Development
+facebook, twitter programming
+PHP, PHP framework (俱有framewrok經驗更好)
+Ruby on Rails
+User Interface Development
+jQuery, YUI, java script programming
+Mobile App Development
+iPhone, Android programming
+
+● 兼職類型2: 初學實習
+系統程式開發 測試
+facebook, twitter programming
+PHP, PHP framework (俱有framewrok經驗更好)
+Ruby on Rails
+使用者介面 調適
+Server 效能 測試、驗證
+

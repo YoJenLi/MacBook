@@ -1,0 +1,36 @@
+
+作者arashi233 (arashi233)看板Tech_Job標題[徵才] 外商徵 Senior Network Engineer時間Mon Apr 11 07:33:33 2016
+【公司名稱】
+Robert Walters 代外商徵 Senior Network Engineer
+官方網站：http://www.robertwalters.com.tw/
+
+【工作職缺】
+Senior Network Engineer
+
+【工作內容】
+The network team is responsible for supporting Company’s corporate and production networks. This person will need to excel in a fast-paced, agile environment and deliver solutions across a complex network.
+Functions to perform
+-Monitor network usage and troubleshoot network issues
+-Work with WAN service providers, Telecommunication and others, to resolve complex network problems
+-Install and test operating system upgrades, firmware upgrades, security configurations
+-Participate in off-hours support and rotating “on call” schedule
+-Actively monitor network performance and network devices by understanding baseline deviations
+-Conducts industry research and provided recommendations for emerging trends
+
+【徵求條件】
+
+-TCP/IP network administration experience
+-Proficient in configuration and maintenance of switches, routers, and firewalls
+-Experience in day-to-day maintenance and management of operational networks in an operations environment
+-Experience with traffic analysis tools such as Wireshark or write script to parse tcpdump
+-Experience supporting and configuring Linux servers: CentOS and Ubuntu
+-Experience configuring and managing network load balancers
+-Able to write benchmark test using script to measure network related performance
+-Able to safeguard systems and databases from unauthorized access, unapproved usage, and threats to functionality/operation
+-A minimum of four years of related experience is required
+-CCNP is a big bonus
+-Previous experience in a multi-tenant environment is a plus
+
+【工作地點】台北市信義區
+
+【工作時間】週一

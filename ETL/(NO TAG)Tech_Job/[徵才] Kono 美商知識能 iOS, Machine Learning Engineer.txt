@@ -1,0 +1,33 @@
+
+作者wildmb (微風香水)看板Tech_Job標題[徵才] Kono 美商知識能 iOS, Machine Learning Engineer時間Fri Feb  6 12:51:15 2015
+【公司名稱】
+Kono 美商知識能股份公司
+https://www.thekono.com
+
+【工作地點】
+Xinyi Dist., Taipei City
+
+【工作職缺】
+1. Software Engineer, iOS engineer
+
+Here are what you'll help us accomplish:
+a. Design and implement new user-facing features in Kono’s products.
+b. Collaborate with designers to create innovative user experiences.
+c. Develop prototypes quickly to validate interactions and prove product
+   designs.
+d. Integrating iOS apps with back-end and third party web services with
+   iOS applications.
+e. Work with cross organizational teams and offshore teams in both
+   development and QA efforts.
+
+Requirements:
+a. BS or MS in computer science.
+b. Expertise in building complex applications for the iPhone or iPad using
+   Objective-C/C++ with Cocoa and other frameworks.
+c. Experience building mobile application development at the user interface
+   and system levels.
+d. Experience writing unit tests and testable code.
+e. Experience using git version control system.
+f. Able to professionally communicate with other team members.
+g. Experience developing Android application is a plus, but is not required.
+

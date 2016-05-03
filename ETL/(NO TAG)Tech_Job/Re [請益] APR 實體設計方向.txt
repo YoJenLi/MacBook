@@ -1,0 +1,117 @@
+
+作者BloodFan (Blood Fan)看板Tech_Job標題Re: [請益] APR 實體設計方向  時間Sun Nov  8 01:27:15 2015
+※ 引述《pooboy01 (一點小聰明)》之銘言：
+: 權限問題代朋友po
+: 各位前輩好
+: 平常會常來科技版看一些資訊
+: 目前碩一，想研究的方向是IC 流程 back-end的部分
+: 對於Physical design APR方向比較有興趣，
+: 但屬較後端部分，有爬過文了解一下目前現況，
+: 但文章資訊比較少，想發文請教出社會的前輩們，
+: 未來晶片朝向更細微nm已經到了極限的地步，
+: 對於未來實體設計也變得更加困難，但對此領域還蠻喜歡，
+: 請問前輩如果現在想走APR方向，路可能會比較窄(?)
+: 未來APR需求量會不會變得很少，因為走這條路比較算要走的精(?)
+: 對於目前碩論方向，值得做這方面的研究嗎?
+: 懂得不多，請前輩不吝指正
+: 謝謝~!
+
+簡述一下背景
+
+我本身就是Physical Design的實驗室畢業
+
+做了APR工程師兩年多
+
+分享一下心得
+
+
+
+以碩論研究方向，大體來說可以分成兩類
+
+一個是傳統的Physical Design 包含:
+
+  1. Floorplan
+
+  2. Placement
+
+  3. Clock Tree
+
+  4. Routing
+
+一個是Design for Manufacturability
+
+因應先進製程產生的問題，來解決問題
+
+這個例子很多，包山包海，你能找到沒人做過的題目，就很容易發揮
+
+  例如:
+
+  1. double/triple.... patterning
+
+  2. E-Beam
+
+  3. EUV
+
+基本上這些研究，都是屬於演算法開發以及寫程式(C++)為主，
+
+所以甚至會有資工系的來讀，
+
+有興趣的話，可以先去找一些大型會議 (DAC/ICCAD/ISPD) 的paper來看
+
+
+
+未來出路的話，也可以分成幾類
+
+1. 若是你喜歡寫程式，做tool，可以選擇加入EDA公司
+
+   比如說Synopsys, Cadence, A-top 等等
+
+2. 若是你對先進製程的問題研究相當有興趣
+
+   台積電也有flow相關的研究部門
+
+3. 若是你想應用所學知識，做出一個chip
+
+   就可以應徵APR工程師實際操作tool/寫script/解DRC/LVS到tape out
+
+
+甚至是有其他相關的也都滿合適的，
+
+像是 IR Sign-off / Timing Sign-off / Design flow 開發
+
+雖然整個PD的圈子很小，但是選擇也還是很多
+
+
+至於人力需求上，先進製程只會使需求越來越高
+
+在達到spec的同時，也要做到省power/area，還要meet schedule
+
+目前design的複雜度完全不是靠EDA Tool push buttom就能解決的
+
+就拿剛剛列的研究中最古老的問題之一 Floorplan (擺放Macro/SRAM的位置)
+
+這個問題已經被研究多年，並且有許多自動化的演算法
+
+那為什麼大家還是自己用手擺那幾百顆SRAM而不是用Tool擺?
+
+因為經驗上來看還是專業的APR工程師手擺的結果比較好
+
+EDA Tool考慮的東西依然不足
+
+隨著製成演進，Design變大，切割出來的partition就更多
+
+比如說I-PHONE 6S 的GPU就需要大概6~7人的APR Team大約做個一年
+
+更不用說還有複雜的 LTE/CPU/SOC 等等
+
+一個chip的APR就要幾十人，還沒算上sign-off/flow開發/front-end的人力
+
+
+除非EDA Tools有革命性的大突破，
+
+不然還是需要許多APR工程師調Floorplan/Try Flow/修timing/修Shorts/修DRC/LVS...
+
+
+
+以上是一些心得分享:)
+

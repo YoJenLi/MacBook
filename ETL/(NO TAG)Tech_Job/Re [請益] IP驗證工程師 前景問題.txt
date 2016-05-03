@@ -1,0 +1,53 @@
+
+作者waitrop (嘴砲無雙)看板Tech_Job標題Re: [請益] IP驗證工程師 前景問題時間Sun May 10 12:27:23 2015
+
+小弟分享一下意見，
+數位驗證工程師可以大致分成幾種類型：
+1. Block level: 主要跟DE合作，寫UVM, SV 打訊號做測試，
+這是最底層的驗證，必須對block design, micro-architecutre很熟，
+
+2. Top level: 主要跟 Architect合作，
+對於block level的訊號無法完全準確抓出來，
+畢竟每個block 訊號每天都在改名或是改連線，
+Top level的人不可能一直掌握住，
+主要是寫Top level testbench (UVM, SV), assembly, C, scripts
+必須對Linux kernel, Architecture 很熟
+
+3. Emulator/FPGA/Silicon:
+如何在晶片上面做驗證跟測試，其實這塊最難
+
+目前業界情況非常缺乏驗證工程師，
+我是不知道價碼是否有比Designer高，
+但是我知道非常非常缺人，
+以職缺數量而言，block level職缺開最多，
+每家都在找一堆人寫block level UVM, SV
+Top level相對職缺比較少, emulator/FPGA驗證的職缺最少
+
+然而以難度跟缺乏程度而言，個人認為剛好相反，
+block level要找驗證的人不難找，很多人會，
+top level要找到驗證的人就少了，原本職缺也開得少，
+要找到emulator/FPGA/silicon上的驗證人才，開個兩三年也都找不到人
+業界也非常少這個職缺，
+而且晶片最後把關，最後能夠找到bug的，都是在emulator上面
+
+在華人世界，驗證其實真的不被重視，
+會做驗證的人很少，做design的很多，
+反而印度人在block level的驗證人才很多，UVM SV很能說，
+至於Top level 跟emulator/silicon 的驗證人才到哪都很少，
+目前看到都是二三十年工作經驗的白人，
+很多其實都是軟體背景出身,
+經歷過整個電腦演進史的老怪物們，
+這些人很多都是參與過unix/linux kernel 開發
+
+
+※ 引述《ggggggh (ggggggh)》之銘言：
+: 朋友權限不夠   代問 IP驗證工程師的前景如何
+: 目前  朋友應徵上Design 與 IP驗證工程師
+: 因Designer是台商小公司  而驗證工程師則是外商頂級公司缺
+: 兩者年薪差不多    驗證工程師的內容為用UVM與system verilog去驗要用的IP
+: 請問各位大大  驗證工程師未來的年薪成長幅度會和Designer相等嗎？
+: 因朋友擔心  過了三年之後  驗證工程師不好跳Designer  要是成長幅度又不高
+: 那還不如直接到小公司當Designer
+: 各位大大可否提供一些業界的意見
+: 謝謝
+

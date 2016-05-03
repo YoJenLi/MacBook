@@ -1,0 +1,36 @@
+
+作者sentinels (no..)看板Tech_Job標題Re: [討論] 為何Apple要自己設計手持裝置處理器時間Mon Aug 27 00:13:22 2012
+當然是因為成本考量
+這種不整合通訊的CPU
+一堆亞洲公司在做
+這種CPU大部分都是用在平板電腦上,也有用在手機上
+大陸廠商 : Rockchip , Infotmic, Allwinner
+台灣 : VIA
+韓國 : Telechip, Samsung
+USA : Amlogic, Freescale
+Japan : Renasas
+不知道今年有沒有新的廠商進來
+大陸作CPU廠商超多的, 現在都是全民做IC阿
+買IP來兜一兜, 好像不難？
+CPU都是ARM core
+GPU就Imagination, ARM （自己養GPU team那才是難？）
+Q社, N社聽說賣的很貴,剛好這兩家都有自己的GPU技術
+MTK的GPU也是用買的吧？Imagination?
+有多少人贊同張董講的, 大陸設計,台灣製造這句話？
+
+※ 引述《justiceGG (正義GG)》之銘言：
+: 小弟一直很疑惑這個問題
+: 身為全球最大系統廠的Apple
+: 在Iphone IPad 的硬體裡幾乎都是向外採買(EX:面板 鏡頭 無線通訊晶片..etc)
+: 但唯獨處理器Apple 堅持自己Design A series
+: 到底原因為何呢?
+: 依常理說與高通 or NV 買晶片應該會大幅降低成本
+: 花大錢養一大群IC design的人還要自己找晶圓代工廠代工
+: 不是很費時費力費錢嗎? 何況最後只能用在自家產品
+: 不能像Q社 N社到處賣 怎麼想都是吃力不討好的工作
+: 難到是市面上所有處理器都無法滿足Apple的要求嗎?!
+: 究竟是什麼原因呢?
+: 題外話一下
+: Apple雖然不是專做核心的...但設計能力看起來完全不輸各大廠
+: 真是太恐怖了
+

@@ -1,0 +1,18 @@
+
+作者acmonkey (紅豆燒餅)看板Tech_Job標題[請益] 螃蟹 通訊系統工程師時間Wed Sep 30 09:34:06 2015
+如題
+小弟接到螃蟹的面試邀請 剛面試完
+但還是想多了解這個職缺的工作內容 所以上來請教
+
+104網頁的敘述如下
+
+(1) IEEE802.3 (ab/z) Ethernet相關領域
+(2) IEEE802.11(a/b/g) Wireless LAN相關領域
+(3) DSP programming/algorithm in Communication field
+(4) RF、Microwave, AD/DA, FPGA硬體設計經驗者
+(5) 熟C、Assembly，具DSP及audio / video processing 相關經驗或興趣者
+(6) Ethernet switch, SOHO router/Home gateway , IEEE 1394硬體設計相關領域
+(7) 三年以上實體層數位信號處理設計經驗，熟DMT、OFDM或ASIC邏輯線路設計者尤佳
+
+非常感謝大家的指點
+

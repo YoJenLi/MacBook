@@ -1,0 +1,47 @@
+
+作者j54007j (殘月~痕)看板Tech_Job標題[徵才] Technician specialist at KAUST時間Sun Mar  1 18:16:15 2015
+
+King Abdullah University of Science and Technology(KAUST)
+
+Job Purpose:
+A joint engineer position is available for working on a collaborative project
+under the supervision of Dr. Zhong Lin Wang at Georgia Institute of
+Technology (Georgia Tech) and Dr. Jr-Hau He at King Abdullah University of
+Science and Technology (KAUST). The candidate will work and be based at KAUST
+but will spend some times in Dr. Zhong Lin Wang's lab at Georgia Tech to
+learn the device fabrication.
+The candidate will develop a triboelectric nanogenerator (TENT) system. This
+research is expected to harvest water energy from ocean using an integrated
+assembly of small unit triboelectric generator in a 3D network. A competitive
+salary is offered to prospective candidates (offer ~50K USD/year for the
+engineer with MS degree, tax free at KAUST).
+
+Duties and Responsibilities:
+A R&D engineer will develop TENT system and self-powered sensor based on TENT
+in ocean and be responsible for inventing, reapplying, and preparing for,
+process, packaging technologies, and market breakthrough product.
+The R&D engineer need to work in a variety of roles including designing and
+testing machinery, developing ways of improving existing processes for
+meeting the needs for commercialization.
+  For more details about TENT for harvesting ocean energy, please refer
+to two papers below:
+1. Networks of Triboelectric Nanogenerators for Harvesting Water Wave Energy:
+A Potential Approach toward Blue Energy
+(http://www.nanoscience.gatech.edu/paper/2015/15_ACSN_02.pdf)
+2. Triboelectric nanogenerators as new energy technology and self-powered
+sensors – Principles, problems and perspectives
+(http://www.nanoscience.gatech.edu/paper/2014/14_FD_01.pdf)
+
+-Essential Requirements
+Master degree in science and technology
+Excellent oral presentation, communication and networking skills and
+inter-personal ability
+Good team player and comfortable in multi-cultural settings
+
+For interested applicants please send a cover letter, CV, and contact
+information of three references to Prof. Jr-Hau (J.H.) He at
+jrhau.he@kaust.edu.sa
+
+
+代PO請勿站內信
+

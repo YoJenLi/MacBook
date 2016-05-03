@@ -1,0 +1,15 @@
+
+作者starshine1 (star)看板Tech_Job標題[請益] 手機廠pcb layout時間Tue Nov 19 23:10:57 2013
+想請問想付費學手機的pcb layout(如何layout),有推荐的課程嗎?謝謝
+
+(一)自強基金會
+(i)PCB Layout之安規與EMC最佳化設計實務
+(ii)高頻電子連接器產品設計、分析與量測實務
+http://edu.tcfst.org.tw/query_course.asp?shan2=02K013&openmonth=none
+
+(二)映陽科技有Allegro課程
+http://www.graser.com.tw/training_spb.htm
+
+(三)茂積有pads教學
+http://tinyurl.com/kmq7gw9
+

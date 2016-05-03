@@ -1,0 +1,13 @@
+
+作者Ferrara (紅燒冰淇淋)看板Tech_Job標題[請益] Android 請益時間Sat Jul 11 18:12:35 2015
+通常Android AP team主要是寫Java
+透過JNI去call C library的函數 甚至是讓C能夠call回JAVA
+甚至從C層往下探 可能還會碰到接近kernel space的API
+
+通常BSP team主要是maintain kernel/做控制driver的軟體
+甚至是直接maintain driver本身
+
+想問的是
+接近userspace工作經驗 和 接近kernel space的工作經驗
+有沒有機會能相輔相成??
+

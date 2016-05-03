@@ -1,0 +1,11 @@
+
+作者qwrt (Jeffson)看板Tech_Job標題[面試] 浩鑫電腦時間Wed May 15 19:20:35 2013
+最近收到浩鑫電腦面試，職務是測試工程師。
+工作內容
+1.Digital signature軟體測試
+2.Face Recognition軟體測試 => Windows or Linux
+3.其他應用軟體test
+
+上網看了一下不曉得浩鑫的近況如何，XPC產業目前前
+景如何?有人有面試過嗎?
+

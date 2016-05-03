@@ -1,0 +1,7 @@
+
+作者SadJoe (Masterless)看板Tech_Job標題工廠內window作業系統PC based control的即時性時間Fri Oct  2 17:25:24 2015
+大家在工廠內有碰過PC based control的即時性問題嗎？據說目前業界最即時的作業系統也不是Linux
+好想聽聽八卦啊
+應該要避免使用pc based control在工廠哪些場合呢？
+
+

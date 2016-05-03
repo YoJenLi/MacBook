@@ -1,0 +1,27 @@
+
+作者rifiz (薩哈拉雅)看板Tech_Job標題[請益] In-House Tool??時間Sun Jan 27 15:49:39 2013
+
+請問大家一下齁, 發現像是TSMC裡除了跟EDA vendor合作也買他們的軟體來使用之外
+
+裡面居然也有編制跟vendor相同的人員  當然沒有那麼完整  但是戰力看起來也可
+
+以幹出不少好東西了(覺得只差在想不想跟c/p值划不划算罷了)  問了一下朋友他說這
+
+一般統稱在做 In-House Tool.....
+
+
+那不解的是In-house Tool有像Vendor那樣自幹演算法 自幹methology那樣的程度嗎? 個
+
+人是覺得自幹演算法比起要自幹基礎建設要容易一些(省去寫一堆database 一些
+
+container的時間) 可以專心在解決問題上阿
+
+
+那像是MTK也有In House Tool開發工程師 該不會只是開發GUI吧 XDDDDDDDDDDDD
+
+各位先進哪位有相關經驗的能幫忙大家解惑一下嗎??
+
+
+
+感謝~~
+

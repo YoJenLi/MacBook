@@ -1,0 +1,32 @@
+
+作者chester102 ()看板Tech_Job標題Re: [請益] ICE(in circuit emulator) for 嵌入式系統時間Thu Oct 17 23:18:16 2013
+※ 引述《Hyozero (123)》之銘言：
+原文恕刪
+: 好奇wiki裡寫的:
+: 1.An "emulator" gets its name because it emulates (imitates) the central
+:   processing unit of the embedded system's computer.
+:   請問它是怎麼模擬CPU的阿？本來在板子上的CPU不是還在上面嗎？
+那篇前面有提到一開始的emulator的確是可以插在板子上模擬CPU
+不過以現在ICE的用途其實是誤稱(misnomer)，我其實比較習慣講debugger
+現在還是有些CPU可以用emulator模擬，不過都是比較小的MCU像是8051和AVR
+: 2.Notably, when their program fails, most embedded systems simply become inert
+:   lumps of nonfunctioning electronics . Embedded systems often lack basic
+:   functions to detect signs of software failure, such as an MMU to catch memory
+:   access errors.
+:   請問為何說Embedded system沒有可以檢查software failure的功能呢？
+:   小弟的公司是用uart或I2C去讀code run時的print message或register值，這樣的功能
+:   算是後來再附加上去的嗎？
+用UART或I2C debug的前提是CPU還可以執行程式
+如果因為一些原因bus hang住了，或是CPU讀到錯的指令跑飛了，就沒辦法這樣debug
+這種情況就要靠ICE透過JTAG直接控制CPU來debug
+: 3.With an ICE, the programmer can usually test pieces of code, then isolate the
+:   fault to a particular section of code, and then inspect the failing code and
+:   rewrite it to solve the problem.
+:   這部份實在無法理解了，為何ICE能夠做到把code切分段去debug呢？
+你可以在code裡面加break point，當CPU跑到break point的時候就會停下來
+停下來之後可以透過ICE檢察系統狀態看是否正常
+所以就可以知道跑到那段code前是沒問題的
+另外也可以用step一步一步執行看程式會掛在那裡
+
+以上是個人淺見，如有誤還請幫忙指正~
+

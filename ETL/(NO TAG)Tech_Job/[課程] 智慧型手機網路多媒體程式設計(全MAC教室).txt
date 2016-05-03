@@ -1,0 +1,7 @@
+
+作者gyseven ()看板Tech_Job標題[課程] 智慧型手機網路多媒體程式設計(全MAC教室)時間Wed Jun 13 21:40:01 2012
+課號      SC4302
+課名      智慧型手機網路與多媒體程式設計(含實作15小時）
+           Network and Multimedia Programming in Android and iPhone
+授課教師  高榮鴻 (交大電機系副教授)
+

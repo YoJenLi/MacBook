@@ -1,0 +1,29 @@
+
+作者arashi233 (arashi233)看板Tech_Job標題[徵才] 美商DevOps Engineer時間Tue Mar 31 22:39:23 2015
+[徵才] 美商DevOps Engineer
+【公司名稱】
+Robert Walters 代美商徵
+官方網站：http://www.robertwalters.com.tw/
+
+【工作職缺】
+DevOps Engineer
+
+【工作內容】
+‧ Working on the implementation and maintenance of the server infrastructure
+that makes our Cloud platform tick along nicely. Including:
+-  Monitoring servers
+-  Deploying package updates programmatically
+-  Implementing web server APIs and service outage resolution.
+【徵求條件】
+1. Bachelor degree or above in Computer Science
+2. Experience using AWS (Amazon Web Services)
+3. Previously worked as a DevOps/Systems or Systems Administrator
+4. Hands on experience with UNIX-like servers administration
+5. Knowledge of scripting languages such as Bash, Shell or Python
+6. Experience with nodeJS, Chef, Puppet, Docker or OpsWorks desirable
+7. Attention to detail and think-outside-the-box mentality
+8. Good command of English
+
+【工作地點】台北市大安區
+
+【工作時間】週一

@@ -1,0 +1,26 @@
+
+作者HowLeeHi (處處留心皆正妹)看板Tech_Job標題[討論] 寫系統程式的能力？時間Tue Aug 27 21:42:01 2013
+
+最近看到一篇清大教授鍾葉青的文章
+
+http://www.ithome.com.tw/itadm/article.php?c=82094
+
+說雲端的時代，國內很少人有能力寫系統程式
+
+之前有看過翟本喬在TED開一場有關於雲端運算的演講
+
+https://www.youtube.com/watch?v=92AClPNP_gY
+
+最後他說，國內很多人會玩linux，但又有幾個人會寫os呢?
+
+這是因為需要真正懂系統，而不是只有應用的人嗎@@
+
+今還有看到這篇文章
+
+http://www.ithome.com.tw/itadm/article.php?c=82072
+
+華碩雲端總經理吳漢章說雲端時代還需要會寫組合語言的人...
+
+目前compiler的效能跟演算法的效率還不足以完成這些事嗎?
+
+

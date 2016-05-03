@@ -1,0 +1,59 @@
+
+作者ygl (???)看板Tech_Job標題[徵才] 科勝訊股份有限公司誠徵軟體工程師時間Tue Apr 22 23:35:57 2014
+公司名稱： 科勝訊股份有限公司(http://www.conexant.com/)
+
+職位名稱： 軟體工程師
+
+工作地點： 台北市內湖區(近西湖捷運站)
+
+工作說明:
+  Software engineer, Android development
+
+  We are looking for someone with strong experience in Android Operating
+  System.
+
+  You will drive the design of Conexant’s  Android audio extensions
+  and all the way through a world-class implementation, and take it to
+  production.
+
+  This is a hands-on individual contributor role.
+
+Responsibilities:
+  Collaborate with cross functional groups such as product managers,
+  testers, application developers
+
+  Design & develop core extensions for Android OS/framework
+  Support functionality necessary for the Application developers, by
+  providing well-abstracted APIs
+
+  Own & maintain the Android platform, by participating in
+  code-reviews, from various contributors
+  Ensure the platform is compliant & stable for shipping, by keeping
+  a high standard for the platform code
+
+Qualifications:
+  B.S. Computer Science or 4+ years in relevant work experience
+  3+ years of Android OS/framework development experience
+
+  Experience in adding functionality to the Android OS
+  Passionate about building high-responsive, fault-tolerant, robust
+  libraries & extensions.
+
+  Fluency with Linux, C++ or C programming
+
+  Linux Driver experience preferred
+
+  Independent self-starter in a fast-paced environment, with
+  attention to quality
+
+  Experience with open source development
+
+
+工作時間：09:00 - 18:00
+
+休假方式： 周休二日（特休優於勞基法）
+
+薪資範圍： 年薪 NT1.2M~1.6M
+
+履歷投遞 : Nick.Lu@conexant.com
+

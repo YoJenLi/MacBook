@@ -1,0 +1,35 @@
+
+作者xanter (南宮恨)看板Tech_Job標題Fw: 11/15世界第一溫度感測IC設計者蒞臨台科大演講時間Fri Nov  9 17:43:41 2012
+※ [本文轉錄自 Electronics 看板 #1Gd8nx45 ]
+
+作者: alex7891 (meditation) 看板: Electronics
+標題: 11/15世界第一溫度感測IC設計者蒞臨台科大演講
+時間: Fri Nov  9 12:54:16 2012
+
+
+自2010年 Kofi A. A. Makinwa 教授投上7篇ISSCC論文之後，2011與2012再度發表5篇與4
+篇ISSCC論文，其研究成果可說是威震八方，想知道個中奧祕嗎？歡迎免費報名參加。
+
+本系為提升積體電路設計相關師生與從業人員之研發能力，並拓大國際交流層面，有幸再
+度邀請IEEE傑出演講者Kofi A. A. Makinwa 教授來台演講，Kofi來自夙有歐洲MIT美稱之
+荷蘭Delft University of Technology，主要專長在於高精度類比電路設計，尤其在智慧
+型溫度感測器的設計上最為獨到，至今無人能為其左右。除了在IC設計奧林匹亞競賽的
+ISSCC殿堂發供發熱外，Kofi歷年來亦獲獎無數，包含JSSC 2005 best paper award、
+ISSCC 2006 Jan van Vessem award、ISSCC 2008 Jan van Vessem award、ISCAS 2008
+Best student paper award、ISSCC 2008 Jan van Vessem award、ESSCIRC 2009 Young
+Scientist award、Transducers 2011 Best paper award…等等，成果斐然，傲視國際舞
+台。
+
+本次演講再度以他最拿手的智慧型溫度感測器為題：「Designing Smart Sensors in
+Standard CMOS」，內容以智慧型感測器之設計，其應用之廣，涵蓋生醫電子、綠色能源
+、家用電子、民生電子、汽車產業、建築防災、疾病管制…等產業，深具市場與研究價值
+，以其IEEE傑出演講者的身分，保證精采可期。參加者還有免費餐點供應，『有吃又有掠
+』、『好康鬥相報』，機會難得，欲報從速，以免向隅。Makinwa 教授的另外一場精采演
+講「Precision CMOS Amplifiers」訂在11/15下午3:00在成大電機系館靄雲廳舉行，亦誠
+摯歡迎踴躍參加。相關資訊及報名網頁如下：
+
+台科大場報名網址：http://www.ece.ntust.edu.tw/talk/
+成功大學場報名網址：http://green.ee.ncku.edu.tw/?page_id=75&event_id=42
+
+
+

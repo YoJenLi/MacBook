@@ -1,0 +1,38 @@
+
+作者arashi233 (arashi233)看板Tech_Job標題[徵才] 美商 SW Engineer (HTML5/NODEJS)時間Sun Mar 22 22:32:32 2015
+【公司名稱】
+Robert Walters 代美商徵
+官方網站：http://www.robertwalters.com.tw/
+
+【工作職缺】
+SW Engineer (HTML5/NODEJS)
+
+【工作內容】
+
+1. Working on a variety of Engineering tasks as required by the team,
+   including:
+   -  New feature development
+   -  Issue investigation and resolution
+   -  Resolution verification / testing automation
+   -  Researching new technologies
+2. Ability and the needs of the team will dictate the projects you will work
+   on, including
+   -  Front-end
+   -  Back-end
+   -  Database and API development.
+3. To determine exclusively by the demonstration of your ability and the
+   results you achieve.
+
+【徵求條件】
+1. Bachelor degree or above in Computer Science
+2. Knowledge of at least one OOP language (e.g. Java or C++)
+3. Working knowledge of at least one of the following: NodeJS, HTML5/CSS,
+   Javascript client frameworks
+4. Prior working knowledge of PHP, Actionscript preferred
+5. Previous working experience in agile development teams is a plus
+6. Attention to detail and think-outside-the-box mentality
+7. Good command of English
+
+【工作地點】台北市大安區
+
+【工作時間】週一

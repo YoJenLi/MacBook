@@ -1,0 +1,29 @@
+
+作者egnaro123 (原po是大叔)看板Tech_Job標題Re: [新聞] 聯發科併購矛頭 將瞄準瑞昱時間Sun Jul 29 19:14:53 2012
+
+這老實說在M merge 掉 r之後,機率就幾乎為0了
+
+R的強項在於audio/video decoder/ethernet
+
+這幾項在業界市占率相當高, 其中video重複,
+
+所以對M有用的是ethernet和audio,
+
+但是wifi部門,在R的管理階層可能是坐在重要位置,
+
+人也不少,
+
+merge十之八九會砍掉wifi engineer和中層管理層,
+
+還沒merge r時還有可能,但是現在機率可以說很小了,
+
+現在的R也沒法談出好價格,不如不併,
+
+談個人猜測應該是merge r時, M同時和r和R談的,
+
+ethernet/audio對Windows ARM的新PC市場還是很重要的
+
+其中ethernet, q有一整套產品線, 其實ethernet MAC ,M大可自己做,
+
+再叫j做phy就好了,都同個老闆
+

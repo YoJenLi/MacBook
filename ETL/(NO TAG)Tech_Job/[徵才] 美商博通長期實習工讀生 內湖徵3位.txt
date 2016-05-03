@@ -1,0 +1,103 @@
+
+作者BTmail (買一起專用信箱帳號)看板Tech_Job標題[徵才] 美商博通長期實習工讀生 內湖徵3位時間Wed Mar 20 09:54:26 2013
+公司簡介 (About Broadcom)
+
+在有線/無線通訊半導體產業中，Broadcom Corporation 不僅是卓越的技術創新者，也是全球領導者。Broadcom 的產品涵蓋家庭、辦公室與行動環境等範疇，滿足語音、視訊、資料與多媒體等應用需求。我們為運算與網路設備、數位娛樂與寬頻存取產品及行動裝置的製造商提供業界最多元化、最先進的系統單晶片與內嵌軟體解決方案。這些解決方案在在都支援我們的核心使命：Connecting everything。
+Broadcom，全球最大的無晶圓廠通訊半導體公司之一，2010 年收益為 68.2 億美元，持有超過 5,100 項的美國專利 及 2,200 項的國外專利、另有超過 7,700 項的申請中專利，已躋身擁有最豐富智慧財產權產品組合的公司行列之中，能夠兼顧語音、視訊、資料與多媒體的有線與無線傳輸。
+名列 FORTUNE 500 企業的 Broadcom，其總公司位於美國加州爾灣 (Irvine)，分公司與研究機構遍佈北美洲、亞洲與歐洲。網站為：www.broadcom.com
+
+主要商品／服務項目
+
+瞭解 Broadcom 的產品如何不斷突破革新無線與有線網路的頻寬與效能，將語音、視訊和資料服務帶給全球消費者和企業。Broadcom
+ 廣泛的矽晶片解決方案產品組合，能滿足各種通訊業領域的需求，結合我們的軟體、參考設計與傑出的工程支援，客戶便能採用我們具有最佳效能的革新解決方案，迅速進入市場。
+
+美商博通實習工讀生職缺 - 內湖
+上班地點： 台北市內湖區瑞光路399號6樓
+統一編號：28988793
+  公司負責人：沃德安
+  公司名稱：美商博通國際研發服務有限公司
+  公司地址：臺北市內湖區瑞光路399號9樓
+  公司電話：2656-6500
+
+公司福利
+1.週休二日
+2.享勞保、健保、團保
+3.公司環境優,EWC 福委會,家庭日,提供飲料櫃及優良的用餐區
+
+職務聯絡人： 林小姐 Diana
+             dianalin@broadcom.com
+             1.請上傳英文履歷表:https://sjobs.brassring.com/1033/ASP/TG/cim_home.asp?partnerid=25231&siteid=5283
+             2.e-mail Diana 履歷表及想面試的職務名稱
+
+1.職務名稱： Intern - Engineering 台北(長期實習工讀生) 限就讀學生
+  需求人數： 1~2人
+  職務類別： 測試人員、軟韌體測試工程師
+  職務說明： 工作內容:
+             1. Support PQA engineer to execute acceptance test procedures
+             2. Support PQA team to setup PC / Laptop or test equipment
+             系統測試、環境架設
+
+             徵求條件:
+             1.每週可工作30+小時以上(周一至週五)
+             2.夜校生，理工科系所較佳，細心且能舉一反三者更優。
+             3. Expertise in the use of Windows operating system is a must and use of Linux is a plus
+             4. Technical experience with Windows and PC Configuration, installation, testing or troubleshooting.
+             5. Familiar with system image application such as Norton Ghost
+             6. Computer Science or computer engineer major
+             長期工讀, 9-12個月, 視專案調整
+
+
+2.職務名稱： Intern Engineering - 長期硬體實習生工讀生 (23899BR) 限在學生
+  需求人數： 1人
+  職務類別： 硬體研發工程師
+  職務說明： Intern required to support hardware AE engineer on customer
+             support affairs, PCBA design, and laboratory management.
+             硬體實習生 – 協助硬體工程師解決電路板設計、客戶支援服務與實驗室管理上的相關問題
+
+             工作說明以及徵求條件:
+
+             - 電子零件銲接及重工
+             - 訊號及電源功耗量測
+             - 儀器及開發板存量管理
+             - 了解量測儀器的基礎使用，如示波器、電源供應器等
+             - 協助儀器或電子零件採購
+             - 具有基礎電路分析能力
+             - 具備硬體規格書(電氣特性)閱讀能力
+             - 良好的英文溝通能力
+
+             其他條件： 1.有PC Board Design 相關經驗尤佳
+                        2.Must currently be enrolled in school 在學生
+                        長期工讀, 6個月以上, 視專案調整
+
+
+3.職務名稱： Intern - 長期實習生工讀生 (23982BR) 限在學生
+  需求人數： 1人
+  職務類別： 測試實習工程師
+  職務說明： 簡單的報帳、採買、寄件、備料打件、焊接與簡易硬體測試等，
+             確定的工作內容會在面試時說明。
+
+             徵求條件:
+             理工科系所較佳，細心能舉一反三者更優。
+             長期工讀, 12個月
+
+面試時間：
+收到履歷後會陸續面試, 約一周後
+
+薪資：
+上班日薪資：優於勞基法109以上，依學經歷做調整，往上調幅可超過50％
+國定假日薪資：平常日薪資 x 2
+      加班費：第9-10小時是平常日薪資 x 1.33
+              第11-12小時是平常日薪資 x 1.66
+
+薪資發放日：
+每月25日發放前一個月11日至這個月10日之薪資
+
+
+職務聯絡人： 林小姐 Diana
+             dianalin@broadcom.com
+             1.請上傳英文履歷表:https://sjobs.brassring.com/1033/ASP/TG/cim_hom
+             2.e-mail Diana 履歷表及想面試的職務名稱
+
+
+
+

@@ -1,0 +1,37 @@
+
+作者NVidiaHR (NVidia HR)看板Tech_Job標題[徵才] NVIDIA 輝達 104年度研發替代役開跑中時間Mon Sep 15 10:46:35 2014
+
+NVIDIA 輝達 104年度研發替代役開跑中，
+歡迎軟體專才同學有興趣可將於9/19(五)至台北辦公室參加筆試。
+中南部同學們可參加10/8(三)台南成功大學光復校區多功能會議廳場次。
+
+
+報名方式: 請將您的中文或英文履歷寄到  tw-recruitment@nvidia.com 做登記，筆試當
+天請攜帶一份中文或英文履歷。
+
+考試內容: C/C++ (65%) Java / Perl/ Phython/ Script (15%)/ Concept (20%)
+
+考試地點: NVIDIA 台北辦公室 台北市基湖路8號
+
+薪資: 年薪保障六十萬以上(根據不同職務會作調整)
+1. Mobile System Software Engineer (台北)
+2. Mobile Software Customer Engineer (台北)
+3. SW QA Engineer (台北)
+4. Test Engineering Methodology Engineer (新竹)
+5. DFT Engineer (台北/新竹)
+6. Test Engineer (新竹)
+7. Silicon Validation Engineer (台北)
+
+
+詳細工作內容請參考http://0rz.tw/UP1tq
+
+★1~4職務會行統一筆試
+‧九月場:9/19/2014(星期五)下午2點，台北內湖辦公室
+‧十月場:10/8/2014(星期三)下午2點，台南成功大學光復校區多功能會議廳
+‧十一月場:暫定11/7/2014(星期五)下午2點，台北內湖辦公室(但會依招募狀況取消或
+如期舉行)
+
+★5~7職務會另行筆試/面試
+如有興趣，請將您的英文履歷寄送到 tw-recruitment@nvidia.com，有任何問題歡迎發信
+至同一信箱，會有專人回覆。感恩!
+

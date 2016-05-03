@@ -1,0 +1,18 @@
+
+作者wherefrom (難的)看板Tech_Job標題Re: [請益] 創發科技時間Thu Oct 22 11:25:51 2015
+
+聽說最近在光纖部分totalsolution 在China 還不錯 ? 如果是HW部分 , 想請教各位前輩,
+裡面工作氣氛, 薪資待遇, 發展前景 如何 ?
+至於想期待正常工時是不是別指望了?
+
+謝謝各位前輩
+
+
+※ 引述《hochrist (ㄚ虎)》之銘言：
+: 有爬過文, 就是之前的誠致科技, 目前是聯發科百分之百持股子公司 未上市
+: broadband IC house 工作內容是SW RD, 應該就是做BSP, bring up chip, driver之類的
+: 想請教各位前輩, 裡面工作氣氛, 薪資待遇, 發展前景等等
+: 另外, 之前跟雷凌併一起, 感覺就是跟瑞昱,broadcom一樣有wifi及broadband access
+: 的total solution 現在又被獨立分出來  有什麼特別考量嗎?
+: 謝謝各位前輩
+

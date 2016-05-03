@@ -1,0 +1,35 @@
+
+作者Ftso (白吉)看板Tech_Job標題[徵才] 鴻鼎資訊有限公司 - PHP Server 工程師時間Mon Dec  8 11:08:43 2014
+公司名稱:
+鴻鼎資訊有限公司
+
+職務說明：
+[一般日常工作]
+1. PHP to App 串接 API
+2. PHP to 其他主機串接 API
+3. PHP to MSSQL 資料庫串接程式
+4. PHP 後台程式撰寫
+[做中學]
+5. 協助產品流程規劃：提供 UI / Web / iOS Android App / Server 間運行資訊流建議。
+6. PHP Server 附載平衡
+[同事間交流]
+7. iOS, Android 使用者經驗
+8. App 開發流程
+9. 醫療產業市場機制
+
+必要條件：
+1. 具自我管理能力，能自我要求工作目標。
+2. PHP 開發三年以上工作經驗
+
+加分選項：
+1. 具 WordPress Plugin 撰寫經驗
+2. 具 override, implement, extends 使用經驗
+3. Client Side 程式撰寫經驗 (如 Android, iOS, Corona App)
+4. 影音串流經驗
+
+薪資級距：35k ~ 60k
+
+聯絡方式: 站內信或洽 02-87129539 (張先生)
+
+104職缺網址 http://ppt.cc/Z0IJ
+

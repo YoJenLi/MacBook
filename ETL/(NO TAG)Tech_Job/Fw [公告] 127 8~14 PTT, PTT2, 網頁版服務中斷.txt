@@ -1,0 +1,20 @@
+
+作者diabloevagto (wi)看板Tech_Job標題Fw: [公告] 1/27 8~14 PTT, PTT2, 網頁版服務中斷時間Fri Jan 25 00:48:55 2013
+※ [本文轉錄自 NYUST 看板 #1H0LrEZ2 ]
+
+作者: kunpin (Conrad) 看板: NYUST
+標題: Fw: [公告] 1/27 8~14 PTT, PTT2, 網頁版服務中斷
+時間: Fri Jan 25 00:11:56 2013
+
+※ [本文轉錄自 SYSOP 看板 #1H0H-gCz ]
+
+作者: robertabcd (robert) 看板: SYSOP
+標題: [公告] 1/27 8~14 PTT, PTT2, 網頁版服務中斷
+時間: Thu Jan 24 19:48:55 2013
+
+計資中心將於 1/27 8~14 進行網路骨幹升級
+
+屆時 PTT, PTT2, 網頁版等服務將會無法連線
+
+若提早作業完成將提早恢復服務
+

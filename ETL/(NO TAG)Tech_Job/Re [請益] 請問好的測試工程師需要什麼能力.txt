@@ -1,0 +1,42 @@
+
+作者GGFUCK (神眼朱老九)看板Tech_Job標題Re: [請益] 請問好的測試工程師需要什麼能力?時間Fri Jun  5 01:38:45 2015
+
+我原本是 系統廠測試工程師 跳到 IC廠做測試助工
+薪水近80-90萬.... 月薪55000 大學畢
+目前在這間公司 做測試助工需要的技能是
+
+1.設備部分
+  a) 對於未來開發新測試項目 或 測試計劃 要評估設備清單
+  b) 聯絡設備商 請設備商來 Demo
+  c) 借 Demo 機, 評估設備商跟設備間的差異 及 優勢, 並製作試用報告
+  d) Scope 原理, Scope 內的應用及撰寫 sop, 聯絡原廠並 maintence 韌體版本
+  e) 若廠內無測試機台, 若常跑測試廠, 需評估及導入 廠內是否建置相關設備
+
+2.產品部分
+  a) 需要知道產品的 Function Block 及 架構
+     OSC / ADC / LPF / ATT / 放大器 / PLL etc...
+  b) 培養客戶技術支援
+  c) 看電路圖去驗證功能 及 Performance
+     若電路需要 Rework 才能動作, 需要有焊接技巧
+  d) 驗證分析 需跟 Simulate Team / Designer Team 去做 compare
+     理論及驗證是否比對的上
+  e) Benchmark 其他家競爭者產品
+  f) 若新產品開新規格, 需要看 Spec
+  g) 知道 FT / HTOL / Reliability 相關資訊
+
+3.Debug部分 + 寫 Patch Code
+  a) 若產品有問題, 公版 FW trigger error , 寫簡單的 Patch code
+  b) 環境架設分析
+  c) Compiler code
+  d) 需要知道 FW Calibration 架構
+
+4.自動化程式
+  a) 減少人力操作, 利用 RS232 / GPIB, Labview 相關 tool 去控制機台
+  b) maintence 自動化程式
+
+5.開Training course
+  a) 若對於產品有一定認知, 需要開 Training course 教部門
+  b) Studing 新技術, 並開課 或撰寫 SOP
+
+目前在我這間公司需要技巧是這樣
+

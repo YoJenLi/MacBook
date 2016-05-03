@@ -1,0 +1,37 @@
+
+作者amandake (無言)看板Tech_Job標題[徵才]Senior Java Developer時間Thu Mar  3 23:26:39 2016
+Position: Senior Java Developer
+Location: Xinyi District,Taipei
+
+Company Introduction
+A US-based company which is the market’s leading provider of Financial risk
+analytics technology for the pricing, structuring, modeling and valuation any
+derivative instrument, or portfolio.
+
+Primary Responsibilities
+Senior Software Engineer will be responsible for assist our customer to
+deploy Numerix CrossAsset product line. That includes designing, developing,
+testing and supporting software applications:
+ ‧ Software design, development, testing and support for deploying the Numerix
+    CrossAsset product line in customer site
+ ‧ Participation in all phases of software development
+ ‧ Research and gathering technical requirements
+ ‧ Software architecture analysis and design
+ ‧ Key contributions towards the implementation of the software systems
+ ‧ Performing unit tests and assist with QA Experience and Skills Required
+
+Demonstrated knowledge of the following
+ ‧ 5 years of production software development experience
+ ‧ Strong analytic and problem-solving skills
+ ‧ Demonstrated knowledge of the following:
+        ※ Java, C#
+        ※Experience with multi-tier web application development using spring
+          framework, mybatis/hibernate.
+        ※Experience with clustering, multi-processing and multi-threading
+          architectures.
+        ※Platforms/Operating Systems: Windows, Linux
+
+Salary: 80-120K TWD per month; negotiable
+If you are interested in the role, please send your resume to
+huiyingke@gmail.com
+

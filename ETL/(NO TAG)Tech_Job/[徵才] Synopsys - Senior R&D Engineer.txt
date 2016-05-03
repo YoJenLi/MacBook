@@ -1,0 +1,74 @@
+
+作者ar33 (33)看板Tech_Job標題[徵才] Synopsys - Senior R&D Engineer時間Fri Aug  7 16:02:43 2015
+
+
+104網址: https://www.104.com.tw/job/?jobno=4gvvk&jobsource=
+
+
+【公司名稱】Synopsys Taiwan 台灣新思科技股份有限公司
+
+【工作職缺】R&D Engineer, Sr. II (台北)
+
+【工作內容】
+
+Responsible for designing and developing software programs. Develop
+algorithms and data structures to quickly detect the circuit problem. Design
+a good debugging interface.
+
+Experience in C/C++ programming. Knowing QT programming is a plus. The job
+requires to develop complex software projects which handle huge amount of
+data and thus also requires the knowledge of distributed processes,
+multi-threads and also database design. Has strong desires to learn and
+explore new technologies and demonstrates good analysis and problem-solving
+skills.
+
+Prior knowledge and experience of EDA tool are preferred, especially for
+DRC/LVS/RC-Extraction/Post Layout Simulation/EM/ESD.
+
+Keyword: C; C++; QT; GUI; Physical Design; Place and Routing; IC validation;
+EDA; CAD; algorithm; database
+
+【徵才條件】
+
+  工作經歷：不拘 5年以上佳
+
+  學歷要求：碩士以上
+
+  科系要求：資訊工程相關、電機電子工程相關
+
+
+【薪資範圍】面議  年薪 > 1000K (非HR 無法得知範圍 請來面議)
+
+【工作地點】台北市信義區
+
+【工作時間】9:00-18:00
+
+【公司福利】
+
+  1.保險福利 - 公司全額負擔勞保、健保、團保
+
+  2.福利活動 – 福委會社團活動、旅遊補助、Family Day、生日/三節禮金、婚喪喜慶
+及生育補助、定期健康檢查
+
+  3.教育訓練制度 – 鼓勵不斷的學習及自我成長，創造活潑的學習環境，配合個人的長
+短期生涯規劃，提供完善的教育訓練制度，包括內訓及外訓，技術性及非技術性訓練
+
+  4.員工購股(ESPP)
+
+  5.優於勞基法之特休假及部分全薪之事病假
+
+  6.另享每月健身津貼
+
+【需求人數】1人
+
+【聯絡人/連絡方式】
+  聯絡人：王小姐
+     Please submit your English resume to Shirley.Wang@synopsys.com, thank
+you.
+
+【其他備註】
+
+  代PO，有其他問題可私訊，謝謝。
+
+
+

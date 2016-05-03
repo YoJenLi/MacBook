@@ -1,0 +1,13 @@
+
+作者ggggggh (ggggggh)看板Tech_Job標題[討論]python 為何在ic design 不能取代perl時間Sat Mar 19 22:10:05 2016
+perl 寫起來真的比python難懂
+
+但是在ic design 大家都還是只用perl而不用python去取代
+
+雖說perl的字串處理非常強大, 但應該python 也已經夠用了
+
+python 的好閱讀   好寫 真的比perl好用太多
+
+
+還是有其他原因  ic design 非用perl不可呢？
+

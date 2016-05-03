@@ -1,0 +1,43 @@
+
+作者MonkeysGOGO (猴子衝吧!)看板Tech_Job標題[請益] 嵌入式系統的相關職缺時間Wed Oct  1 01:23:56 2014
+各位大大，小弟是社會新鮮人，對於嵌入式系統的韌體工作很有興趣
+
+對以下兩個職缺還蠻有興趣，但是對這兩個公司與用人單位不是很了解
+
+想請問一下各位大大是不是有一些訊息可以給小弟參考的，小弟感激不盡!
+
+第一家公司是廣達(科技業版是叫肉鬆?)
+職缺是 Android Platform Developer/NB BSP Designer - J0866
+
+工作內容是
+Porting Android on multi-core ARM platform(Tablet PC,NB..)
+Windows on ARM BSP/UEFI/BIOS for NB/Tablet design
+Design/Maintain the device drivers as well as HAL
+SW & or Firmware design (in C,C++,Java, HTML..)
+Optimize system & framework or compiler/tool-chains
+Coding revision & patches design/maintenance
+
+看這職缺應該是類似 Linux BSP 開發的職缺吧?
+聽說大公司不同部門差很多，不知道這部門是怎樣的環境?
+
+另一家是佳世達，應該跟BenQ很有關係的一間公司吧!
+職缺是 韌體研發工程師【精密光學產品精英專案】(桃園)
+
+他分兩種職缺，應該都是嵌入式系統的職缺，我都還算有興趣
+但不知道那公司那部門OK嗎?
+
+第一個職缺工作內容是
+1. Windows driver and utility development.
+2. Software Architecture Design.
+3. Embedded system Software development.
+4. 熟C/C++, Java
+
+第二份則是
+1. 規劃及執行數位投影控制單元設計
+2. 規劃執行產品韌體之撰寫
+3. 新技術之研發
+
+有大大可以給一些消息嗎? 站內信或其他方式皆可，感謝感謝!
+
+還有請問這類工作的未來發展性與轉職發展性好嗎?
+

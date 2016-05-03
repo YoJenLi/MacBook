@@ -1,0 +1,49 @@
+
+作者superymo (pig)看板Tech_Job標題[討論] 怎樣算是一個有價值的數位IC designer時間Sat Mar 23 13:29:08 2013
+
+看到前面類比設計工程師的討論串,
+
+說到類比工程師養成比數位還要久很多,
+
+所以我想討論看看, 大家覺得當一個夠格的數位IC工程師,
+
+須具備哪些技能呢? 又養成一個夠格的數位IC工程師需多久時間呢?
+
+我想到的技能有如下:
+
+1. 有設計大型IP的經驗, 知道如何制定architecture,
+
+   讓做出來的IP 可以取的area, performance, low power 的平衡
+
+2. 有整合大型IP經驗, 熟悉AMBA Bus(AXI,AHB,APB)
+
+3. 能快速讀通各式各樣的spec(例如USB3.0, SATA 等), 並融會貫通
+
+4. 有系統view, 例如IP上FPGA, 或IC回來時有問題時,能快速找到問題點
+
+5. 熟悉各種design flow 會用到的tool, 例如: Verdi, DC, Formal, Primetime,
+
+   Primepower, Synplify, ISE 等
+
+6. 熟悉Make/Perl, 有寫script 自動化的能力
+
+7. 會SystemVerilog, 來幫助驗證IP
+
+8. 懂SW/FW/Analog team 語言, 能和他們溝通, co-work
+
+9. 當過和backend 的窗口, 有和backend 溝通的能力
+
+10. 撰寫設計文件的能力, 有些人就是可以把自己design IP 的文件寫的非常好
+
+11.吸取新知的能力, 因為IP新規格一直出來, tool 會一直更新
+
+
+以上幾點是我看到周邊一些我認為還蠻厲害的數位工程師所想到的,
+
+不知道大家有沒有覺得還缺哪幾項沒列到的,
+
+大家覺得養成以上能力, 需要多久呢?
+
+但有些我覺得要看公司環境, 畢竟也要主管肯給你機會讓你碰才有機會熟悉
+
+

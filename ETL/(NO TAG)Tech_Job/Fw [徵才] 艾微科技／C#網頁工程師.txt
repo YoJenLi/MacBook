@@ -1,0 +1,52 @@
+
+作者n080925 (Lonely Journey)看板Tech_Job標題Fw: [徵才] 艾微科技／C#網頁工程師時間Mon Jul 20 09:10:38 2015
+※ [本文轉錄自 Soft_Job 看板 #1Lg9LZrc ]
+
+作者: n080925 (Lonely Journey) 看板: Soft_Job
+標題: [徵才] 艾微科技／C#網頁工程師
+時間: Fri Jul 17 13:40:47 2015
+
+【公司名稱】
+艾微科技有限公司
+
+
+【公司簡介】
+請參考官方網站：http://www.aiweb.tw/
+
+
+【工作內容】
+1、開發電子商務購物平台
+2、其他主管交辦事項
+
+【工作條件】
+1、暸解 C#.NET
+2、具 ASP.NET 或 ASP.NET MVC 開發者經驗
+3、一年以上軟體開發經驗
+4、樂於與人溝通、適應團隊合作
+5、喜歡學習新技術
+6、如期完成主管交代的任務
+
+
+【加分條件】
+1、瞭解 MS SQL SERVER 或熟悉 T-SQL 語法應用
+2、暸解 LINQ／Lambda／Entity Framework
+3、暸解 HTML／CSS／Javascript／jQuery／JSON 等 Web 開發技術
+4、具版本控制工具（Git／SVN）使用經驗
+5、具 ERP 系統開發經驗
+
+
+【工作地點】
+信義區松德路
+
+
+【薪資福利】
+月薪 NT 40,000元起
+
+
+【履歷投放／聯繫方式】
+陳先生 rex@aiweb.tw;
+02-2726-6112#221
+
+
+備註:只是代PO...
+

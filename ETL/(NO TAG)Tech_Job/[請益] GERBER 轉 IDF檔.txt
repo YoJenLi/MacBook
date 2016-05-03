@@ -1,0 +1,23 @@
+
+作者zj44 (YY)看板Tech_Job標題[請益] GERBER 轉 IDF檔?時間Tue Oct 27 21:48:14 2015
+因為公司的資料庫 Layout檔案 都是GERBER檔
+
+但是3D軟體只吃 IDF檔
+
+google大神一堆 自己也試了 POWERPCB(公司主要軟體) altium designer 2013
+
+還有新版PADS 都用了 不知是SW 2014版本太高 POWERPCB都沒辦法轉完全
+
+ altium designer 2013轉的STP SW讀不出來
+
+GERBER檔 也轉不了其他檔案!
+
+那像是機構給Layout的檔案 必須有PCB上禁止LAYOUT區域都只能用AUTOCAD畫嗎?
+
+SW 裡面的Circuit模組 不能處理不能轉?
+
+到底該怎麼解決? 系統廠都是怎麼處理的阿?
+
+感恩!
+
+

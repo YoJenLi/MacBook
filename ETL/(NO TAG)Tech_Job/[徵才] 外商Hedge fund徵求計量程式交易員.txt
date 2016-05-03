@@ -1,0 +1,38 @@
+
+作者sharon29 (sharon)看板Tech_Job標題[徵才] 外商Hedge fund徵求計量程式交易員時間Sat Dec 20 00:13:50 2014
+
+leaderps代徵
+美商Hedge fund徵才-計量程式交易員
+
+利用數理邏輯找出金融市場的趨勢，建立計量模型來管控資金並從中獲利。
+這領域是融合數理統計、財務行為預測等。
+故不須金融背景及經驗，對於數理邏輯的熱情相對較為重要。
+
+地點:
+台北市信義區
+
+工作內容:
+Statistical Arbitrage
+Quantitative Portfolio Management
+Statistical arbitrage in financial market
+Quantitative simulation by C++ & Python in Linux system
+
+
+條件:
+Possess or expect a bachelor’s degree from one of Taiwan's top
+universities in a highly analytical field, such as Mathematics, Computer
+Science, Physics, Electrical Engineering, Financial Engineering or any other
+related field that is highly analytical and quantitative
+
+Ranked as top 30% or above in class for bachelor's degree
+
+C/C++ Programming, R/Matlab, Python, SQL
+
+
+年薪:NTD 1.8M-2M (績效穩定另有績效獎金)
+
+歡迎符合的好手來信討論
+請附上履歷及聯絡方式!
+Sharon
+sharon@leaderps.com.tw
+

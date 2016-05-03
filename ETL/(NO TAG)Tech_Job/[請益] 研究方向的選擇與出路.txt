@@ -1,0 +1,24 @@
+
+作者nbaken7 ()看板Tech_Job標題[請益] 研究方向的選擇與出路時間Sun Jan  5 20:34:22 2014
+請教版上前輩們
+
+以下兩種碩士研究方向
+
+1.
+Behavioral signal processing
+作情緒辨識，conversation/interaction modeling
+還有fundamental speech and language processing technologies
+
+2.
+Fourier optics
+影像訊號處理
+加上各種實作課程(C,verilog等等)
+
+學校都是四大
+2會加上實作課程是因為教授比較輕鬆
+除了研究，他也鼓勵我培養實作能力
+
+請問各位認為
+哪種對外來出路比較有利?
+感謝~
+

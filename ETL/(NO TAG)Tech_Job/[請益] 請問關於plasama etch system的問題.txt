@@ -1,0 +1,14 @@
+
+作者ability0207 (豪)看板Tech_Job標題[請益] 請問關於plasama etch system的問題時間Thu Mar 24 22:27:23 2016
+1.同體積的He跟同體積的N2 價格差幾倍
+
+2.plasama etch system中常使用的
+  backside He system中的He可否用N2取代
+
+是因為N2會跟Si反應嗎
+還有其他比較便宜的gas可以取代嗎
+有沒有經濟效益 cost down有沒有搞頭呀
+
+小弟無知  異想天開  請各位先進指教
+謝謝
+

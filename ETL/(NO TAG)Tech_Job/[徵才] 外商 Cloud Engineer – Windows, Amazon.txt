@@ -1,0 +1,71 @@
+
+作者arashi233 (arashi233)看板Tech_Job標題[徵才] 外商 Cloud Engineer – Windows, Amazon時間Sun Jan  3 01:52:04 2016
+【公司名稱】
+Robert Walters 代外商徵 Cloud Engineer – Windows, Amazon Web Services (AWS)
+官方網站：http://www.robertwalters.com.tw/
+
+【工作職缺】
+Cloud Engineer – Windows, Amazon Web Services (AWS)
+
+【工作內容】
+
+About this Job
+
+This is a remote technical support role (NOT call center) who should be an expert in various IT areas and provide timely and professional troubleshooting advice and architectural best practice to AWS customers via support cases and occasional on-site visits. Within the team, we have gurus used to work on Linux kernel drivers, with PhD in High-Performance Computing (HPC) and as senior networking Operation & Maintenance (O&M) engineer.
+
+We are seeking people with strong technical skills. Experience with Big Data and/or Database (MySQL, SQL Server, Oracle)? Do you know the advantages of working in a highly distributed virtual environment? Since we’re working in the Cloud, you will need to be very comfortable with networking technologies including DNS, TCP/IP, SSL, DHCP and Load Balancing. If you fit the description, you might be the person we are looking for!
+
+Every Day Will Bring New And Exciting Challenges On The Job While You,
+
+1.Learn and use groundbreaking technologies
+2.Apply advanced troubleshooting techniques to provide unique solutions to our customers' individual needs
+3.Interact with leading technologists around the world
+4.Work directly with Amazon Web Service architects to help reproduce and resolve customer issues
+5.Leverage your extensive customer support experience to provide feedback to internal AWS teams on how to improve our services
+6.Drive customer communication during critical events
+7.Drive projects that improve support-related processes and our customers’ technical support experience
+8.Write tutorials, how-to videos, and other technical articles for the AWS customer community
+9.Work on critical, highly complex customer problems that may span multiple AWS services
+
+【徵求條件】
+
+Basic Qualification
+
+1.Strong customer focus
+2.Strong knowledge of and experience with Windows configuration and troubleshooting
+3.Experience in Active Directory and Domain Controller
+4.Programming skills in PowerShell
+5.Hands-on experience in Wireshark, route table and network troubleshooting
+6.Understanding of MS SQL Server
+7.Bachelor’s degree in Information Science / Information Technology, Computer Science, Engineering, Mathematics, Physics, or a related field.
+8.Excellent oral and written communication skills in both English and Mandarin
+9.Open to working shifts (e.g.7am-4pm or 2pm-11pm, Sun-Thu or Tue-Sat)
+10.Strong multi-tasking skills
+11.Self-starter who is excited about technology
+
+Preferred Qualification
+
+1.Build and maintain large-scaled distribution system is a plus
+2.Knowledge in data mining, machine learning is a plus
+3.Exposure to Cloud computing
+4.Expertise with IPsec, VPN, Load Balancing, Iperf, MTR, Routing Protocols, SSH, Network Monitoring / Troubleshooting tools
+5.Experience managing full application stacks from the OS up through custom applications
+6.Remote technical support or system administrator experience
+
+【工作地點】台北市信義區
+
+【工作時間】Open to working shifts (e.g.7am-4pm or 2pm-11pm, Sun-Thu or Tue-Sat)
+
+【月休】Fri-Sat or Sat-Mon
+
+【薪資範圍】
+Annual salary: NTD 1-1.5 M
+
+【需求人數】2
+
+【聯絡人/連絡方式】
+Send your resume to Ruby Lin
+ruby.lin@robertwalters.com.tw
+
+(代po, 勿回站內信）
+

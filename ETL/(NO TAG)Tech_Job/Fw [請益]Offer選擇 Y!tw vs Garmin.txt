@@ -1,0 +1,62 @@
+
+作者ryansun1 (小孫)看板Tech_Job標題Fw: [請益]Offer選擇 Y!tw vs Garmin時間Sat Oct 31 10:07:32 2015
+※ [本文轉錄自 Soft_Job 看板 #1MCATtsX ]
+
+作者: FLAGin (js) 看板: Soft_Job
+標題: [請益] Offer選擇 Y!tw vs Garmin
+時間: Wed Oct 28 18:46:12 2015
+
+各位前輩好，小弟新鮮人，四大資工碩畢
+
+前陣子面試Yahoo Taiwn，上周HR通知這週要送審美國
+
+但由於上周面試的Garmin已經給與口頭offer，可能近期內就要決定
+
+
+目前也還是有持續面試中，但想先上來看看大家的意見
+
+
+
+公司         Y!tw                     Garmin
+
+
+內容      Front-end              Web developer(偏向full stack, java based)
+
+
+(薪水與設備部分，Y的話是打聽內部朋友的資訊，不一定準確。G則是HR提供的)
+
+
+薪水   N*13+(績效獎金&股票)          N*18(看績效，但好像就差不多這樣)
+
+
+設備      電腦應該有mac可選           配pc(ubuntu)
+
+
+地點       南港                         林口
+
+
+住宿       HOME                    宿舍(兩年free) or 選車位
+
+
+
+Garmin的部分是在global team，相較Y!比較多跟國外工程師
+合作的部分，每周要配合國外時間開會(可以在家開)，大概兩個月輪一次oncall(聽說
+國外也在徵人，如果有徵到，頻率會降低，可能半年才輪到一次)
+
+技術上來說，感覺Y!使用的比較新(reactjs)，javascript應該是主要使用的語言
+而Garmin本身系統設計已經很成型，暫時比較難採用更新的技術進去(backbone)
+然後會比較用到java based的web開發
+
+兩者各有優缺，但累積的能力可能會蠻不一樣
+
+
+本來Y!是我的首選，但由於Y!也不確定會不會有offer，時間也不確定，
+而Garmin是global team又蠻誘人的
+
+所以想聽聽大家的意見做為參考!
+
+
+謝謝!
+
+
+

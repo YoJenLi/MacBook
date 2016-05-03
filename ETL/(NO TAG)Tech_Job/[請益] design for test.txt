@@ -1,0 +1,8 @@
+
+作者ggggggh (ggggggh)看板Tech_Job標題[請益] design for test時間Sun Mar 13 19:41:42 2016
+在下的主管最近指派dft的相關工作給我
+但我之前是在做驗證相關工作，請問要如何學習呢？
+或有何書單online課程可以修?
+
+感謝~
+

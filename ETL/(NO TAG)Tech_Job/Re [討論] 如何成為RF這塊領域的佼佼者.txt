@@ -1,0 +1,37 @@
+
+作者wilam (青春。)看板Tech_Job標題Re: [討論] 如何成為RF這塊領域的佼佼者?時間Thu Sep 19 01:14:57 2013
+※ 引述《Maxwell3 (RF達人)》之銘言：
+: 大家晚安
+: 小弟對微波這塊領域非常有興趣
+: 尤其是主被動電路
+: 想請問各位前輩
+: 要怎樣才可以上頂尖的RF公司呢?
+
+推 huuu:Q公司在新竹有研發中心 也許你可以試試看                     09/13 22:46
+→ Weckle:Q在新竹的廠在做Mirsal的吧，RF不是此單位主力              09/15 00:19
+→ plsung:高通創銳訊Qualcomm Atheros做WiFi的RF系統,操,練功還不錯!  09/15 01:55
+→ plsung:一些系統廠像廣達和緯創會用這間的WiFi solution...         09/15 01:58
+→ plsung:其實也有做RF/Analog IC的team,不過要進門檻很高...         09/15 02:00
+→ plsung:要像上面說的有幾篇ISSCC,或台大電機某些RF/Analog大咖弟子  09/15 02:02
+→ plsung:做Mirasal的是Qualcomm MEMS Technology,不是快收掉了?      09/15 02:06
+推 Habai:全台也沒幾個人有ISSCC吧...                                09/17 18:09
+→ plsung:Atheros美國總部RF/Analog Engineering VP是IEEE Fellow應   09/17 21:25
+→ plsung:該有,有就可以申請H1b離開鬼島去總部賺十幾萬美金年薪了XD
+
+咦？推文怪怪的，幫忙解釋一下好了
+
+Mirasal 的廠在龍潭，不在新竹
+最近在 uplinq 上發表的 Toq smartwatch 就是運用 mirasal 的低功耗技術
+
+VP 人很 nice，超親切
+QCA 在新竹的 SW 跟 SA team 比較操
+留到九點十點都很常見
+RF/A IC team 只要不是準備 tapeout 或剛回來正在 bring-up 的 project analog lead
+一般來說我如果六點半走就會是全 team 最後走的
+
+Q 的會計年度從十月開始
+有 headcount 需求的應該官網都開始 release 了
+門檻，呃，門檻我不清楚，我也沒上半篇 paper
+總之我是運氣很好，前面我也分享過面試流程，大概就是這樣
+
+

@@ -1,0 +1,32 @@
+
+作者yytseng (yytseng)看板Tech_Job標題Re: [請益] CAD與Layout時間Fri May  3 09:48:40 2013
+借一下版面
+老闆叫我幫找會2的人才
+十年經驗，英文要直接能說聽溝通
+不管人管做事
+福利不錯，工作輕鬆責任制
+錢雖不頂，勝在不加班
+勞保公司全繳，勞動節都有獎金
+咖啡牛奶飲料喝到飽,送筆電iphone
+高手來交個朋友
+
+※ 引述《sisley01 (123)》之銘言：
+: ※ 引述《s33421 (阿D)》之銘言：
+: : 目前有兩個職務選擇...想聽聽各位鄉民的意見！！
+: : 1.IC Layout 工程師
+: : 工作內容不外乎就是大家所想的那樣！
+: : 2.CAD工程師
+: : 1.RTL to GDSII IC Implementation based on Synopsys Tools:
+: : 包括: Synthesis (DC), Equivalence-Check (FM), Design-for Testability(DFTC),
+: : Static-Timing Analysis(PT), Place & Route(ICC), Clock-Tree-Synthesis,
+: : RC Extraction(Star-RC), Cross-Talk Fixing(PTSI), IR-Drop/EM Analysis,
+: : Dynamic/Leakage Power Optimization, DFM and Multi-Voltage Low-Power Design(UPF),
+: : LVS/DRC, … etc.
+: : 2.Physical Verificationꀠbased on Calibre tools：
+: : . Physical Verification (LVS / DRC / ...etc)
+: : . Commandfile maintenance (Calibre DRC/LVS/PERC , Star RC extraction )
+: : . Physical Verification flow enhancement. ( New commandfile coding / PV environment coding. )
+: : 對未來發展..各位比較推哪邊呢！？
+: CAD與APR不是不一樣的東西?
+: 還是會APR之後也要學CAD?
+

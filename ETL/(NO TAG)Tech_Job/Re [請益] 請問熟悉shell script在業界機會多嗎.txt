@@ -1,0 +1,18 @@
+
+作者Acme (        )看板Tech_Job標題Re: [請益] 請問熟悉shell script在業界機會多嗎時間Sun Jan 12 22:51:41 2014
+※ 引述《yourock (跑累了就睡,沒有問題的)》之銘言：
+: 作者: yourock (跑累了就睡,沒有問題的) 看板: Soft_Job
+: 標題: [請益] 請問熟悉shell script在業界機會多嗎
+:
+: 各位好,
+: 想請問:
+: 1. 熟悉Linux的shell script在科技資訊業會很具優勢嗎?
+: 2. 那麼又什麼職位的工作內容需要用到這個技術.據我所知:
+:    BIOS SW可以利用這個來做FW update.
+:    QT可以利用這個來組織automation testing的工具.
+:    請問還有哪些工作內容需要用到這項技術?
+:
+: 謝謝.
+:
+:
+: 

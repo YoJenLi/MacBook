@@ -1,0 +1,54 @@
+
+作者LarryBrown (賴瑞布朗)看板Tech_Job標題 [請益] 半導體設備專有名詞時間Mon Sep 16 11:59:57 2013
+※ [本文轉錄自 Eng-Class 看板 #1IDdMwWG ]
+
+作者: LarryBrown (賴瑞布朗) 看板: Eng-Class
+標題: [求譯] 半導體設備專有名詞
+時間: Mon Sep 16 11:06:30 2013
+
+
+一堆半導體的專有名詞不知道該怎麼翻成中文才好
+
+想請教有沒有相關背景的人可以幫忙一下
+
+1. advanced optical devices
+
+高階光學設備(?)
+
+2. packaged optical components
+
+光學元件模組(?)
+
+3.  optical subsystems
+
+光電系統(?)
+
+4. laser transmitters
+
+雷射發射器(?)
+
+5.  fiber optic transceivers
+
+光纖收發器(?)
+
+6. fiber optic communications equipment
+
+光纖網路設備(?)
+
+7. point-to-point telecom
+
+單點傳輸設備(?)
+
+8.  datacom and access networks
+
+數據通訊及存取設備(?)
+
+9.  systems supporting cable television (CATV)
+
+有線電視系統
+
+
+
+
+
+

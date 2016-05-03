@@ -1,0 +1,61 @@
+
+作者hSATAC (cAt Ash)看板Tech_Job標題Fw: [徵才] Senior iOS Developer - Faria時間Fri Sep 13 22:16:36 2013
+※ [本文轉錄自 Soft_Job 看板 #1ICnsd_K ]
+
+作者: hSATAC (cAt Ash) 看板: Soft_Job
+標題: [徵才] Senior iOS Developer - Faria
+時間: Fri Sep 13 22:13:55 2013
+
+http://jobs.inside.com.tw/jobs/2223
+
+Senior iOS Developer
+
+職務分類：行動應用程式設計師
+
+薪資範圍：NT$ 60,000 ~ NT$ 100,000，年薪可達 NT$ 1,000,000
+
+Taipei City (六張犁捷運站附近)
+
+Our goal is to recruit and retain craftsmen who are the best at what they do
+— who are motivated to achieve results, have high standards of quality and
+integrity, possess a flexible, dedicated spirit and want to develop their
+full potential.
+
+As a Faria iOS Developer, you will work with some of the best design and
+product people in the industry to craft awesome features, create engaging
+experiences and bring the best into every details.
+
+Position requirements
+
+- Passion for the user interface
+- Experience working with UIKit and Core Animation
+- Deep understanding of C and Objective-C
+- Solid familiarity with the tools of the trade: XCode, Instruments, etc.
+- Strong analytical and debugging skills
+- Dedication to engineering excellence
+
+The following skills are a plus
+
+- Expertise in lldb, SQLite, DTrace, Core Data
+- Advanced experience in making custom UI controls.
+
+Why Faria?
+
+Joining Team Faria means you will have the opportunity to participate in
+ambitious, high-stakes technology development with global scale. We are
+Formula One developers: we design, build, QA and launch at lightening speed
+unlike any other company. We offer an exciting fast-paced environment, where
+you will be free to unleash your creative potential in building a better
+world.
+
+We offer:
+
+- Excellent working conditions in a comfortable office in Taipei
+- Apple hardware and ergonomic seating
+- Annual paid vacation (12 days) and 100% covered sick leave
+- Opportunities for self-development and advancement
+- Company sponsored vacation and technical conferences
+- We will be glad to welcome you to Team Faria – Formula One R&D!
+Apply Information
+Please send us your resume to ihower@faria.co
+

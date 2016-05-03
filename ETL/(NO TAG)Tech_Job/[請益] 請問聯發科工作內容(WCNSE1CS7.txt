@@ -1,0 +1,16 @@
+
+作者stevenlin08 (stevens)看板Tech_Job標題[請益] 請問聯發科工作內容(WCN/SE1/CS7時間Fri Oct  3 13:46:35 2014
+As Title:
+應徵職位，Bluetooth 韌體
+請問的是，該單位的工作內容
+
+因為在上次，我也去參加該司的面試。
+但感覺他們找錯人，該工作與我並不適合，
+導致草草結束。
+
+本身也是在做Bluetooth(BLE) FAE
+為使用其它vendor
+Bluetooth Smart/Bluetooth low energy ICs/solutions
+
+i hope you will be able provide the information.
+

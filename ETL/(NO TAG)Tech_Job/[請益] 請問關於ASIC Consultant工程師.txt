@@ -1,0 +1,9 @@
+
+作者icefire25 (冰火)看板Tech_Job標題[請益] 請問關於ASIC Consultant工程師? 時間Thu May  7 23:34:13 2015
+想請教版上的各位前輩
+對於大部分的IC設計領域公司來說
+ASIC Consultant工程師
+工作內容都是有關於哪些?
+需要先具備哪些能力會比較容易工作上手?
+例如 : FPGA o rEXCEL or Layout or 高段的英文能力...?
+

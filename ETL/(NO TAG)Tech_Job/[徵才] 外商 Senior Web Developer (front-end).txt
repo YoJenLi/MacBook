@@ -1,0 +1,29 @@
+
+作者jpw (...)看板Tech_Job標題[徵才] 外商 Senior Web Developer (front-end)時間Sun Oct 11 22:15:05 2015
+【公司名稱】
+Robert Walters 代外商徵
+官方網站：http://www.robertwalters.com.tw/
+
+【工作職缺】
+Senior Web Developer (front-end)
+
+【工作內容】
+1. Participate in design phase to generate design document
+2. Implement software application in web as well as mobile platform
+3. Review functional test case and provide maintenance support
+
+【徵求條件】
+1. Degree in CS or equivalent field with at least 5 years experience in Java
+& Web development
+2. Knowledge of jQuery, HTML5, JavaScript, and database schema and SQL
+Hands-on JAVA SE programming experience in various data structure and
+concurrent utilities
+3. Realize design patterns into program, apply MVC in web program, and embed
+object oriented design
+4. Experience in native mobile application development or familiar with cross
+browser app support would be a big plus
+5. Experience in payment gateway integration is a bonus
+
+【工作地點】台北市內湖區
+
+【工作時間】週一

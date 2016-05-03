@@ -1,0 +1,30 @@
+
+作者arashi233 (arashi233)看板Tech_Job標題[徵才] 外商 (Sr) Hardware QA Engineer時間Tue Sep  1 23:15:39 2015
+【公司名稱】
+ Robert Walters 代外商徵
+官方網站：http://www.robertwalters.com.tw/
+
+【工作職缺】
+Sr. Hardware QA Engineer
+
+【工作內容】
+-Develop / establish design review and validation test requirement for new products and new features to ensure such are fully tested and assessed before design release.
+-Provide timely, precise and comprehensive executive summary report update on key issues and test progression & initiate mitigation plans to constantly meet test schedule.
+-Provide Quality management oversight to the local design organization in day to day operation.
+-Manage on-site quality team and optimize the use of test equipment and resource
+-Conduct design review on key new features and resolutions to key customer complaint or field return to ensure similar problems do not re-occur.
+-Work closely with design team to interpret and understand product quality specifications and requirements and to devise methodology to validate them, including drawing up and proposing test plans.
+-Conduct and coordinate suite of product test and phase release review activities (environmental testing, reliability and accelerated life testing) per project plan and standard in accordance to requirement at various milestones in the product development cycle.
+-Conduct and coordinate product for the purpose of assessment and qualification of product enhancement, product customization due to design changes and/or component changes.
+-Prepare reports and makes recommendation to the team and management on product design quality related issues.
+-Develop, identify and set up test suites (including recommendation for equipment needed), procedures and checklists that effectively validate the product quality and reliability goals specified in product requirement document.
+-Perform reliability prediction and analysis including MTBF calculation.
+-Analyze test data to determine the existence of quality problems and work with design team to take appropriate corrective actions to improve/correct design.
+-Conduct design post mortem review and field design quality issues to drive for continuous improvement in design quality
+
+【徵求條件】
+  4- 10 years related working experience
+
+【工作地點】台北市信義區
+
+【工作時間】週一

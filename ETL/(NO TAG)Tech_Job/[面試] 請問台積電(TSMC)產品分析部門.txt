@@ -1,0 +1,22 @@
+
+作者asim (ASIM)看板Tech_Job標題[面試] 請問台積電(TSMC)產品分析部門時間Mon Aug 11 14:34:04 2014
+標題:  請問台積電(TSMC)產品分析部門
+
+內容:
+
+各位大大您好，
+最近收到TSMC產品分析部門的面試邀約，由於小弟目前的年薪140w，下班不超過七點，不
+過近來公司營運與未來性較差，所以有想換公司的打算，目前想要有好的職缺才想換工作
+，於是想了解一下工作概況與福利才做進一步的面試。
+
+以下是TSMC告訴我的工作內容，有人知道這是哪個部門嗎？麻煩各位大大能分享這個部門
+的環境與福利，感激不盡，謝謝大大
+
+1. Assist new developed power technology stepping into production through
+solving issues in R&D phase, FA skill, product circuit analysis, strengthen
+design flow, ......
+2. Power device characterization, device design and performance analysis
+3. Co-work with RD/Module/QR/PDK teams to deliver new technology.
+4. Enhance existing design flow/kits, build
+competitive/cost-effective/customized environment for pioneer customer
+

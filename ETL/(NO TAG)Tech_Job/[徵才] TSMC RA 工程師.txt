@@ -1,0 +1,18 @@
+
+作者sunnyshsieh (sunnyshsieh)看板Tech_Job標題[徵才] TSMC RA 工程師時間Thu Jun 21 19:40:21 2012
+請直接mail to YSTSAIA@tsmc.com
+薪資應該有超過4xK/月 分紅另計
+
+Job Grade Offering: 31/32
+
+Job Contents:
+1. FinFET Device I-V characterization on Process Induced Damage (PID) Effect
+2. Test pattern design and layout
+
+Technical Background and Capability Requirements:
+1. Basic process flow Knowledge
+2. Basic device physics and characterization Skill (Tool: Angilent 4156/4071 o\
+r Keithly 4200)
+3. Layout & Tape-out experience
+4. Basic reliability knowledge
+

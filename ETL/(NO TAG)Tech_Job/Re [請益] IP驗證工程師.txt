@@ -1,0 +1,26 @@
+
+作者sasako ( )看板Tech_Job標題Re: [請益] IP驗證工程師時間Wed Jul 23 23:01:26 2014
+※ 引述《shiuan0119 (努力中)》之銘言：
+: 最近小弟有機會入手某間Foundry底下design service公司的驗證部門offer
+: 工作內容是學習system verilog..使用UVM驗證IP..
+: (不需要碰到FPGA驗證)
+: 想請問業界前輩們..關於這份工作內容的未來性..有什麼看法..
+: ps:小弟的背景是從"數位IC設計"轉職"IP驗證"..
+: 謝謝
+
+假如妳很熟SV system verilog，不怕找不到工作，連外商都缺，這種人才很珍貴..
+
+第一：不容易學，相較verilog，複雜許多..
+
+第二：又要結合linux的shell script的語言...
+
+第三：驗證的架構，每家公司都不一樣，spec也要很熟，function才寫得出來...
+
+每個team會分配1~2位，但重責大任通常落在那位資深的...
+
+有時一人身兼三個project也是看過...
+
+但一旦學會了，再重新做回designer，debug功力大增，寫pattern或是在design中
+
+埋下驗證程式，都有很大的幫助，甚至自己寫test bench時，也會比其他人厲害很多..
+

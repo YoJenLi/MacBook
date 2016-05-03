@@ -1,0 +1,32 @@
+
+作者naikojack (築夢 逐夢 go~)看板Tech_Job標題Re: [新聞] 聯發科真8核 高通PO文回嗆時間Sat Jul 27 04:50:24 2013
+就我知道講一下吧 今年Q社進去的新人博班(隔壁實驗室好朋友) System Engineer
+薪水約11.5萬一年 股票跟Bonus不太清楚
+
+基本上System Engineer門檻真的很夭壽的高
+去年我面試他們system engineer 實習生位置
+基本上就是把RF/DSP/通訊相關/ Channel coding/各種規格
+一路考下來 範圍超級廣 當然我失敗了
+(小弟背景 mtk一年工作經驗 + 第一年博班老闆是大陸3G制定人人之一
++ 跟OFDM 發明者之一合作過)
+
+今年實習生面試更是除了第一輪phone interview會問上面這樣問題 第二輪是on-site
+5hr 大車輪pk
+
+然後對照 另一個朋友 碩士 雅虎phone interview 只問" 你會不會coding"?
+對方說會 於是他就去雅虎實習 然後她說 今年Full Time碩士新生 薪水大約有到11萬
+
+
+看到這邊 你就會知道 Qualcom有多難進(主要是這類型Job position偏少)
+給的跟CS比又少很多(*) 對照另外一個就直接把coding練好 去西雅圖ms 一年12多萬
+比qualcom好進 錢比加州Q社多 稅又少
+
+所以這幾年 做底層的大部分都是把coding練好 往CS公司跳 除非你是名校
+老闆很罩 (OFDM創史人之一 今年想promote他學生去qualcom到現在還沒給offer)
+
+但還有另一種機會可以比System Eng好進qualcom
+就是做上層(網路層和應用層)的軟體工程師 不過話說 能有做上層能力
+大部分也可以去ms/google/cisco了 尤其今年CS突然狂缺人 只要會寫code
+就算你念歷史文學人文 都有機會可以一年拿8~9萬美金
+
+結論 做底層 想走System Engineer 必須要真的很優秀 不然這條路充滿者挑戰性和挫折

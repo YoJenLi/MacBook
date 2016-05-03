@@ -1,0 +1,25 @@
+
+作者matt78986 (^.<)看板Tech_Job標題[請益] 文曄科技 FAE面試時間Sun Oct 13 11:34:10 2013
+下星期要去文曄面試
+
+已爬文面試會考英文(考TOEIC ??)
+
+以下是大致的工作內容
+
+1. DC/DC Power
+2. AC/DC Power
+3. ST LCD TV
+4. Multi touch (電容式) controller engineer
+5. Edison LED FAE / LAN FAE
+6. 負責的產品線為「Marvell,Morning Stars, Altera, TI, ST 等半導體大廠」
+
+請問一下是否有人去面試過呢??
+
+可否分享一下相關經驗呢??
+
+薪資大約多少合理呢??
+
+以上
+
+感謝
+

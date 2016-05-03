@@ -1,0 +1,43 @@
+
+作者billandcs (信義比爾蘇)看板Tech_Job標題Re: [請益] 想往app程式設計或是系統工程師前進時間Sun Apr 19 23:24:22 2015
+
+先看看中央大學畢業生在矽谷打混貼的文
+
+http://winston-zh.attlin.com/2014/07/blog-post.html
+
+你要學的東西網路上資源多到炸掉...
+
+edX-MyCS: Computer Science for Beginners
+
+http://goo.gl/iPCGNj
+
+edX-Introduction to Programming with Java - Part 1: Starting to Program in
+
+Java
+
+http://goo.gl/DegPac
+
+Codecademy
+
+http://www.codecademy.com/
+
+如果你怕沒證書edX有付費方式可以取得證書,最快能夠成名的方式就是參加open source
+
+專案. angellist是可以找到一堆軟工工作的地方,連global pay都會有,甚至有parttime
+
+CTO XDDD
+
+我在edX上面打混覺得蠻有成果的....還收到教授的邀請函
+
+
+Dear Entrepreneurship 101 Alumnus:
+
+We are delighted to invite you to MIT for the MITx Global Entrepreneurship
+Bootcamp.
+
+Spend an intensive week learning from Bill Aulet
+Meet your co-founders
+Pitch your startup to angel investors and venture capitalist
+
+只要你有用心參與,未來矽谷就靠你打爆Jeff Dean跟Elon Musk了.....
+

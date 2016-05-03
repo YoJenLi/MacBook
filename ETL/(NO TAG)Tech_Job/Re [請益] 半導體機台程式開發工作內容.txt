@@ -1,0 +1,37 @@
+
+作者A350 (-Karma-)看板Tech_Job標題Re: [請益] 半導體機台程式開發工作內容時間Thu Oct 24 18:31:41 2013
+※ 引述《wantwant16 (科科)》之銘言：
+: 今天豪勉科技問我此工作意願
+: 很有意願但想多多暸解
+: 想請問板上的先進們
+: 機台程式開發這工作的發展性?
+: 然後雖然面試時有大致上了解工作內容
+: 但還是想請問的這項工作的狀況?
+: 有沒有類似工作的前輩可以給一下建議
+: 謝謝
+
+半導體機台程式 通常指的是EAP (Equipment Automation Program)
+
+就是遠端搖控操作機台的程式...
+
+告訴機台還RUN那一支RECIPE,收什麼值,執行什麼動作(Clamp/Dock/ProcessCarrier...etc)
+
+有一個SEMI Standard...規範...用SECS II/GEM
+
+通常用Cimatrix / GW 的 Driver...
+
+搭配 VB 或 C 來寫~
+
+因為不同家出的機台有不同的scenario,大至分成 inline/爐管/sorter/量測/後段...等~
+
+
+寫出來的program會去連接MES/FDC/R2R/RMS...etc
+
+以一個fab來說,EAP team是不被重視的,與MES比起來...
+
+
+薪水不會很高...昇不快~
+
+我從事9年了,也才90k/month...
+
+

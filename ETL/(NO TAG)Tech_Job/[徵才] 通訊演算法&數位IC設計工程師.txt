@@ -1,0 +1,37 @@
+
+作者supersu1a (鮪魚)看板Tech_Job標題[徵才] 通訊演算法&數位IC設計工程師時間Tue Aug 27 18:32:07 2013
+
+[公司介紹]
+智勤科技為合勤控(Zyxel)下，專門負責先進無線通訊之子公司。
+產品涵蓋衛星調複機 車裝機 背負式 手持式等無線行動網路通訊機。
+
+[工作內容]
+研究並開發下一代先進無線通訊技術。
+
+[職務需求]
+須具備通訊背景，對於數位通訊理論有深入瞭解。
+擅長使用Matlab。
+若有FPGA/HDL語言經驗者尤佳。
+專題論文或工作經驗包含至少下列一種:
+     .. Link-budget analysis
+     .. Digital Signal Process
+     .. Channel Estimation and Equalization
+     .. Synchronization
+     .. Frequency and Phase tracking
+     .. RAKE Receivers
+     .. Linear/Non-linear interpolation
+     .. Error-Correction Codes (Convolutional, RS, TPC, LDPC , etc)
+     .. MIMO Channel
+     .. OFDM / SC-FDM
+     .. CDMA System
+
+[薪資]
+新鮮人依公司規定 50,000/m起跳
+有工作經驗者另議
+
+[聯絡方式]
+請寄履歷至104職缺 http://ppt.cc/~aco
+
+[備註]
+歡迎通訊系統組畢業生加入
+

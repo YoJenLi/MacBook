@@ -1,0 +1,29 @@
+
+作者iammaddux (iammaddux)看板Tech_Job標題[徵才] 奇景光電徵APR工程師..時間Fri Oct  5 09:36:44 2012
+公司名稱
+        奇景光電(NASDAQ掛牌, 股票代號HIMX)
+工作內容
+        1.SOC APR
+        2.Develop/enhance backend flow
+        職務類別：CAD／APR工程師
+        工作待遇： 依公司規定
+        工作性質： 全職
+        上班地點： 台北/新竹/台南
+        管理責任： 不需負擔管理責任
+        上班時段： 日班
+        休假制度： 依公司規定
+        可上班日： 不限
+        需求人數： 2 人
+工作條件
+        工作經歷： 3年以上
+        學歷要求： 大學以上
+        科系要求： 電機電子工程相關、資訊工程相關
+        其他條件： 1.Familiar with EDA tools including ICC, StarRC, PT/PT-SI
+                     /PT-PX,Calibre DRC/LVS, Conformal-LEC, Apache RedHawk
+                   2.Familiar with floorplanning / powerplanning / clock tree
+                     synthesis / timing closure /signal integrity / IR-drop
+                     analysis / UPF & low power flow.
+                   3.familiar with FE is plus
+
+代PO，請直接回到 clock_chung@himax.com.tw
+

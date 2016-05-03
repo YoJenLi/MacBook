@@ -1,0 +1,8 @@
+
+作者lancert (本來沒有我)看板Tech_Job標題Re: [請益] Amazon online test時間Sun Mar 24 17:54:26 2013
+※ 引述《sinread (電腦真耗錢)》之銘言：
+: 小弟不才剛剛也去考試了, 回報一下試題:
+: 1. 給一個int array, 再給一個S, 請利用array 內的東西組成S, 如果組不出來
+: 回傳-1
+: EX1: {1,3,5}, S= 11
+: A: 3; 

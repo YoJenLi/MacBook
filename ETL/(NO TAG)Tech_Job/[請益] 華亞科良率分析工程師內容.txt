@@ -1,0 +1,23 @@
+
+作者heinztzeng (亞利安)看板Tech_Job標題[請益] 華亞科良率分析工程師內容?時間Thu Jun 12 21:20:09 2014
+前幾天HR打電話給我問我要不要面試
+
+本來已經沒找研發替代役了 但是想說來是去試試看
+
+之後去人力銀行網站看工作內容
+
+因為實在對"良率分析工程師"完全不了解
+
+看到以下工作內容
+
+1.Yield baseline enhancement and detractors management.
+2.Experiemental lots yield analysis
+3.Conduct Mosaid or benchtester for the failure chacterization of marginal
+tests.
+4.Yield forecast& benchmarking among fabs.
+5.Project management.
+
+請各位前輩這些是甚麼意思?
+
+先前耙文看到還有良率分析工程師真的不用投入製程嗎?
+

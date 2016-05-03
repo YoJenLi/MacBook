@@ -1,0 +1,40 @@
+
+作者mimiwei955 (艾咪)看板Tech_Job標題[徵才] 徵程式 演算法工程師時間Wed Jun  3 16:26:05 2015
+
+職務名稱: C++ 程式 演算法 工程師
+          Software Engineers & Quantitative Programmers
+
+職務類別: 資訊助理人員、軟體設計工程師、統計學研究員
+          Software Engineer/Developer & IT Support (Full-time)
+
+公司名稱: Alluvium Global Research
+
+公司位置: 靠近101
+
+薪資範圍: NTD $80,000-$380,000(月)  視能力而定(面議)
+
+職務內容:
+
+1) 程式工程師
+Requirements: C++, C, linux
+Degree in any of the following: computer science, engineering,
+                                math/statistics, operations research,
+                                or physics
+Preferred:    Knowledge of design patterns, systems programming,
+              knowledge of kernel, networking TCP/UDP
+Duties:       Develop/debug software and support servers/networks,
+              Implement algorithms for data manipulation
+              Maintain documentation of procedures, models, and programming work
+
+2) 演算法工程師
+Requirements: Familiar with R or Matlab (or NumPy/SciPy)
+Degree in any of the following: engineering, math/statistics, econometrics,
+                                operations research, or physics
+Preferred:    Knowledge of probability theory, stochastic processes, or
+              time series analysis
+Duties:       Perform statistical analysis/modeling on large data sets;
+              prepare research reports
+
+連絡方式: 應徵請寄一頁履歷表至 human.resources@alluviumgr.com
+          請在標題註明，從PTT來
+

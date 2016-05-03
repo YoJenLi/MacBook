@@ -1,0 +1,61 @@
+
+作者utnevol99 (utnevol99)看板Tech_Job標題Re: [請益] NVIDIA筆試時間Wed Oct 17 19:09:20 2012
+這個之前有去過~
+
+筆試個人是覺得剛畢業的新人，能全部寫出來的是少數吧...(在下就是)
+
+上次去寫筆試的時候，對面坐了一位在ACER有六年工作經驗，是113 CS畢業的~
+
+結果我今天還是有接到HR的電話，本來要約筆試，結果HR赫然發現
+
+我之前有去過了XDDD"
+
+
+題目還蠻多名詞解釋的，佔了八成有吧~
+
+大部分都是考C++或Macro相關的，依稀記得幾題，分享給大家看吧~
+
+題目不一樣不要來找我(也許會換題目)，一樣的話也請人資不要來找我...|||
+
+1.what is calling convention?
+
+2.什麼情況下會造成calling convention? how to resolve?
+
+3.what is inline?
+
+4.what is deadlock ? please demonstrate it.     // 這題對我來說最簡單了T_T
+
+5.what is macro?
+
+6.請你把一段程式用macro的方式修改~
+
+7.what is virtual function
+
+8.what is polymorphism ? what's the difference between  virtual function and
+
+polymorphism?
+
+9.考C/C++的，一題蠻容易出小錯誤的程式，網路上很常見的題目~
+
+//這題大概也是我唯二會寫的題目...
+
+10.剩下都是程式改寫題，名詞定義的大概就這些吧~
+
+大家加油！
+
+題目有一樣的話，記得回來推個文呀XD"
+
+
+
+※ 引述《koberaper (科比強暴犯)》之銘言：
+小弟想要應徵這個職缺
+
+嵌入式系統軟體開發工程師（台北）
+
+本周要筆試
+
+想要請問有沒有人去應徵過
+
+會考哪個方向 C? C++? OS?
+
+

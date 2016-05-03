@@ -1,0 +1,14 @@
+
+作者lv1216 (剛玉)看板Tech_Job標題[請益] 開發iOS所有Macbook都可以用嗎？時間Mon Feb 15 22:40:29 2016
+請問各位版友
+
+開發iOS APP 想用Swift或Objective-C語言開發
+
+是所有Macbook都可以嗎？
+
+如果買Macbook Air 4G記憶體版本
+
+可以開發嗎？
+
+謝謝！
+

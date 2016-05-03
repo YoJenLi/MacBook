@@ -1,0 +1,10 @@
+
+作者mimi0213 (提拉米蘇好好吃喔)看板Tech_Job標題[請益] Qnap file system performance tuning時間Thu Aug 16 17:40:43 2012
+Hi，最近有機會和 http://0rz.tw/qRKhI 這個Qnap的部門面試，
+
+不知道各位有無清楚這位Kevin Liao 廖先生的部門風氣如何？
+
+個人覺得他們做的file system performance tuning相當有技術。
+
+謝謝。
+

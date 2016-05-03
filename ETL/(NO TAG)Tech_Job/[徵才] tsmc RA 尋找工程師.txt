@@ -1,0 +1,16 @@
+
+作者sunnyshsieh (sunnyshsieh)看板Tech_Job標題[徵才] tsmc RA 尋找工程師時間Thu Oct 25 21:19:54 2012
+Job contents: Join advance Reliability One-Team Activities
+1. Involve advance <28nm circuit-like test pattern design for circuit reliability study
+2. Device and gate dielectric reliability characterization
+3. FinFET reliability model development
+
+Job Spec:
+1. Own EE or physics MS or Ph.D. degreee
+2. Familiar with device or gate dielectric physics
+3. With device or gate dielectric characterization experience
+4. With circuit design experience will be a plus
+
+請直接mail CHWANGC@tsmc.com
+目前31薪水約四至五萬 請面試時直接和HR談
+

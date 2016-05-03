@@ -1,0 +1,41 @@
+
+作者dduionomo (貌似開朗的孤獨感)看板Tech_Job標題Re: [情報] DLINK 850L (11ac只要 美金130)時間Sun Mar 31 23:05:12 2013
+※ 引述《egnaro123 (原po是大叔)》之銘言：
+: http://wikidevi.com/wiki/D-Link_DIR-850L_rev_A1
+: 用的是Realtek solution,這台有memory 128M, USB 3.0
+: 猜測是直接用reference design小改,
+: http://wikidevi.com/wiki/Realtek_RTL8197D-11AC_Reference_Design
+: 以Realtek傳統超強的價格, 11ac價格爛掉是早晚的是,
+: dlink仍算貴, 130, RT-AC66U用的是broadcom也只要199
+: 相信等二線廠進來時,價格就可以更低了 (totolink/edimax/...)
+: qualcomm/broadcom/realtek都有11ac,
+: ra-link 11ac目前有在市面上出現了嗎?
+: 想不到幾年後 realtek無線推產品的速度比ralink快.
+
+MTK比較慢，應該說慢得多，版子問題還是一堆
+AC問題最快的還是Broadcom，第二代產品都出來了。
+一代產品早就在美國賣翻了，智易與正文代工的linksys, netgear現在賣很好阿
+USD199
+二代產品最快的應該是Buffalo，CES就有產品了，3X3的
+DLINK那個130還是 2X2
+
+RT價格與B廠價差不只十美金，反映到終端價格也很正常。
+
+EDIMAX幫日系IODATA作的應該也上市了，都是B牌solution
+
+TOTOLINK的話倒是四月底發表
+
+TP-link用QA的，在中國賣四百多羊，測起來效能很驚人的..........低，感覺是要趕
+著上市的產品。Atheros被Qualcomm吃掉之後感覺Wifi這邊產品慢很多很多
+跟MTK吃掉RALINK後的效應一樣，沒辦法，RD都被移過去做手機方案了.....
+
+
+另外提到用公板改一下就出產品這個不僅D-link為然，TP，TENDA，磊科這些甚至都沒改
+
+真正會花RD資源下去改code改東改西的....這個業界看起來只剩下韓國廠商了
+而台灣這業界的老仙角Zyxel, Draytek等，又已經都慢慢退出主流市場
+
+D-link在全世界大概只剩下台灣市場是No.1了，其它國家的能見度都在大幅降低中...
+
+也許到最後這個業界的RD只要會porting就好了，唉~~~越講越悲哀
+

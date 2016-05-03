@@ -1,0 +1,14 @@
+
+作者hsnuyi (羊咩咩~)看板Tech_Job標題[請益] Protocol Development時間Sun Jan 24 18:49:48 2016
+請問各位先進 如果要從事全新的wireless protocol development
+
+(這裡說的全新 是指重頭到尾自己設計)
+
+有什麼資源可以參考的嗎? 網路上的 或是實體書籍都可以
+
+另外 針對自行設計protocol的行為模擬 有任何可以使用的免費軟體嗎?
+
+我知道可以直接從C下手 不過似乎過於耗工費時
+
+謝謝
+

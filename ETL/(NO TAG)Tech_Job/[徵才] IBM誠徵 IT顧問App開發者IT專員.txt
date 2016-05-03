@@ -1,0 +1,133 @@
+
+作者iceking162 (iceking)看板Tech_Job標題[徵才] IBM多項職缺時間Wed Mar 25 21:51:57 2015
+
+
+幫朋友代PO徵才資訊，
+目前IBM需要應徵 IT Consultant, Application Developer, IT Specialist
+詳細職缺與工作內容如下所示，
+有興趣的版友可以考慮投投看！
+
+PS. 最後一行有聯絡方式，有問題都可以聯絡唷！
+
+===============
+
+【公司名稱】IBM  徵才網站：
+http://asmarterplanet.com/tw/blog/2015/01/2015campusopenings.html
+【工作職缺】
+IT Consultant (Cloud, Mobile, Digital Operation, & Social Technology)
+【需求人數】 5人
+【工作內容】
+1. Assist in delivery of high quality solutions to clients in response
+   to specific business requirements
+2. Support on technical solution through research and evaluations of
+   technology.
+3. Provides management consulting to client IT and Business Executives who
+   are responsible for managing and delivering IT related services to
+   their end user community or external clients.
+4. Define the business drivers and associated IT capabilities and services
+   that are required, develop the IT capabilities and implement the IT
+   business management systems required to maintain IT value and service
+   delivery.
+5. Performs design/development/testing of cloud/traditional application
+   projects.
+6. Interacts with the requirements team, clients, and others in the field
+   for various purposes including gathering requirements, product demos,
+   and resolving technical issues.
+7. Prepares and writes technical documentation such as content to be
+   included in the documentation of design and training material.
+
+【徵求條件】
+1. Bachelor's Degree or above in Computer Science, Information Engineering,
+   or Management Information Systems related.
+2. Good at OOAD (Object-oriented analysis and design) and programming skills.
+3. Good at mobile APP development.
+4. Campus Hired – graduated from school or military service within 2 years.
+5. Legal right to work in Taiwan, can onboard before Sep 2015 (military
+   service discharge date should before Sep 2015 for male candidates)
+6. Fluent English.
+7. Campus Hired – graduated from school or military service within 2 years.
+
+【工作地點】台北市信義區
+
+【工作時間】週一至週五8:45~17:18
+
+【月休】週休二日
+
+【薪資範圍】NT$45,000-65,000 per month
+(Still depends on different work skills; with experience, discuss separately)
+
+
+================================
+
+【工作職缺】 Application Developer
+【需求人數】 1人
+【工作內容】
+1. Participate in the full cycle of application development processes, those
+   include requirement analysis, solution design, application development,
+   quality assurance & testing methodologies by leveraging IBM leading edge
+   software products, solutions, tools and techniques on Cloud, Big Data,
+   Mobility, Social Network and securities areas..
+2. Collaborate/communicate with project team and customers under IBM senior
+   project manager or IT Architect to achieve project objectives.
+
+【徵求條件】
+1. Basic knowledge in Programming skills for either Java,JavaScript,J2EE, C++
+   or Dojo.
+2. Basic knowledge in Web application development - Web Services,Ajax,XML or
+   CSS.
+3. Basic knowledge in Relational database system in DB2,Oracle or SQL server.
+4. Basic knowledge in Shell Script, Jython, Python, Perl.
+5. English: Intermediate.
+6. Bachelor's Degree or above in Information Techlogy.
+7. Campus Hired – graduated from school or military service within 2 years.
+
+【工作地點】台北市信義區
+
+【工作時間】週一至週五8:45~17:18
+
+【月休】週休二日
+
+【薪資範圍】NT$45,000-65,000 per month
+(Still depends on different work skills; with experience, discuss separately)
+
+
+===============================
+
+【工作職缺】 IT Specialist(Client Facing Role)
+【需求人數】 1人
+【工作內容】
+1. Build proof-of-concept solutions with data management technology and
+   architecting data management solutions to address client requirements.
+2. Apply technical skills to support the operation and maintenance of vendor
+   products, services, and solutions.
+3. Deliver technical solutions by on-site services.
+
+【徵求條件】
+1. Have expertise in one or more relational and non-relational data
+   management-based software product areas.
+2. Mainstream data management software, such as those from Oracle and DB2
+   skills.
+3. Basic knowledge in database, Oracle and DB2 experiences are preferred.
+4. Data analytics - skillful on Extract-Transform-Load (ETL).
+5. Familiar with Unix / Linux environment.
+6. J2EE solutions experience.
+7. Bachelor's Degree or above in Information Technology.
+8. Campus Hired – graduated from school or military service within 2 years
+
+【工作地點】台北市信義區
+
+【工作時間】週一至週五8:45~17:18
+
+【月休】週休二日
+
+【薪資範圍】 NT$45,000-65,000 per month
+(Still depends on different work skills; with experience, discuss separately)
+
+
+======================
+
+【聯絡人/聯絡方式】
+Upload your resume to：
+ https://jobs3.netmedia1.com/cp/faces/job_summary?job_id=GBS-0716700
+And if any problem, contact Florence Lo：thlo@tw.ibm.com
+

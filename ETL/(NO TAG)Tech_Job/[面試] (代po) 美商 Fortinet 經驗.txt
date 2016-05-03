@@ -1,0 +1,41 @@
+
+作者CACALALA (caca)看板Tech_Job標題[面試] 美商 Fortinet 經驗時間Fri Nov  6 20:08:37 2015
+代po代po   請直接推文問問題
+
+應徵職位：  Jr. Computer Virus Analyst/Software Engineer
+
+2.5小時
+有三份考卷
+一份是智力測驗，
+像是
+9  -   ?  81 121
+3  5   7  9   -
+
+- 代表的是有缺的數字
+問你 ? 裡面該填寫什麼
+這種考題大概三十題左右
+還有邏輯測驗
+Miss A, B 有紅車
+Miss B, C 有男友
+問你誰有車又有男友的
+當然上面這只是大概，類似，實際上的問題複雜多了
+不過畫個圖表就可以知道了
+題目全英文，順便也可以考英文好不好
+
+
+第二份是能力測驗
+這個不用準備也不能準備了
+從組合語言到 linux, C code tracing, javascript, shell, python 都有了
+只有平常有在用的才會寫
+像是考你
+def func(a, b): pass 在 python 是幹嘛用的
+chown指令怎麼改權限, chmod, 等等
+不用準備，有用就會
+
+
+第三份就是 behavior 了
+問了你個人特質, 怎麼形容你
+叫你用全英文寫出來
+
+時間到了hr會來收考卷，告知如果通過測驗就會發面試通知
+

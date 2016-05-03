@@ -1,0 +1,40 @@
+
+作者supersu1a (鮪魚)看板Tech_Job標題[徵才] 通訊基頻IC設計時間Mon Jun  2 21:58:21 2014
+Job function:
+Zyflex, subsidiary of Zyxel group, is a leading company focusing on satellite,
+vechiluar, manpack and handheld radios.
+We are seeking new members for positions involve the development and design of
+wireless communication system on SDR platforms for a variety of wireless
+modem products.
+Successful applicants will participate in the design, implementation,
+integration, and verification of the base-band communication system.
+
+Requirement:
+Applicants must have a background in digital communication theory and
+experienced in at least ONE of the following areas:
+     - Filter design
+     - Channel Estimation
+     - Linear/non-linear Equalization
+     - Synchronization
+     - Error-Correction Codes
+     - MIMO Channel
+     - OFDM/SC-FDM
+     - CDMA/Spread Spectrum
+Hands-on experience with implementing a communication system is a plus.
+Familiar with Hardware Description Language is a plus.
+
+Responsibilities:
+Development and design digital baseband system. Design transmitter and receiver
+architecture, functional modeling, and verify.
+Cooperate with other engineers for solving issues such like module interface,
+area optimization and performance tuning.
+
+Education Requirements:
+Master's or equivalent experience.
+
+薪水:
+合勤集團新鮮人起薪 $47000 NTD 有經驗者另議
+
+聯絡方式:
+請投履歷至104職缺 http://ppt.cc/yO0~ 並在"自我推薦"欄位註明PTT
+

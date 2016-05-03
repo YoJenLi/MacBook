@@ -1,0 +1,17 @@
+
+作者niniko1234 (niniko)看板Tech_Job標題[請益] SOC開發的人力需求時間Tue Jan 21 01:29:18 2014
+
+因本身是做system 硬體部分,
+公司在開發SOC的過程, 從FPGA驗證的PCB需求/debug,
+SOC EVB製作, system level verification..等,
+系統部門就只有我和另一位同事,應付IP owner和SW的各種實驗需求,
+常感覺事情很多, 做得很累,
+
+想請問一下,是否有在design house做系統硬體的大大,
+公司的人力都是如何?
+
+只是希望可以參考一下, 評估看看,
+究竟是自己能力不足, 才會覺得工作多, 做得累,
+還是應再建議公司做些人力補充..
+
+

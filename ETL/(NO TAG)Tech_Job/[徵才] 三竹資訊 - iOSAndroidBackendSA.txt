@@ -1,0 +1,30 @@
+
+作者glaci (軟趴趴)看板Tech_Job標題[徵才] 三竹資訊 - iOS/Android/Backend/SA時間Mon Aug  5 16:50:18 2013
+
+公司名稱： 三竹資訊
+
+公司資訊：
+
+http://goo.gl/wn70WN
+
+
+需求人才：
+
+iOS
+
+工作技能需求:
+1.熟悉 Objective-C, XCode, iOS SDK, Cocoa Touch 開發
+2.兩年以上開發 iPhone、iPad App 經驗, 並已經有作品上線
+
+
+加分條件:
+1.熟悉 HTML5
+2.熟悉 CSS3, W3C標準, jQuery, Responsive Design, Web 開發相關
+3.有介接 FB, Yahoo, Google, Weibo 等平台 API 相關經驗
+4.會 Mobile App Analytics, 了解 Flurry, GA 等分析工具
+5.能撰寫 Objective-C 的單元測試（或 SenTestKit、Kiwi）
+6.使用過 Testflight, Hockeyapp
+7.熟悉 instruments 或 App 優化與效能調整
+
+需求人數: 1
+

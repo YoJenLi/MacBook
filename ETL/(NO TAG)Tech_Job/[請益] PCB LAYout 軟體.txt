@@ -1,0 +1,37 @@
+
+作者zj4gjcl6 (無言以對)看板Tech_Job標題[請益] PCB LAYout 軟體?時間Fri May 15 14:00:18 2015
+目前從事機構方面設計
+
+但是
+
+主管有要求要接PCB layout的業務
+
+以前是有用AutoCAD 轉GERBER 檔! 雕電路板
+
+公司的主要產品
+
+1.SWITCHING POWER SUPPLY(AC POWER ADAPTER)
+2.CHARGER
+3.OPEN FRAME
+
+目前有這些軟體
+
+POWER PCB or PADS Cadence
+
+Allegro、CAM OrCAD
+
+該學哪一套好? 如果互相轉換 會不會有門檻? 像solidworks 轉 PRO/E 有一點難
+
+但反之則還好
+
+目前公司有外包給一位合作
+
+可能是想把他換掉 他是用PADS POWER PCB
+
+可是Allegro 好像大廠再用?
+
+不過做久了可能跟大大說的一樣 轉不了RD 一輩子的助工....
+
+
+
+

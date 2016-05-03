@@ -1,0 +1,16 @@
+
+作者MANSUN999 (MANSUN)看板Tech_Job標題[請益] 趨勢 16903: Sr. SEIT時間Fri Nov 22 18:42:26 2013
+今天收到趨勢 Sr. Software Engineer in Test 的面試邀請
+
+這個部門是做 client-server product (Trend Micro Endpoint Application Control)
+
+不過面試要考程式的部分...(PYTHON只會一點皮毛,深入淺出程式設計我才看一半@@)
+
+請問我這個非本科系+PYTHON只會一點皮毛的人,去面試有機會上嗎?
+
+(考券我可能幾乎不會寫)
+
+其實我應該這樣問,趨勢的考卷0分會錄取嗎? 如果有例外 我或許可以試試看....
+
+PS:之前的工作經驗做過5年的軟韌體測試(黑箱,沒碰過程式)
+

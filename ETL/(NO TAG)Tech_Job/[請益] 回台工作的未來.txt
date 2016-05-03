@@ -1,0 +1,40 @@
+
+作者ej04cj86 (It's All About 18)看板Tech_Job標題[請益] 回台工作的未來時間Wed Apr  9 09:42:36 2014
+想請問板眾
+
+本人目前在澳洲一家中型Data house工作
+
+已累積兩年資歷, 目前專門負責Flight Centre的各項資料庫疑問
+
+負責的項目有 -
+
+跟客戶直接溝通並得到requirements
+
+Database (MSSQL, T-SQL) 的query 以取得資料
+
+Tableau Dashboard setup and analyse
+
+Campaign Optimising (利用Tableau資料建議客戶如何加強他們campaign)
+
+以及Web portal upgrade (PHP Zend2+Doctrine2)
+
+個人經驗有php kohana mvc + javascript knockout.js MVW
+
+memcache以及基本deployment例如 local->staging->live 的概念都有
+
+git+subversion 的經驗也都涉足過, management則是jira scrum
+
+個人的resume在  http://au.linkedin.com/pub/samuel-lin/61/443/ab0/
+
+今年九月滿23, 還未當過兵, 目前年薪6萬.
+
+想問如果以目前的經歷回台以台灣目前的市場會缺我這種developer嗎?
+
+因為現在卡在回家照顧父母以及決擇自己未來人生規劃的dilemma
+
+如果找到的話, 薪資大蓋落在哪個範圍呢?
+
+煩請各位版友能夠提點建議, 因為本人完全不了解台灣IT產業
+
+謝謝
+

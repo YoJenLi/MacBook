@@ -1,0 +1,18 @@
+
+作者bald (好好)看板Tech_Job標題[請益] 群聯職缺請益時間Mon May 11 23:35:24 2015
+
+
+小弟私立土博
+最近有幸接獲到 phison 數位IC設計工程師 面試邀約
+
+工作內容為
+
+1. Survey/ Design/ Implement ECC (Error Correction Code) for NAND Flash.
+2. NCVerilog程式設計、模擬
+3. 協助IP應用/授權之除錯與驗證
+
+因為很珍惜這次的面試 因此
+請益版上前輩  有相關面試經驗  或  這職缺工作經驗分享嗎?
+
+謝謝
+

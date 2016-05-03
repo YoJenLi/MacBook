@@ -1,0 +1,18 @@
+
+作者ttokin (這是什麼)看板Tech_Job標題[請益] Analog RD對layout的了解程度時間Fri Mar  7 23:29:07 2014
+
+  小弟入行四年 大都待在小design house
+
+  最近公司schedule壓的很緊 弄layout整合的又很菜
+
+  就被叫去一起幫看 whole-chip LVS
+
+  雖然以前LAB有學過design flow 不過對於解LVS還是不在行
+
+  但layout主管對於做design的不會解LVS 覺得不可思議
+
+  雖說 有些公司RD也是要自己畫layout
+
+  不過對於analog RD來說到底是必備的嗎?
+
+

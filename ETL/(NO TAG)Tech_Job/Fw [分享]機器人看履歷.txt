@@ -1,0 +1,22 @@
+
+作者inaker (命運好好玩)看板Tech_Job標題Fw: [分享]機器人看履歷時間Sat Apr 19 02:54:26 2014
+※ [本文轉錄自 Oversea_Job 看板 #1JKNH5mY ]
+
+作者: inaker (命運好好玩) 看板: Oversea_Job
+標題: [分享]機器人看履歷
+時間: Sat Apr 19 02:51:45 2014
+
+前陣子週末閒來無事，寫了一個小程式出來，
+
+基本上是用機器人的眼光來看我們上傳到各公司的履歷表。
+
+如果有興趣，可以玩玩看，給我一點建議。
+
+以下是解釋文章：
+http://blog.rockresume.com/2014/04/blog-post_13.html
+
+以下是工具地址：
+http://rockresume.com/robot_reviewer
+
+多謝
+

@@ -1,0 +1,32 @@
+
+作者johmdick (johmdick)看板Tech_Job標題[討論] 整合相較於製程和設備時間Sun Sep 29 00:14:20 2013
+剛剛看了幾篇比較製程和設備
+
+那個比較賽的文章
+
+想想小弟現在剛做整合不久
+
+一天到晚天天查spc alarm
+
+或是客戶highligh的low yield
+
+有時莫名收到hold lot
+
+尋問hold過來的原因
+
+“有異常，請owner handle”
+
+最近甚至聽到有前輩問module
+
+“請問你們遇到異常的SOP是什麼？”
+
+“hold給整合！”
+
+聽到這答案
+
+整合一天到晚隨時都要幫人清賽就對了
+
+
+
+
+

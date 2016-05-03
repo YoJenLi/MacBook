@@ -1,0 +1,57 @@
+
+作者shter (飛梭之影)看板Tech_Job標題Re: [心得] 走偏的資訊人給年輕人的告誡時間Wed Dec  5 00:40:09 2012
+※ 引述《kokoko0707 (卡登)》之銘言：
+: 常聽說 對電腦很有興趣 寫程式也很有興趣 希望走資訊這條路
+: 什麼都會一點 SQL會一點  MYSQL會一點 vb會一點  測試找BUG很強 執行專案很強
+: WINDOWS很熟 維修很強 找問題很強 寫手冊很強..應付客戶很強..可是卻沒屁用
+: 什麼都不精 年紀大就是什麼都不能做 資訊業都要專才 不要通才
+
+其實通才還是有通才的市場, 但我同意專才比較好賺
+以前我也是 VB PHP MySQL Javascript Flash ... 玩一堆
+現在的公司做雲端裝置也是通很大
+
+前端用戶
+HTML 5 + Ajax + Flash + Applet ,
+
+中繼
+PHP + MySQL 或 SQLite , Remote , XML / JSON , 規劃 Schema
+
+底層運作
+C compile CGI 直接接受讓 .sh 呼叫運行系統 function
+
+於是乎一個通才 RD 要從前頭的 Web UI 通到 Linux 的 C compile
+因為客戶要運用互動式界面直接操作連在 LAN 上的 Device run program
+又不是架網站在網路上, 是要賣出去給客戶安裝在自己家或公司裡使用
+
+其實也沒有很難理解
+以往 Device FW 也可從 PC 端 VB 或 VC 視窗應用程式下 UART 指令控制 FW 動作
+現在變成要搞從瀏覽器送 TCP/IP 封包給 Server 收到後下指令控制動作
+只是 Web UI 要做的像視窗應用程式一般動作就擁有非常複雜的控制流程
+
+在 VB 按個 Button 的效果是原生的 , 現在要自己切一堆圖片配 CSS 做出陰影反差
+要讀檔傳輸就讀進記憶體切一切批次丟 COM PORT , 拖拉也是元件的既定行為
+在瀏覽器要用 iframe 偽裝 POST 上傳 , 拖拉還要靠 HTML 5 File API事件控制
+並且 IE Firefox Chrome Safari Opera ..... 一堆相容性要兼顧
+
+
+專有專的專門負責 Linux Kernel
+通有通的整合前端到後端的一切運作開發, 想辦法讓人從 IE Firefox Chrome 控制
+如果缺少了任何一塊的概念也沒辦法完成這工作的需求
+反而是都會一點的比較能勝任
+至少不會連 client 端瀏覽器怎麼看到在 ssh 下 top 看到的東西都沒概念
+或是不懂怎麼把 log 把 config 文字檔讀到瀏覽器上變成用下拉選單選完儲存改變設定
+甚至用 samba 丟了檔案或改了檔名後瀏覽器檔案列表清單馬上 update
+只專精 samba 或只專精在 remoting 的就不一定像通才都略懂並用 inotify 做到需求
+雖然他可能只是很簡單的 add watch 後改 list 文件
+並讓 Web UI 設 interval 呼叫 XMLHttpRequest 向 Server PHP
+PHP 再固定撈這個 list 文件 echo 成 XML 或 JSON 給瀏覽器 Javascript 重繪列表
+
+
+敝公司通才薪水也是說高不高說低不低, 專才就真的不錯
+我這種都略懂一點, 至少有點概念不會太抽象的 , 調薪前月薪大概也是 45K
+其他績效看公司營收, 去年出貨不少, 公司分紅年終獎金加起來 400K 左右
+反正只要你都有概念略懂, 進來教一下學一學跟著做一個專案就慢慢上手了
+通才也是會漸漸有專精的東西, 但就是會一直要學新的東西就是了
+就像 HTML 5 的出現通才也是要跟著 update 才能保持技術能應付市場需求
+不然別人都原生多選檔案你還在靠 Flash 多選搞的平板跟手機上不能 run 就輸了
+

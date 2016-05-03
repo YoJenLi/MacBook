@@ -1,0 +1,29 @@
+
+作者lesely (蛋蛋)看板Tech_Job標題Re: [請益] QE工程師與專案管理師選擇時間Mon Jul 20 21:43:35 2015
+※ 引述《lesely (蛋蛋)》之銘言：
+: 小妹我已當了QC工程師三年的經歷
+: 自己想轉專案管理師
+: 日前面試專案管理師與QE工程師有要給我offer
+: QE工程師是宇瞻科技
+: PM則是小公司
+: 想知道這2個職位的未來發展性/升遷
+: 有比較推薦的嗎?  謝謝
+
+這個部分我做一下補充說明
+QE工程師工作內容:
+1.產品的品質管理與分析。
+2.Key Parts Quality Control and 要求IQC對供應商的改善與要求。
+3.產品外觀檢驗標準Maintain。
+4.New Product Sample Run Join and tracking bug solve。
+5.FA Case Analysis by Process issue。
+6.Customer's Audit 配合。(QE Part)
+
+PM工作內容:
+1.專案進度管理/時程掌控
+2.跨部門溝通協調
+3.外包廠商產能及交期協調
+4.產品成本管理
+5.產品及半成品料件之備料管理
+6.支援業務及客戶服務工作
+PM公司做的是:
+公司主要商品為全世界第一套嵌入式紅外線人臉識別系統

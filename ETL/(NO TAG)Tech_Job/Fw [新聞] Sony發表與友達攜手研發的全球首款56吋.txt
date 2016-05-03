@@ -1,0 +1,49 @@
+
+作者isco (踏著月光回家)看板Tech_Job標題Fw: [新聞] Sony發表與友達攜手研發的全球首款56吋時間Tue Jan  8 23:08:28 2013
+※ [本文轉錄自 Stock 看板 #1Gx3GU1j ]
+
+作者: isco (踏著月光回家) 看板: Stock
+標題: [新聞] Sony發表與友達攜手研發的全球首款56吋
+時間: Tue Jan  8 22:58:35 2013
+
+1.原文連結：
+Sony發表與友達攜手研發的全球首款56吋4K OLED電視
+
+http://www.moneydj.com/kmdj/news/NewsViewer.aspx?a=d825ef1d-78d1-4274-bb18-
+f5323fc674d9
+
+2.內容：
+
+精實新聞 2013-01-08 11:57:20 記者 蔡承啟 報導
+
+ Sony 56吋4K OLED電視
+液晶電視品牌大廠Sony 8日發布新聞稿宣布，已研發出全球首款、且為全球最大的56吋
+4K(3840 x 2160)OLED電視，並將在美國拉斯維加斯舉行的「2013 International CES」
+上展示該56吋4K OLED電視的試作機。Sony表示，將於CES展示的56吋4K OLED電視試作機
+採用了該公司與台灣友達(2409)攜手研發的OLED面板。
+
+Sony表示，現有的OLED電視產品因藉由驅動OLED層來進行發光，故使用了低溫多晶矽TFT
+，惟其最大課題在於面板的大尺寸化；而Sony新研發的OLED電視因採用最先端的氧化物半
+導體(oxide semiconductor)TFT以及Sony自家的「Super Top Emission」技術，故即便尺
+寸達56吋，面板解析度仍可實現4K的水準。
+
+Sony、Panasonic於2012年6月25日發布聯合新聞稿宣布，將攜手研發使用於電視/大尺寸
+顯示器的次世代OLED面板，目標為在2013年內確立次世代OLED面板的量產技術。
+
+據日經新聞報導指出，Sony、Panasonic所將共同研發的「印刷式技術」因不需要大規模
+的生產裝置，故和現行主流的「蒸鍍生產技術(三星就採用此種技術生產OLED面板)」相比
+可有效降低量產成本。日經指出，一旦Sony、Panasonic能確立上述「印刷式」OLED面板
+的量產技術，則就可用現行液晶面板(LCD)約一半的成本生產大尺寸OLED面板。
+
+
+
+全文網址:
+http://www.moneydj.com/kmdj/news/NewsViewer.aspx?a=d825ef1d-78d1-4274-
+bb18-f5323fc674d9#ixzz2HObukhIl
+MoneyDJ 財經知識庫
+
+3.心得/評論(必需填寫)：
+慘了~~~ TFT-LCD的末日到了.....都突破了蒸鍍技術而且還做到4K2K...
+又要改ink-jet printing技術.... 真的將成本省到極致,會不會在三年內可以達到1inch
+1000台幣呢?
+

@@ -1,0 +1,40 @@
+
+作者eddiesoong (eddiesoong)看板Tech_Job標題[請益] 關於xilinx ISE 14.1 跟modelsim SE 64時間Mon Dec 10 19:59:43 2012
+我描述仔細一點
+
+我原本用 ISE 14.1 64bit  跟modelsim SE 64 10.1c 兩個都裝但兩者版本好像沒法相容
+
+會顯示 vcamp vlib程式發生錯誤 出現要回報錯誤的訊息(應該是因為不匹配)
+
+請問用ISE 14.1 64bit 要跟哪個匹配? modelsim SE64 10.1a 吧!
+
+但是modelsim SE64 10.1a這個我找了好久都找不到 能的話附上下載連結讓我下載好嗎?
+非常感謝
+
+我裝完後要把ISE 14.1 跟modelsim SE 64 10.1c連接時
+
+我都是照hi.baidu.com/123117400/item/86a44aab66a63ef115329b92
+
+跟wenku.baidu.com/view/a74c02b569dc5022aaea00b9.html
+
+去安裝的但在
+
+wenku.baidu.com/view/a74c02b569dc5022aaea00b9.html裡
+
+我在裝圖7那個裝的時候 一直有 vcamp vlib vcom錯誤的訊息 (我問網上的人有人說是因
+為版本問題)
+
+然後裝完有9個edk錯誤
+
+請問有人知道怎麼解嗎? 然後每次用完這個連結我電腦就會怪怪的 重開機之後 要修復就
+像要重灌那樣 但不用重灌 不知WHY
+
+我電腦是剛買不久64BIT的wondows 應該不是老舊問題
+
+其實就是想問有人有modelsim SE 64 10.1a 該軟體嗎 或者能跟我講在哪下載?
+
+因為 graphor官網那沒有這個可以下載
+
+
+(不好意思 因為我不知這類文章要PO在哪裡 才會有相關經驗的人看到 icdesign裡都沒人)
+

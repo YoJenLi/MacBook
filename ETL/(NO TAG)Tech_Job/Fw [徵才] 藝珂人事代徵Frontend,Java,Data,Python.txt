@@ -1,0 +1,175 @@
+
+作者Sheepforpart (Sheep)看板Tech_Job標題Fw: [徵才] 藝珂人事代徵Frontend,Java,Data,Python時間Tue Sep 15 12:28:19 2015
+
+日商大型軟體公司
+
+經營大型通訊平台，主打亞洲市場，目前已經有5億左右用戶，繼續快速成長中，成員是
+亞洲的第一線人才
+
+地點：日本福岡
+待遇：YEN 7M~12M/ Annually
+
+Job Description:
+ - 尋找亞洲頂尖開發人員，至少5年以上工作經驗
+ - 精熟 Java/ Objective-C/ C++/ Perl/ Ruby/ Python/ GO 任一程式語言
+ - 了解行動裝置開發
+ - 對資料庫及網路管理有基本認識
+ - 英/日文語之一溝通流利
+
+
+-
+日商大型衣物零售公司
+
+世界Top 10及亞洲Top 5衣物零售公司
+
+地點：日本東京六本木
+待遇：YEN 5.8M~12M/ Annually
+Job Description：
+
+Web/Mobile Engineer(iOS/Android)
+ - 3年以上Mobile App開發經驗
+ - 熟悉前端語言及框架(JavaScript, Angular, React)
+ - 具有Agile開發方法相關經驗
+ - 資工相關背景加分
+
+E-Commerce Engineer
+ - 5年以上開發經驗
+ - 熟悉物件導向語言如Java/C/C++
+ - 基本J2EE design pattern/ Integration pattern
+ - 熟悉MVC框架
+
+*需多益700以上
+-
+新加坡新創軟體公司
+
+新加坡新創公司，在台北成立辦公室，成員是世界各地的第一線工程師，已經拿到
+1200萬美金投資，目前積極擴展中。
+
+地點：台北市
+待遇：0.8M~2M/ Annually
+Job Description：
+
+Sr. Java Engineer
+ - 5年以上相關工作經驗
+ - 熟悉 Web Java 開發及MVC框架
+ - 有AWS S3/ EC2/ RDS相關經驗
+ - 英文溝通無礙
+ - 有早期創業團隊經驗加分
+
+Data Engineer
+ - 有實際Hadoop Ecosystem建置及使用經驗
+ - 英文溝通無礙
+ - 有早期創業團隊經驗加分
+
+-
+矽谷新創遊戲公司
+
+矽谷新創公司，來台灣成立研發中心。創辦人來自植物打殭屍團隊，預計年底在台灣
+加到20人
+
+地點：台北市
+待遇：0.7~1.3M/ Annually
+
+Job Description:
+
+Front-End Engineer
+ - 熟悉網頁前端相關技術
+ - 熟悉至少一個JavaScript 框架(Angular, React...etc.)
+ - 有Sass/ Grunt/ Node.js相關經驗
+
+Back-End Engineer
+ - 有開發伺服器端軟體經驗
+ - 熟悉Golang或其它伺服器端語言，如Python, Java, Node.js
+ - 熱衷學習新事物
+ - 有前端經驗/使用過AWS/ Google Cloud為加分條件
+
+-
+台灣電商新創公司
+
+開發供使用者拓展自己線上商店的電商平台，被比喻為「非常值得注意的5家台灣新創」
+之一，目前快速拓展中
+
+地點：台北市
+待遇：0.8~1.5M/ Annually
+
+Job Description:
+
+Front-End Engineer
+ - 3年以上相關工作經驗
+ - 熟悉網頁前端技術及一個以上前端框架
+ - 有UI及設計相關能力及經驗
+
+
+
+
+
+
+
+-
+台灣軟體新創公司
+
+開發軟體辨識相關產品，已經成功跟多家企業合作，目前快速成長中
+
+地點：台北市
+待遇：0.8~2M/ Annually
+
+Job Description:
+
+Python Engineer
+ - 3年以上相關工作經驗(Python)
+ - 熟悉網頁前端技術及一個以上前端框架
+ - 有UI及設計相關能力及經驗
+
+演算法工程師
+ - 開發、維護演算法程式碼
+ - 針對影像辨識相關的難題，實驗並組合演算法以提出解決方案
+ - 研讀相關方法論文
+ - 與同事們共同開發創新的演算法並申請專利
+
+
+-
+台灣遊戲新創公司
+
+開發結合生活的App遊戲，產品面向國際市場，目前有兩款App，都有500萬以上下載量
+
+地點：台北市
+待遇：0.5~1.2M/ Annually
+
+Job Description:
+
+iOS/Android Engineer
+ - 有Mobile App開發經驗
+ - 熟悉C++, Objective-C/ Java
+ - 有OpenGL, iOS SpiteKit, Cocos2d-x 或 Unity相關經驗
+ - 有touch UI相關開發經驗加分
+
+
+
+
+
+
+
+-
+本土銀行
+
+
+地點：台北市
+待遇：0.7~1M/ Annually
+
+Job Description:
+
+Java Engineer
+ - 3年以上Java開發經驗
+ - 熟悉Java MVC framework
+ - 有Agile/Scrum相關經驗
+
+
+
+-
+
+非常歡迎想要了解更多細節的人跟我聯絡(站內信/email皆可)
+Terry Kuo
+email: terry.kuo@adecco.com
+
+-
+

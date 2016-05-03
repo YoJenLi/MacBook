@@ -1,0 +1,77 @@
+
+作者a654 (奇想)看板Tech_Job標題[徵才] Quality Assurance Engineer （軟件）時間Tue Aug 14 09:58:40 2012
+【公司名稱 】Pentasia Recruitment  代徵
+IT service company
+
+【公司介紹】我們的客人是國外的軟體/網站開發及營運公司，因業務需要於台灣開設分
+公司，所以現正招募軟體測試工程師
+
+【工作職缺】
+Quality Assurance Engineer （軟件）
+
+【工作內容/介紹】
+This is a technique role that requires an experience QA engineer to provide
+
+quality assurance service under the management of Quality Assurance Manager.
+
+You will be expected to work in a small QA team to implement, support and
+
+maintenance of third party and in-house developed software products and
+
+systems.
+
+
+
+Responsibilities:
+
+
+Your day-to-day responsibility will be creating and executing Tests and Test
+
+cases with test data, using system and non-system test methodlogy  i.e.
+
+performance/load, using manual and automated tools.
+
+You will be testing from all suppliers including test preparation and test
+
+execution for Integration Testing, User Acceptance Testing, Regression
+
+
+Testing & Business Process Testing.
+
+You will provide support and guidance to teams to resolve problems with
+
+respect to QA and Test project work.
+
+
+Mandatory skills and experience
+
+
+You will have hands on Experience Functional Testing Automation Tools, with
+
+excellent knowledge of testing application principles, practices, tool and
+
+procedures.
+
+You will have hands on Experience in Systems and User Test Case
+
+Specifications Documentation and Scripting Design, as well as Business and
+
+Systems Process and Data Analysis
+
+You will have hand-on experience using automated test tools for testing of
+
+performance and application capacity (e.g Loadrunner / QA Load)
+
+You will have strong and consistent record of academic achievement.
+
+Desirable skills and experience:
+
+- Experience in Test Management Tools ie Quality Centre (Test Director)
+
+- Relevant technical background in web technologies or background in business
+
+analysis.
+
+- Experience using web based bug tracking tools such as JIRA and Bugzilla
+
+

@@ -1,0 +1,44 @@
+
+作者NVidiaHR (NVidia HR)看板Tech_Job標題[徵才] 104年度輝達研發替代役職務筆試時間Tue Sep 30 14:40:51 2014
+
+Hi 同學們~
+
+
+
+NVIDIA 為了體恤中南部的同學們，即將於10/8(三)2:00PM在成功大學/學生活動中心/多
+功能會議舉行統一筆試。目前招募104年度研發替代役職缺更新表如下。
+
+
+
+時程安排上只有最後一場，如果您有興趣的話，請將您的中文或英文履歷寄到
+ tw-recruitment@nvidia.com 做報名(請註明應徵職缺，當下我們還是可以做選擇)，謝
+謝。
+
+
+
+需筆試職務，括號內為工作地點:
+
+1.       Mobile System Software Engineer (台北)
+
+2.       Mobile Software Customer Engineer (台北)
+
+3.       Software QA Engineer (台北)
+
+4.       Test Engineering Methodology Engineer (新竹) (如果您是Java/ Script/
+Perl/ Python 的專才，強烈建議您考此職務)
+
+
+
+我們另有兩項職缺如下:
+
+1.       Test Engineer (新竹) 毋筆考試職務，請附上大學成績單
+
+2.       DFT Engineer (台北/新竹) 請將履歷寄到 tw-recruitment@nvidia.com ，筆/
+面試會另外安排
+
+
+
+
+
+保障年薪六十萬以上
+

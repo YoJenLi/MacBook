@@ -1,0 +1,6 @@
+
+作者unwoman ()看板Tech_Job標題[請益] 技術討論TSV與TWV製程時間Tue Feb  3 11:44:00 2015
+因為台積的關係最近常常看到TSV(Through-Silicon Via 矽穿孔)製程這個字眼,
+
+最近又看到TWV(Through-Wafer Via) 請問這兩者是一樣的嗎??
+

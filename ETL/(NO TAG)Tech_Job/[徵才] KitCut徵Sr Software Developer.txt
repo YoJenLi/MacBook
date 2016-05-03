@@ -1,0 +1,87 @@
+
+作者aloha2 (我只是個阿宅-.-")看板Tech_Job標題[徵才] KitCut徵Sr. Software Developer時間Tue Jan 19 23:12:22 2016
+代Po，勿回信
+以色列新創徵兩名SW Developer
+兩個Developer的要求不同，所以薪水也不同
+
+【Company name】
+
+KitCut – Life in Visual Mashups
+
+【Company description】
+
+KitCut is a social network for creating, sharing and enjoying memes/visual
+
+mashups. With the app the users can translate any idea into a visual mashup
+
+within seconds thanks to our editing tool. Users can also engage between
+
+them by liking, commenting and following each other.
+
+職缺1:
+
+【Job description】
+
+Scale a database for a working server + Optimizing back end performance +
+
+rebuilding architecture in case needed
+
+【Requirements】
+
+The developer must have the following skills
+
+- .net
+- SQL server
+- Proficient English
+- 5 years experience
+
+ 【Salary】
+
+ 120,000 NTD
+
+ 職缺2:
+
+【Job description】
+
+Scale a database for a working server
+
+【Requirements】
+
+The developer must have the following skills
+
+- .net
+- SQL server
+- Proficient English
+- 3 years experience
+
+【Salary】
+
+90,000 $NT
+
+【Location】
+
+台灣新創競技場
+
+台北市松江路85巷5號
+
+Taiwan Startup Stadium
+
+No. 5, Lane 85, Songjiang Rd, Zhongshan District, Taipei City, 104
+
+【Working hours】
+
+Closed project for 5 weeks.
+
+Full time (Monday to Friday but full availability is required)
+
+Lunch break
+
+
+【Contact】
+
+Yael Macias – yael@kitcut.me
+
+【Note】
+
+Our website is www.kitcut.me
+

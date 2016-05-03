@@ -1,0 +1,5 @@
+
+作者oxygenlucky7 (Oxygen)看板Tech_Job標題[心得] 很疑惑時間Sat Jul  6 15:07:34 2013
+版上很多大大都強調GG遇到困難就call vendor，製程技術的演進都靠技轉，RD好像都不用做事，在過去28的成功跟目前20的計劃，聽起來似乎都不是台積的能耐，可是如果單靠買機台跟call vendor還有技轉就做得出來的話，那為何U做不出來？既然都call vendor就好，那GG為何請這麼多EE or PE來幹嘛？過 warranty的機台還有辦法call來修嗎？新買的原廠願意release skill 或KT嗎？即使有，能夠到L4以上嗎？Vendor 也怕新產品release太多會有洩露給競爭對手的疑慮，所以在這前題下，EE
+recovery能力低，似乎關鍵還是在原廠，請大家想想吧，這個版太多其怪又不負責的言論，更多像是道聽塗說，沒有產業經驗就胡亂打的文章。
+

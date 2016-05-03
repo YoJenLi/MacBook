@@ -1,0 +1,32 @@
+
+作者abaw (abaw)看板Tech_Job標題Fw: [徵才] 海峰電腦誠徵軟體工程師時間Thu Dec 10 21:29:59 2015
+※ [本文轉錄自 Soft_Job 看板 #1MQNvDye ]
+
+作者: abaw (abaw) 看板: Soft_Job
+標題: [徵才] 海峰電腦誠徵軟體工程師
+時間: Thu Dec 10 21:29:45 2015
+
+【前情提要】
+pb+ 持續徵才中，目前都還沒有收到任何影音串流工程師的履歷...Orz
+PM 也還沒有找到適合的人才。
+
+其實這次是要幫朋友找:p (因為他沒有權限貼文）
+
+
+【公司名稱】
+海峰電腦股份有限公司
+http://hyvesolutions.com/
+
+【公司介紹】
+海峰電腦 (Hyve Solutions) 是新聚思 (Synnex Corp.) 旗下的子公司，
+也是聯華神通集團底下的一名成員。主要業務在於提供 Open Compute Project
+的 Total Solution。 總部設於 Fremont; 另外在 Seattle, 台北和林口等地
+亦設有辦公室。
+
+【工作職缺與內容】
+軟體工程師一名
+
+  - 職缺說明:
+    我們是 Hyve 的 Software Engineering Team。
+    部門成員來自於 Fremont, 內湖以及成都新聚思。
+    主要工作職掌是負責 Hyve 所有產品的自動化測試 

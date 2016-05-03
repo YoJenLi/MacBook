@@ -1,0 +1,17 @@
+
+作者erhan (taxi)看板Tech_Job標題[請益]  有關juniper contrail firewall時間Sun Mar  2 21:18:12 2014
+大家好
+小弟是114研究所的學生
+目前研究有關網路的問題
+想請問各位在專業上的問題
+我們lab在使用juniper的contrail研究firewall
+我們知道juniper有免費的source code跟要付費的code
+目前我們手上只有免費的code
+我們正在trace這個code
+想找到有關firewall的部分來進行修改
+但code有10萬行
+請問各位
+有人知道firewall的原始碼有被公開修改嗎
+還是被包起來在要付費的code內不給人家看呢?
+謝謝各位的幫忙
+

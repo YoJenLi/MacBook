@@ -1,0 +1,62 @@
+
+作者ypwalter ()看板Tech_Job標題[面試] NetBase, CitiBank時間Tue Sep 11 13:23:28 2012
+NetBase Senior Testing/QA Engineer
+結果：本來要錄取，但是公司在臺灣仍為辦事處等級，無法收僑民或外籍。
+
+第一關 Email 英文
+ 會先給你一個假設的網站讓你寫測試計畫和測試例子，通過這關才能夠拿到面試。
+
+第二關 臺灣公司Engineer 中文
+ 介紹公司背景後，會請你自我介紹，接著進入正式問題：
+ 相關測試經驗
+ 面試問題Selenium相關經驗 (IDE/Webdriver)
+ Selenium遇到困難和如何解決
+ 多瀏覽器測試 (IE/FF差異)
+ 假如有一套API要讓他自動測試，該如何測試(以沒有輔助軟體工具情況下寫出自動軟體)
+ 你當QA的優勢在哪裡
+ 你最喜歡QA什麼地方和最討厭什麼地方
+ 對公司QA幾個方面哪個方面比較喜歡
+
+第三關 美國公司Director 英文
+ 自我介紹
+ linux基本指令
+ 相關測試經驗
+ selenium使用經驗
+ 遇到developer不願意認bug時的處理方式
+
+第四關 美國公司Engineer 英文
+ Java基本問題
+ selenium webdriver使用經驗以及相關問題
+ 如何測不同的browser
+ 測試circle時間
+ 如何做hot fixes
+ 測試deploy到不同機器的流程
+ GWT使用經驗和測試
+
+
+CitiBank  Financial Program Analyst
+如果回臺灣時還沒收到人就會收，現在收滿了，視同沒offer
+
+第一關 舊金山 Developer 電話面試 英文
+1.C++ virtual, Java override: 使用方法和差異，背後如何實做出來的
+2.Java Garbage Collection做法（雖然已經有JVM處理，但是實際上還是得自己處理）
+3.不同機器讀取資料庫應該如何增加速度，基本上我回答三類方法
+4.C Macro
+5.一個字串，如何把所有4位連續的字串中，不重複字串辨別出來
+6.static, external
+
+第二關 紐約 Developer 電話面試 英文
+C++ virtual destructor功用和為什麼要這樣用
+C/C++/Java的差異還有深入針對你回答做討論
+給自己各種程式語言打分數
+
+第三關 舊金山 Developer/Director 現場面試 英文
+基本的履歷相關問題
+以前寫的專案相關問題
+C++/Java基本差異
+一堆雜七雜八的程式問題override overload static stastic final finally finalize
+重寫兩個C的library functions
+第四關 臺灣 ? 電話面試 中文
+問一下履歷、相關經驗、簡單的情境題、聊一下天。
+
+

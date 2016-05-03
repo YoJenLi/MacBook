@@ -1,0 +1,12 @@
+
+作者weenndy ()看板Tech_Job標題[請益] 聯詠面試問題時間Wed Jun  3 14:44:14 2015
+借朋友帳號po文，願意提供資訊的也可站內信！
+
+小妹是116電機學碩，近日要面談聯詠的APR實體設計工程師職位，有在版上搜尋過會考IC
+ design flow,set up/hold up time計算,CMOS電路,time constraint,wire load model
+相關問題，面試前想複習一下相關概念，想尋問版上有沒有建議相關的參考書籍？
+
+另外想請問會考C或verilog嗎？
+
+非常感謝版上大大能提供相關資訊！
+

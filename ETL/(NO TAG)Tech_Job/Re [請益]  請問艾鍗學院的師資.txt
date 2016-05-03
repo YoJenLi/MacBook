@@ -1,0 +1,27 @@
+
+作者kain777 (Mascara)看板Tech_Job標題Re: [請益]  請問艾鍗學院的師資時間Fri Dec 26 15:22:34 2014
+※ 引述《bebeewei (蜜蜂)》之銘言：
+:    想去艾鍗學習bsp 包含 ARM bootloader  、linux 、 嵌入式等
+:    所以想請問一下師資
+:   http://www.ittraining.com.tw/ittraining/index.php/aboutus/teacher
+:     懇請前輩指點  萬分感激
+
+
+回一篇騙一下P幣
+短暫做過一年BSP
+嵌入式我覺得學習曲線很長...
+現在網路上的學習資源很多
+當然基礎不外乎是
+C語言 資結 OS
+如果你要搞底層
+不外乎就是 bootloader kernel driver..
+可以自己買個板子
+個人建議2440 資料最多
+但缺點是如果要移植新版本android比較困難
+對岸資源相當豐富
+單就2440來說 可以參考的影片就有
+國嵌 韋東山 這兩個我覺得說的還不錯
+也滿多Blog可以參考的
+把上課的錢省下來吧 找間公司練功比較實際
+
+

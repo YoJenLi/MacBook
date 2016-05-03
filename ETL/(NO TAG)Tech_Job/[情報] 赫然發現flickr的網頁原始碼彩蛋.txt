@@ -1,0 +1,10 @@
+
+作者Cayman1021 (You can't be her)看板Tech_Job標題[情報] 赫然發現flickr的網頁原始碼彩蛋時間Tue Aug 26 16:16:55 2014
+剛剛為了想硬抓某一張flickr照片
+打開了網頁原始碼
+突然發現flickr也在裡面植了原始碼彩蛋 XDD
+http://imgur.com/qaE0WCi
+有人有看過嗎？
+
+台灣yahoo有負責flickr？
+

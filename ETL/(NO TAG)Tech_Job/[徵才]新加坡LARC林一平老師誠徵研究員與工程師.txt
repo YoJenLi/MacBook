@@ -1,0 +1,66 @@
+
+作者huy (apple)看板Tech_Job標題[徵才]新加坡LARC林一平老師誠徵研究員與工程師時間Wed Aug 19 21:49:33 2015
+代PO
+
+
+RESEARCH OPENINGS @ Living Analytics Research Centre
+www.larc.smu.edu.sg
+
+[公司簡介]
+Living Analytics Research Centre (LARC) is an innovative research centre
+funded by the National Research Foundation of Singapore to create new solution
+and analytics techniques to address societal scale social computing problems.
+These problems are characterized by data inspired applications and rich social
+and urban science backgrounds.
+
+
+[需求條件]
+The Living Analytics Research Centre is hiring for the following positions:
+(a) Research Scientists
+(b) Post-Doctoral Research Fellows, and
+(c) Research Engineers
+
+Research Scientist and Post-Doctoral Research Fellow candidates must have
+completed all requirements for the PhD degree by the time of appointment.
+Candidates must have prior research and project expertise relevant to one or
+more aspects of LARC work. We welcome applications from those who have recently
+completed a PhD, as well as from PhD degree holders who have been working for
+several years. We expect the research scientist and post-doctoral research
+fellow to be familiar with (a) data mining, (b) machine learning, (c) human
+computer interaction, (d) natural language processing, and/or (d) database
+systems.
+
+Research Engineer candidates must have completed an undergraduate or master's
+degree in a relevant area to support software and system development, and
+technical testbed construction. An appropriate background may include computer
+science, computer engineering, and information systems and technology. This may
+also include other types of degree programs with a strong computational
+component, or programs with an emphasis on creating experimental systems.
+Candidates with prior project experience in industry or in R&D labs are
+especially encouraged to apply.
+
+For all of these LARC related R&D areas, applicants should have interest in
+innovation, large-scale R&D projects, working in project teams, and with doing
+applied R&D that leads to society/industry application and impact.
+
+
+[薪資範圍]
+The salary for these positions will be based on the candidate’s relevant
+experience and qualifications.  For reference purpose only, the salary ranges
+of positions (a)-(c) are listed below:
+  * Research scientist/post-doctoral research fellow: NTD 120K to 150K/month
+  * Research engineer: NTD 68.7K to 103.5K/month
+
+In additional, up to two months bonus may be given out annually based on good
+performance.
+
+[工作地點]
+School of Information Systems, Singapore Management University,
+80 Stamford Road, 178902, Singapore
+
+
+[聯絡方式]
+To apply, please send your CVs to Professor LIM Ee-Peng at eplim@smu.edu.sg
+(Co-Director, Living Analytics Research Centre).
+
+

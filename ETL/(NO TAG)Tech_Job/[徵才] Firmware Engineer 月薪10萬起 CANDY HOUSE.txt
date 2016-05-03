@@ -1,0 +1,25 @@
+
+作者physoar07 (骨折)看板Tech_Job標題[徵才] Firmware Engineer 月薪10萬起 CANDY HOUSE時間Sun Sep 20 00:30:08 2015
+ 公司名稱 CANDY HOUSE
+ 公司地址 645 High St., Palo Alto, CA 94301
+          www.candyhouse.co
+
+ 職缺     Firmware Developer, full time
+
+ 薪資     最低10萬台幣月薪 + 美國公司股份RSU
+
+ 工作地點 台北市敦化南路
+
+ 工作需求 1. 熟悉 ARM Based MCU programming
+          2. 熟悉 藍芽4.0+
+          2. 有自動化機電產品經驗 例如:控制馬達driver, 應用ADC(類比轉數位)
+          3. 熟悉C語言
+          4. 英文好(需要不斷學習新知與跟team 溝通)
+
+ 其他說明
+          雖然不要求天天來, 但還是希望能住在北部大家常聚聚
+          會出差加州跟韓國(頻率大概兩個月一次)
+          請踴躍跟我們聯絡
+          常有海外旅遊
+ 聯絡方式 jerming@candyhouse.co
+

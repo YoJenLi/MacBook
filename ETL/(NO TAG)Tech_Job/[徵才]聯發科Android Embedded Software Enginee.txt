@@ -1,0 +1,27 @@
+
+作者hlchou (loda)看板Tech_Job標題[徵才]聯發科Android Embedded Software Enginee時間Mon Jun 30 02:31:35 2014
+
+【工作職缺】新竹-聯發科Android Embedded Software Engineer
+【工作時間】 早上0830-下午1800 周休二日 (表訂時間 加班費另計)
+【工作內容】
+ -Analyze and Resolve Linux Kernel/Android System Issues
+ -Optimize the Linux Kernel/Scheduler for Maximum Performance
+ -Refine Kernel/System Performance/Debugging Tool
+【其他條件】
+1. Experience with embedded Linux software development preferred.
+2. Knowledge and experience with Linux kernel.
+3. Strong programming skills in C.
+
+【薪資】
+根據年資而定 沒經驗者底薪一年至少1Ｍ 分紅另計
+
+【需求人數】
+        1位
+
+【工作地點】
+ 新竹科學園區內
+  loda.chou@mediatek.com
+
+沒相關經驗背景請勿寄信 謝謝
+
+

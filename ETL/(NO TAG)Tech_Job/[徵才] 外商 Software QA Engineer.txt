@@ -1,0 +1,50 @@
+
+作者jpw (...)看板Tech_Job標題[徵才] 外商 Software QA Engineer時間Sun Oct 11 22:08:46 2015
+【公司名稱】
+Robert Walters 代外商徵
+官方網站：http://www.robertwalters.com.tw/
+
+【工作職缺】
+Software QA Engineer
+
+【工作內容】
+‧ Work with developers, project managers, and customers to define tests for
+new features
+
+‧ Work with overseas contractors to conduct regression test
+
+‧ Maintain regression test suite by adding new tests and re-writing existing
+tests based on
+
+user feedback
+
+‧ Test our software, write defect reports and track issues
+
+‧ Conduct in-house group tests in Taipei office
+
+‧ Constantly look to improve quality across the development lifecycle
+
+‧ Create, maintain, and perform automation tests using Selenium
+
+‧ Create, maintain, and perform API tests using SoapUI
+
+‧ Create, maintain, and perform performance/load tests using LoadUI
+
+【徵求條件】
+‧ Excellent written and verbal English skills
+
+‧ Passion for software quality
+
+‧ Experience in software testing preferred
+
+‧ Automation testing experience preferred
+
+‧ Load testing experience preferred
+
+‧ API (RESTful) testing experience preferred
+
+‧ 3+ years of working experience in software industry
+
+【工作地點】台北市內湖區
+
+【工作時間】週一

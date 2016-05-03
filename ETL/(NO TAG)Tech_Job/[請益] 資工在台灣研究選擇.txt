@@ -1,0 +1,21 @@
+
+作者Murasaki0110 (Paradise Lost)看板Tech_Job標題[請益] 資工在台灣研究選擇時間Sun Mar 10 08:10:07 2013
+
+多媒體和嵌入式我滿有興趣的，
+
+但畢業後考慮在台灣工作，
+
+像GG、大小M這些公司，會需要多媒體的人才嗎? 是做什麼呢
+
+台大的嵌入式，
+
+http://eclab.csie.ntu.edu.tw/eclab07/research.htm
+
+若以上面的介紹來說，
+
+是很硬體的東西嗎，會不會學不到太多programming的技巧?
+
+請各位不吝賜教，
+
+謝謝
+

@@ -1,0 +1,50 @@
+
+作者kof70380 (小隆)看板Tech_Job標題[新聞] 聯發科智慧手機處理器排名首度擠進前5大時間Wed Aug  8 09:10:11 2012
+來源：
+
+http://ppt.cc/zmoy
+
+原文：
+
+
+    Mobileburn、Electronics Weekly 6日報導，科技市調機構Strategy Analytics發表
+
+研究報告指出，在低階Android智慧型手機的激烈競爭下，高通(Qualcomm)面臨聯發科、博
+
+通(Broadcom)節節進逼，2012年第1季高通的智慧型手機應用處理器銷售額市佔率由去年同
+
+期的51%下滑至44%。
+
+
+    Strategy Analytics分析師Sravan Kundojjala指出，博通、聯發科推出了基頻晶片整
+
+合型應用處理器，這逐漸對高通構成實質上的威脅。
+
+
+    根據報告，Q1智慧型手機應用處理器的前五大供應商分別是高通、三星電子(Samsung
+
+Electronics)、德州儀器(Texas Instruments)、博通與聯發科。
+
+
+    美滿電子科技(Marvell Technology Group, Ltd.)由於最大客戶Research In Motion
+
+(RIM)陷入困境而掉出五名以外。相較之下，聯發科卻首度擠進前五名，主要是拜該公司成
+
+功攻佔200美元以下智慧型手機市場之賜。
+
+
+    除此之外，ST-Ericsson旗下的Thor、NovaThor平台獲得一線客戶的青睞，則讓該公司
+
+Q1的營收跳增600%。Nvidia的Q1市佔率則維持在2%，主因該公司並未整合基頻晶片，且在
+
+平板電腦的應用較多。不過，Nvidia即將在2012年稍晚在美國推出支援LTE、搭配Icera數
+
+據機的Tegra 3處理器，屆時市況可能會改觀。
+
+
+    Strategy Analytics估計，Q1智慧型手機應用處理器銷售額年增了55%至24.7億美元。
+
+其中，獨立型處理器(stand-alone processor)的市佔率為44%，多核心(multi-cores)處理
+
+器市佔則為30%。
+

@@ -1,0 +1,50 @@
+
+作者godgunman (ggm)看板Tech_Job標題[徵才] Skymizer 徵實習軟體工程師時間Tue Apr 22 23:38:24 2014
+徵才公司：Skymizer http://blog.skymizer.com
+
+徵才連結：http://bit.ly/1f0SeR5
+
+關於我們：
+
+    Skymizer是一個致力於編譯優化、提昇系統效能的頂尖開發團隊。公司創
+    立於 2013 年冬季，成員是畢業於台清交，曾在世界各大知名軟硬體公司
+    任職（Google、Mediatek、Marvell） 除了公司內部產品，也積極開發及
+    參與 Open Source 的專案。我們想透過我們的雙手讓軟體界變得更好。
+
+    大家都聽過魚和釣竿的故事，在 Skymizer 我們不只給你魚、也給你釣竿
+    、我們還讓你看到大海！你會學到如何在開放原始碼的專案上開發，探索
+    你在教科書上看到的系統架構。
+
+    如果你想要加入我們，馬上寄履歷或作品至 little.sky@skymizer.com 吧！
+
+應徵職缺：實習軟體工程師（限在學）
+
+工作地點：新北市中和市
+
+申請時間：即日起至 2014/5/11 止
+
+實習期間：
+
+    2014/7 - 8 原則上我們希望實習生能夠在暑假的期間全職，但仍有調整的
+    空間。若你想要提前或延後，我們也是相當歡迎。
+
+工作內容：
+
+ * Build Linux/Android package
+ * Improve Linux performance
+
+工作地點：新北市中和市
+
+工作條件：
+
+ * Familiar to open source culture
+ * Experience in systems software or algorithms
+ * Excellent implementation skills (C, C++, Java, Python)
+ * Knowledge of UNIX/Linux APIs
+
+薪水與福利：
+
+ * 時薪160元以上, 月薪25600以上
+ * 培訓課程
+ * 照上班方式支薪
+

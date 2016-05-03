@@ -1,0 +1,16 @@
+
+作者Rex11620 (心中二人)看板Tech_Job標題Re: [討論] WLCSP vs Bump時間Thu Apr  2 01:00:40 2015
+Bumping業界叫做晶圓凸塊，
+主要是取代傳統wire bond的連接chip and PCB
+大多數晶圓廠跟封裝大廠廠都能做bumping
+
+
+bumping後段的封裝通常會做Flip Chip BGA/Flip Chip CSP或是WLCSP
+
+
+※ 引述《Nyaowan (博美界許維恩(妞妞 汪汪))》之銘言：
+: 各位好,
+: 最近想到 bumping的製程就是長球在 die上
+: 請問是跟wafer level CSP 一樣的意思?
+: 感謝^^
+

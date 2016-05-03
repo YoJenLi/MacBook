@@ -1,0 +1,49 @@
+
+作者arashi233 (arashi233)看板Tech_Job標題[徵才] 外商徵Cross Platform Gaming Engineer時間Tue Apr 12 17:48:13 2016
+【公司名稱】
+Robert Walters 代外商徵Cross Platform Gaming Engineer
+
+官方網站：http://www.robertwalters.com.tw/
+
+【工作職缺】
+Cross Platform Gaming Engineer
+
+Position Overview:
+
+The Cross Platform Gaming Engineer position is responsible for building games across a number of different technology platforms and devices. The role requires skills in Actionscript 3, Unity 3D and Objective-C for IOS.  The candidate must be both creative and productive to thrive in our fast-paced studio environment and enjoy the challenge of designing new technical approaches across multiple platforms. Developing cross-platform games in short production cycles is both challenging and highly rewarding.
+Researching new approaches to solving leading edge problems in code frameworks, algorithms and cross platform compatibility provide opportunities for innovation and learning
+
+【工作內容】
+1. Integrate mathematical models created by our mathematicians with game designs created by our creative art and animation teams, within our company’s Memory and CPU hardware limitations.
+2. Architect and deliver interactive, animated multi-media games
+3. Research and devise procedures for conversion of pre-existing games to new platforms
+4. Research and design approaches for multi-platform development
+5. Contribute to creation of coding frameworks
+6. Research and develop optimization techniques for memory usage in mobile devices
+
+
+【徵求條件】
+
+
+1. Bachelor’s degree in Computer Science, Information Technology, Engineering or a related field
+2. A minimum of 1 year of professional experience in the games business or 3 years experience developing games in any environment.
+3. Solid working knowledge of a variety of scripting languages
+4. Solid working knowledge of object oriented programming and object oriented design methodology
+5. Experience in developing robust applications in Actionscript 3 using Adobe Flash IDE
+6. Experienced at prototyping, UI design, writing, and other game design elements
+7. Possess strong knowledge of data structures, logic, and algorithms
+8. Possess knowledge of statistical methods and data analytics
+9. The ideal candidate will have strong OOP experience and a solid understanding of coding frameworks
+10.Proven problem solving skills for designing algorithms and optimizing memory utilization
+11.Experience in internet based communication protocols and XML Self-motivated and diligent, with good habits for tracking one’s own tasks, seeking out answers when needed, and actively participating in the entire production effort.
+12.Experience in diverse mobile applications and the constraints of bandwidth or processor will be considered a plus
+13.Personality to handle responsibility, collaborate and excel in team environment
+14.Experience in other scripting languages (Javascript, Perl, Python, PHP) is a plus
+15.Experience with HAXE or other similar frameworks is a plus
+16.Exposure to other object-oriented programming languages (C++, C# and/or Java) is a plus
+17.Strong written and verbal communication skills in both English and Mandarin Chinese
+
+Note: A technical test will be conducted as part of the hiring process.
+【工作地點】台北市內湖區
+
+【工作時間】週一

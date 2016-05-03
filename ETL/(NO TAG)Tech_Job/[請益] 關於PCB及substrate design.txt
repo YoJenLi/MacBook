@@ -1,0 +1,16 @@
+
+作者theococoa (夢想)看板Tech_Job標題[請益] 關於PCB及substrate design 時間Fri Jul 17 17:41:32 2015
+朋友去做了Substrate design 工程師
+
+最近跟他在討論做design未來的出路
+
+不知道這行未來是否有機會跳IC Design
+
+當然IC design要懂的電路更多更難
+
+只是朋友現在不知道是不是要繼續幹下去
+
+還是趁還沒30歲儘快轉行
+
+幫朋友po文問問各位前輩求解一下
+

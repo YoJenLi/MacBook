@@ -1,0 +1,20 @@
+
+作者s33421 (阿D)看板Tech_Job標題[請益] CAD與Layout時間Mon Apr 22 16:40:53 2013
+目前有兩個職務選擇...想聽聽各位鄉民的意見！！
+1.IC Layout 工程師
+工作內容不外乎就是大家所想的那樣！
+
+2.CAD工程師
+1.RTL to GDSII IC Implementation based on Synopsys Tools:
+包括: Synthesis (DC), Equivalence-Check (FM), Design-for Testability(DFTC),
+Static-Timing Analysis(PT), Place & Route(ICC), Clock-Tree-Synthesis,
+RC Extraction(Star-RC), Cross-Talk Fixing(PTSI), IR-Drop/EM Analysis,
+Dynamic/Leakage Power Optimization, DFM and Multi-Voltage Low-Power Design(UPF),
+LVS/DRC, … etc.
+2.Physical Verificationꀠbased on Calibre tools：
+. Physical Verification (LVS / DRC / ...etc)
+. Commandfile maintenance (Calibre DRC/LVS/PERC , Star RC extraction )
+. Physical Verification flow enhancement. ( New commandfile coding / PV environment coding. )
+
+對未來發展..各位比較推哪邊呢！？
+

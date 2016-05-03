@@ -1,0 +1,25 @@
+
+作者samchen0119 (八比諾)看板Tech_Job標題[請益]HTC測試人才面試 時間Sun Oct 14 10:55:26 2012
+小弟收到HTC面談邀請詢問函招募【測試】人才
+
+職務內容是:
+
+1.KSP or  Key Feature Tests
+
+MLHD, Camera, Car Mode, Battery Life,Thermal, System Sound Quality,
+
+Wi-Fi and Bluetooth.
+
+2. Competition's test
+
+3. Work closely with Quality Champion for KSP and key feature tests
+
+4. Audit release quality
+
+
+請問那是哪個部門邀請.............
+
+請問有沒有去過的前輩能分享一下
+
+還有面試的時候有需要考什麼及特別注意的嗎? 謝謝啦
+

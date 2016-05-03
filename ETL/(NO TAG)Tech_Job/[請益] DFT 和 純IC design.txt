@@ -1,0 +1,8 @@
+
+作者William717 (AnywayCK24)看板Tech_Job標題[請益] DFT 和 純IC design時間Wed Oct 14 01:34:50 2015
+小弟目前在接觸DFT這邊（design for test)
+偏design for Memory這塊
+想請問各位大大業界會直接用DFT新手嗎？？
+還是說進去還是做IC designㄧ段時間才給碰DFT？？
+之前有爬文看見有些是RD兼做DFT
+

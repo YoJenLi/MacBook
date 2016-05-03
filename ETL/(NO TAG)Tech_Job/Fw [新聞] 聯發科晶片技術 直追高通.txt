@@ -1,0 +1,18 @@
+
+作者henrypinge (Edward)看板Tech_Job標題Fw: [新聞] 聯發科晶片技術 直追高通時間Thu Jun 14 22:43:58 2012
+※ [本文轉錄自 Stock 看板 #1FsUmyEj ]
+
+作者: fantasy14 (我可以看見嗎) 看板: Stock
+標題: Re: [新聞] 聯發科晶片技術 直追高通
+時間: Thu Jun 14 21:50:49 2012
+
+
+聯發科的雙核心 CPU MT6577 1GH  現在才推出來
+但是對面的 華為 在今年MWC 已推出 四核心 CPU K3V2 1.2GHz/1.5GHz
+所以....自己看吧..
+
+聯發科的 Total solution那招也被高通學起來了
+系統廠只要照著 Ref Design 做就可以了
+
+高通最近幾年在大陸徵人徵滿大的...
+

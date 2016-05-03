@@ -1,0 +1,61 @@
+
+作者kisha024 (4545454554)看板Tech_Job標題Re: [心得] 104年中科院資料結構筆試(第二次)時間Tue Sep 15 22:11:28 2015
+
+有感於前魯之熱心提供筆試題目供後人參考 故本魯決定效法之
+
+本魯今天參加9號筆試，尚有其他編號之筆試考科亦是資料結構,本魯認為題目是相同的
+
+因為題目有錯 有人提問後 監考人員當場更正 更正時未針對特定編號為之
+
+故本魯認為題目一樣
+
+底下僅憑記憶寫出題目大致內容 題號沒記
+
+1. 給定一前序和中序 要你寫出後序
+2. 寫出(A+B)/C-D*E的後序
+3. 給一個5個點的連通圖 求minimum spanning tree
+4. 寫一個fibonacci的函數
+5. 寫一個函數計算 5+10+15+...+150
+6. 給一個4維的array A[2][3][4][5],A的起始位址是1000,每個entry佔1 byte
+   問(1)該array可以存放幾個entry?(2)A[1][2][3][4]的位址為何?
+7. 給一個2維的array A,問其中某兩個entry的值之和
+8. 執行一個for迴圈後 問某個變數的值
+9. 執行一個while迴圈後 問某個變數的值
+10. 寫一個函數 可以算出 string S2 在string S1中出現幾次?(大小寫視為相同)
+    EX: S2=ZZ,S1=AAZZZbbZZZzzZCC 則答案是7次
+
+本魯有幸坐在比較前面的位置 後面用演講廳扶手收納式小桌子的考生辛苦了
+
+題目不難,門檻60分 簡章明定筆試30% 書審30% 口試40% 總分一樣時筆試的priority最低
+
+看來口試和和書審會是關鍵
+
+
+※ 引述《fongminp (毆明)》之銘言：
+: 看到前面有在討論就貼在這，如有違板規自刪。
+: 本魯今天參加45號筆試，
+: 廢話不多說以下10題(滿分應該100)考60分鐘，
+: 題號順序沒記。
+: 1.寫一個recursive function 求 n!。
+: 2.給一個4層binary tree，5個節點ABCDE，tree的樣子是
+:   preorder為ABCED、inorder為ECBDA，
+:   求(1) Sequential and(2) Link memorized representation.
+: 3.(1) Circular list and linked list definition.
+:      (這邊有點不確定是linked list還是sequential list)
+:   (2) Circular list相較於第(1) 小題另外一種list的advantage是什麼
+: 4.(1) Binary search tree definition.
+:   (2) 給一個很簡單的BST，求插入一個node之後的結果。
+: 5.給preorder、inorder求postorder.
+:   (這邊只記得preorder應該為ABCDEFGHI)
+: 6.(1) Min/Max Heap definition.
+:   (2) 給一 max heap ，求依序插入3個node結果。
+: 7.(1) Minimum spanning tree definition.
+:   (2) 給一個很簡單的graph(印象只有6個節點)，求minimum spanning tree。
+: 8.給一 List F = 5374891(印象是這幾個這幾個整數)，
+:   求insertion sort。
+: 9.Hashing method 相較於binary tree的 advantage是什麼？
+:   and give your reason.
+: 10.Compare Binary search and Sequential search.
+:    它們的advantage and disadvantage分別是什麼？
+: 以上10題，全英文命題。
+: 

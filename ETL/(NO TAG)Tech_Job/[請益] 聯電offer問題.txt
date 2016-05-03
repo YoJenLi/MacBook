@@ -1,0 +1,17 @@
+
+作者youngdelu (年輕魯)看板Tech_Job標題[請益] 聯電offer問題時間Sat Nov  1 02:54:38 2014
+敝生有幸收到UMC的矽智財部門offer
+有問主管了解一下  主要是做EDA tools的應用
+主要很像是提供design house特殊需求library
+用到verilog、synopsys、astro等
+有看到synopsys model、verilog model等
+很像是根據客戶提供的spec用EDA跑出一個最佳狀況(聽主管說還是不太懂)
+很像有聽到建立cell
+還有工作內容蠻常規的加班會有 不過不會太誇張
+其實聽了後還不是太懂實際工作內容
+有人知道嗎？
+或者有人在裡面的
+
+PS:主管人不錯 蠻親切熱情的 排版亂請見諒
+
+

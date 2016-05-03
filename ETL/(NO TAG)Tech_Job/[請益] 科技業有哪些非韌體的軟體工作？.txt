@@ -1,0 +1,20 @@
+
+作者NetsFan (心思活一點)看板Tech_Job標題[請益] 科技業有哪些非韌體的軟體工作？時間Thu Jun 20 22:05:49 2013
+
+很多在科技業寫軟體的 許多與 Embedded Linux, Firmware, Driver 有關
+
+語言用 C 等等
+
+
+我想問的是 在科技業 有哪些工作是非上述的軟體工作?
+
+如使用C/C++ or C#, Java...甚至 Tcl, Perl... 當主力 RD 的事情呢？
+
+就我所知有 Web App(.NET, JAVA), Smartphone App,
+
+Fab 的自動化也是 但是多嗎?
+
+請大家分享一下，不要每次講到軟體工作 就是 FW FW...
+
+FW 也定義好廣，大家應該多分享其他的路看看~ 謝謝
+

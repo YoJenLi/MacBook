@@ -1,0 +1,38 @@
+
+作者arashi233 (arashi233)看板Tech_Job標題[徵才] 外商IT Administrator時間Fri Nov 20 07:32:50 2015
+【公司名稱】
+ Robert Walters 代外商徵 IT Administrator
+ 官方網站：http://www.robertwalters.com.tw/
+
+【工作職缺】
+IT Administrator
+
+【工作內容】
+- Installation and maintenance of both computer hardware and software
+ ( Windows, MAC , Linux)
+- Plan/Maintenance of internal network infrastructure (Office site) and trouble
+ shooting including WAN, LAN, WIFI.
+- Maintenance of and secure internal server room and devices
+- IT Equipment Procurement.
+Conduct industry research and provide recommendations for emerging trends
+
+【徵求條件】
+
+- Familiar with firewall setting, and monitor network quality and quick problem
+ determination for network/hardware abnormal behavior
+- Knowledge of core/edge switch operation. Also planning of private
+ network to allow project team to setup testing environment.
+- TCP/IP network administration experience
+- Proficient in configuration and maintenance of switches, routers, and firewalls
+- Experience in day-to-day maintenance and management of operational networks
+ in an operations environment
+- Windows/Linux server maintenance experience of total 5 years
+- Domain name server, DHCP, IP routing, VPN skill is required
+- Hardware/Software replacement and trouble shooting
+- Experience configuration and managing network load balancer is a big
+ bonus.
+- CCNA/CCNP certified is big plus.
+
+【工作地點】台北市信義區
+
+【工作時間】週一

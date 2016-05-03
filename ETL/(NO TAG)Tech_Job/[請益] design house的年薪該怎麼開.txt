@@ -1,0 +1,8 @@
+
+作者wandog (慢跑中毒)看板Tech_Job標題[請益] design house的年薪該怎麼開?時間Thu Dec 24 18:01:57 2015
+
+不好意思 小弟大學115機械 研所112機械自控組  做web前後端大概約兩年經驗 embedded
+ Linux ap兩年經驗 都在南部 最近想到台北找工作 有面試到一個design house ae
+的職缺 要開發高通和mtk用的driver和演算法（包在driver裡吧）有需要的時候
+要支援fae 同時也告知我九成時間都正常上下班 我開年薪80~90會不會太高？
+

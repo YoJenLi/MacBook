@@ -1,0 +1,14 @@
+
+作者SCUMGS (MOFFAT)看板Tech_Job標題[請益] 客戶抱怨 IC date code太舊時間Tue Aug 19 10:44:05 2014
+各位大大好
+小弟為文科新鮮人剛進OEM產業
+為內部業務一職
+最近有個案子，在SOR (start of ramp)前客戶抱怨其中一個ic的date code太舊
+而該ic 也沒其他較新date code的庫存
+該ic目前也沒應用在其他project上
+想請教我可以從甚麼方面去安撫客戶
+
+由於小弟沒產業相關經驗，也設法找尋資料
+還是無法得到心中的答案
+還望請各位大大指教
+

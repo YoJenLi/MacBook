@@ -1,0 +1,45 @@
+
+作者ygl (???)看板Tech_Job標題[徵才] 科勝訊股份有限公司誠徵GUI工程師時間Thu Sep 18 08:13:48 2014
+公司名稱： 科勝訊股份有限公司(http://www.conexant.com/)
+
+職位名稱： GUI Engineer
+
+工作地點： 台北市內湖區(近西湖捷運站)
+
+RESPONSIBILITIES:
+‧Responsible for designing, implementing and modifying Graphical User
+Interfaces (GUI)
+  application software to configure and control consumer PC devices and
+peripherals
+‧Working with product marketing, customers PAE’s, FAE’s, and VLSI
+engineering to design intuitive,
+  efficient and visually attractive user interfaces.
+‧Working with graphic artists and creative services to develop custom skins,
+icons and widgets.
+‧Keeping up to date on industry trends in the application software
+development area.
+
+Qualifications:
+‧BSEE/MSEE/BSCS/MSCS or equivalent with 3+ years experience in application
+software development
+‧Fluent in C# programming, Visual C++, and C
+‧Experienced in application software (GUI) development for the Windows
+  XP/Vista/Win 7 and Win 8 platform required; experience with writing
+  applications for Linux, Android and Mac OS is a plus.
+‧Familiar with WinAPI, DirectX, GDI, .NET, MFC Frameworks/Programming.
+‧Familiar with WPF is a plus.
+‧Familiar with the basic functions of common PC peripherals/devices, such as
+  Audio, communications devices and input/output devices.
+‧Basic understanding of Windows Driver Model (WDM), and Windows Driver
+  Framework (WDF)
+‧Graphic art experience is also a plus
+‧Strong communication skills and the ability to work in a team environment
+
+工作時間：09:00 - 18:00
+
+休假方式： 周休二日（特休優於勞基法）
+
+薪資範圍： 年薪 NT 0.9M~1.3M
+
+履歷投遞 : Nick.Lu@conexant.com
+

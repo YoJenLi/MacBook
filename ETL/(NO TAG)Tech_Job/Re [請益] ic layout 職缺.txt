@@ -1,0 +1,36 @@
+
+作者jfsu (水精靈)標題Re: [請益] ic layout 職缺時間Wed Aug 19 12:01:31 2015
+: 我正在想要不要兩間都去面試，假如有上就去練功，不然沒學歷大一點的公司根本不鳥你
+: 最怕是進去之後沒經驗值可以吸?會不會有這種情況?
+: IC LAYOUT不是門檻不高嗎?怎麼如此難找到工作呀
+: 奕力面試過程
+: 進去hr接待到小房間作性向測驗、填寫公司格式的履歷表，填寫完之後主管近來面試
+: 大學你學了什麼?
+: 畫inverter剖面圖
+: latch up是什麼?
+: 畫出等效SCRs，在剖面圖上畫Rwell&Rpsub
+: pmos幾隻腳?
+: 為什麼layout上面Nwell把well contact整個包起來
+: 什麼是ESC?
+: matching問題：電流鏡A=2、B=2(A=4，B=4)你會怎麼擺置，為什麼
+: 問你想問的問題
+: 我快一半都回答的很爛，甚至不知道，應該也是等收感謝函
+
+
+layout engineer雖然門檻不高(大專/大學相關科系)，一經錄取的新人，通常不會馬上
+讓你畫產品，多半會先從testkey開始，先熟悉CAD Tool(Laker, Calibre, Virtuso)與
+該製程的Layout Rule，至少經過一定程度的訓練之後才有可能讓你跟RD合作一起接產品。
+
+所以大部份公司會比較喜歡即戰力，畢竟，產品為了趕schedule與兼顧品質，用新人
+的話，風險會很大，RD也得花時間check你畫的layout。
+
+建議你先去上自強工業基金會累積初心者的經驗，或是參加CAD廠商的訓練課程，在
+課程結束之後，他們會發mail給底下有購買自家Tool的公司，推薦面試這些學員。
+
+最後，你提到的這些面試問題應該是做為一個layout engineer的基本功。
+ex:考你latch-up/ESD，其實是想知道當你畫完某個電路區塊的layout後，是否
+有確實圍上guard band/ring？(即使CAD Tool在最後會自動補上這些band)
+在畫輸出/輸入電路或是高壓元件的layout時，有注意到ESD元件的畫法與一般電路不同？
+類比電路中，OP-Amp或是Bandgap，這些電路都是非常要求matching，不然，出來的
+電性結果就會跟原先設計相差很大，甚至是die by die或是wafer by wafer。
+

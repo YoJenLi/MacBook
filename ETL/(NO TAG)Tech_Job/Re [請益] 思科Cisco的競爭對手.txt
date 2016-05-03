@@ -1,0 +1,45 @@
+
+作者asdfghjklasd (清空)看板Tech_Job標題Re: [請益] 思科Cisco的競爭對手時間Fri Jan 30 00:31:13 2015
+※ 引述《jgwihi ( )》之銘言：
+: 請問一下
+: 思科Cisco有競爭對手嗎？
+: 目前的前五大的排名是如何呢？
+: 查到的資料都很舊
+: 謝謝。
+看什麼領域
+
+21 October 2014
+
+Magic Quadrant for Corporate Telephony
+
+https://www.gartner.com/doc/2882517
+
+
+
+04 August 2014
+
+Magic Quadrant for Unified Communications
+
+https://www.gartner.com/doc/2814519
+
+
+26 June 2014
+
+
+Magic Quadrant for the Wired and Wireless LAN Access Infrastructure
+
+https://www.gartner.com/doc/2781218
+
+
+
+24 April 2014
+
+Magic Quadrant for Data Center Networking
+
+https://www.gartner.com/doc/2718418
+
+
+象限裡在那個位置你就自己再找找摟。。
+
+順序還不是排名
+

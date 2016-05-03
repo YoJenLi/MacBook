@@ -1,0 +1,32 @@
+
+作者jpw (...)看板Tech_Job標題[徵才]外商 Software Sr.QA Engineer時間Tue Jan 12 20:55:01 2016
+
+【公司名稱】
+Robert Walters 代外商徵
+官方網站：http://www.robertwalters.com.tw/
+
+【工作職缺】
+Sr.QA Engineer
+
+【工作內容】
+- Develop, execute and maintain manual and automated test scripts
+- Identify and report defects by applying structured test methodologies
+- Work independently and as a team member
+- Develop test documentation and test cases based on formal requirements as
+well as informal communication with developers and product managers
+
+【徵求條件】
+- Completed education in an IT profession or equivalent
+- several years of experience in manual and automated software testing
+- curious and passionate, analytical and abstract thinking
+- knows appropriate testing methods and techniques (ISTQB certified tester or
+equivalent)
+- understands common pitfalls of test automation and knows how to address
+those
+- experience in programming (C#, Java or Script language)
+- excellent verbal and written communication skills in English
+- ability to provide accurate report to management about test status
+
+【工作地點】台北市大安區
+
+【工作時間】週一

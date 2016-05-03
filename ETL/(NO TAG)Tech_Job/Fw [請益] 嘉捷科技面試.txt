@@ -1,0 +1,24 @@
+
+作者aquaisaqua (aqua)看板Tech_Job標題Fw: [請益] 嘉捷科技面試時間Mon Sep 30 14:18:27 2013
+※ [本文轉錄自 Soft_Job 看板 #1IIHRdCl ]
+
+作者: aquaisaqua (aqua) 看板: Soft_Job
+標題: [請益] 嘉捷科技面試
+時間: Mon Sep 30 14:15:01 2013
+
+各位大大午安
+
+目前小弟接到嘉捷科技面試邀約
+
+工作內容是 :
+Android Smart TV Development including Framework.
+Linux TV Development
+Familiar with C/C++/Java programming
+Familiar with Linux programming
+Familiar with Android application programming
+DVB related knowledge
+
+要筆試 （C or JAVA 性向及英文）
+請問是否有需要注意的地方？
+感謝~~^^
+

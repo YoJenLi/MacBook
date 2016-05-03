@@ -1,0 +1,9 @@
+
+作者z110663 (^^)看板Tech_Job標題[請益] VENDOR跟GG工程師差異?時間Sat Mar 21 18:38:25 2015
+雖然沒進去半導體公司，
+
+但是滿好奇在Vendor端(如ASML、AMAT、KLA...)也有CE和PSE，
+都有負責在TSMC或UMC的，
+這些人在TSMC做的事情跟GG或UMC內之PE和CE的人做的事情差別在哪?
+請各位大大有在內部工作的說明一下
+

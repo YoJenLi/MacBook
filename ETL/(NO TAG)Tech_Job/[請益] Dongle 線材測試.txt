@@ -1,0 +1,14 @@
+
+作者royhutw (Roy Hu)看板Tech_Job標題[請益] Dongle 線材測試時間Wed Jun 12 22:13:43 2013
+各位先進大家好
+小弟公司計畫跨入吊卡包裝之Dongle&線材銷售的領域
+目前計畫是要以Mini Displayport to D-SUB & USB Ethernet Adapter兩種產品為主
+目標市場是歐美等大型連鎖商店
+如Radioshack or Circuit City之類的商店
+想請問:
+1.這類產品是否需要符合那些歐美法規規定(如FCC的EMI)
+2.需要做哪些驗證報告(電器或性能)
+還請各位先進不吝協助
+
+謝謝!
+

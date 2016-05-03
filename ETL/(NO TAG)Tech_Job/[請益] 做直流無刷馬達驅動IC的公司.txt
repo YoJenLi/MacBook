@@ -1,0 +1,6 @@
+
+作者unfixed (whole new world)看板Tech_Job標題[請益] 做直流無刷馬達驅動IC的公司時間Sun Apr  5 22:42:11 2015
+請問板上的各位大大,目前台灣公司做BLDC driver ic的公司有哪一些啊?
+小弟是電力電子專長, 對BLDC driver IC有興趣, 但實在是不清楚這個產業的狀況
+能否麻煩各位為小弟解惑？感恩~~~
+

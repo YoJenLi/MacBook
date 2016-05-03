@@ -1,0 +1,263 @@
+
+作者ivywu (人在江湖愛不由己)看板Tech_Job標題[徵才] 外商網路安全公司Nexusguard時間Tue Apr  9 14:53:12 2013
+代PO訊息，如有相關問題，請參閱以下聯絡方式。
+如有違反版規，請麻煩版主通知一聲，敬請見諒。
+——————————————————————————————————————
+104人力銀行連結：http://ppt.cc/oqyw
+
+公司簡介：
+Nexusguard為提供全方位、雲端式網際網路安全解決方案的領導供應商。
+透過網際網路，Nexusguard的解決方案能確保企業客戶為其企業的使用者
+提供永不間斷的網際網路服務，並保護客戶免於日益增加且技術持續精進的網際網路威脅
+，尤其是分散式阻斷服務（DDoS）攻擊。Nexusguard總部位於香港，於臺灣設立分公司，
+並在全球各地建立完全互連的大型資料淨化中心。Nexusguard致力於為全球客戶
+提供高客製化、高品質、低延遲及高成本效益的DDoS防護服務。
+Nexusguard 榮獲2010年度香港卓越企業獎，並通過ISO27001認證。
+我們竭誠歡迎對工作有理想、有熱情的生力軍，加入我們的團隊，與公司共同成長。
+
+福利制度：
+公司採人性及自主化管理, 我們視所有同仁為公司最重要的資產，
+重視員工的需求與發展。
+1.具競爭力的整體薪酬制度
+a.依個人能力及工作職掌提供具競爭力的薪資
+b.每年依據個人績效及公司整體營運狀況發放具激勵性地紅利獎金/調薪/升遷
+c.每年提供1個月年終獎金。
+d.三節獎金(端午、中秋、春節)。
+
+2.福利制度
+a.具健全之勞保、健保、勞退金制度，並提供員工免費之團體保險
+(含壽險、意外險、醫療險)、海外旅遊保險、癌症保險、職業災害保險等保障。
+b.完善的員工教育訓練及在職進修補助
+c.絕佳之辦公環境
+d.生育、傷病、住院、急難救助、婚喪禮金補助。
+e.定期提供同仁免費健康檢查。
+f.介紹獎金制度
+g.休假制度
+  -周休二日(輪班人員之休假依公司制度)
+  -優於勞基法之年假休假制度 - 第一年即享有16天年假
+   (年假天數將按照到職日當天依比例計算)
+  -陪產假
+  -不扣薪病假(14天)
+  -女性同仁生理假
+h.休閒活動
+  -公司聚餐
+
+目前職缺列表：
+1.      Database Specialist  類別：資料庫人員
+2.      Senior Developer 類別：程式設計師/軟體設計師
+3.      System Specialist  類別：系統工程師、MIS主管
+4.      Operation Manager  類別：MIS主管/網路管理經理
+5.      Web Developer  類別：程式設計師/軟體設計師
+6.      Solution Engineer  類別：網路工程師/網路安全分析師
+
+若您對我們的工作機會有興趣，請與我們連絡!
+聯絡窗口：黃小姐 / Stacy Huang
+聯絡電話：02 - 26598958 ext. 5210
+Email : stacy.huang@nexusguard.com
+
+Database Specialist
+Key Job Duties & Responsibilities
+
+*Develops structures and standards for use and maintenance of the database
+ management system.
+*Collaborates with the Network Specialist in ensuring efficient access of
+ Database.
+*Supports database performance by monitoring database performance;
+ evaluating and resolving processing and programming problems; designing
+ database management tools; answering user questions.
+*Ensure database access and connectivity support.
+*Provides performance tuning of database systems for query and data loading
+ performance, including data partitioning, indexing, etc.
+*Design, implement and document database back-up and recovery processes.
+*Gather and analyze requirements for database systems, including data modeling,
+ performance and scalability requirements, and data security.
+*Implements database maintenance and security procedures including adding and
+ removing users, and administering quotas.
+*Define and enforce database design and management standards and document
+ new and existing database systems and procedures.
+*Liaises with users to ensure that the Database meets their requirements.
+
+Qualifications / Requirements
+
+Five years of experience designing, developing, installing, monitoring and
+maintaining relational database software and related hardware; OR,
+
+Associate's degree in Management Information Systems, Computer Information
+Technology or related field AND four years experience designing, developing,
+installing, monitoring and maintaining relational database software and
+related hardware; OR,
+
+Bachelor's degree in Management Information Systems, Computer Information
+Technology or related field AND two years experience designing, developing,
+installing, monitoring and maintaining relational database software and
+related hardware; OR,
+
+Any equivalent combination of experience, training and/or education.
+Experience with understanding all monitoring thresholds and alerts and
+associated escalation paths.
+
+Desire and ability to keep up to date with the latest technical developments
+within their service area.
+Effective experience of report preparation and presentation to wide-ranging
+audiences.
+
+Fluency in both English and Mandarin
+
+Willing to take shift
+
+Senior Developer
+Key Job Duties & Responsibilities
+
+*Development of customer-facing web portals to include data from a variety of
+ mediums displayed in a cohesive fashion.
+*Development of internal web dashboards to show the current status of the
+ operations and infrastructure to achieve business goals.
+*Develop and maintain various product e-commerce site.
+*Develop and maintain various reporting portal technology.
+*Research and develop innovative methods of presenting information in
+ efficient, yet meaningful manners.
+*Work with operations teams to enhance and streamline workflows for portal
+ and dashboard navigation.
+*Creates and executes project work plans and revises as appropriate to meet
+ changing needs and requirements.
+*Communicates and enforces coding standards
+*Setting up new tools and develop automated release engineering scripts to
+ increase team Productivity and quality.
+*Documenting all procedures related to the processes and tools developed.
+
+Qualifications / Requirements
+*Higher Diploma / Degree / equivalent in Computer Science or other related
+ discipline;
+*Strong in system design and familiar with Software Development Life Cycle
+ (SDLC)
+*Excellence in PHP development in LAMP (Linux, Apache, MySQL, PHP)
+ environment;
+*Experience in AJAX, Javascript, XML, CSS and HTML;
+*Experience in Jasper Reports and Pentaho;
+*Knowledgeable in web application scalability, network and security device;
+*Self-driven and motivated, act as self-starter who can work with minimal
+ supervision;
+*Able to work in a collaborative team environment and adapt to changes
+ quickly in high pressure evolving environment.
+
+System Specialist
+Key Job Duties & Responsibilities
+
+*Support, develop, administer, and maintain the servers and data centre
+ infrastructure of Nexusguard, which includes servers and data centre, as
+ well as server-side middleware and application software;
+*Provide third line support for the Nexusguard users and customers for the
+ resolution of incidents and problems related to the servers infrastructure,
+ responsible for root cause analysis and resolving escalated issues;
+*Be responsible for the execution of planned maintenance operations as
+ described by the applicable procedures;
+*Design, implement and maintain operational procedures;
+*Create and maintain high quality documentation relating to processes,
+ procedures and other technical related papers
+*Monitor, support and maintain server, data centre and critical-environmental
+ infrastructure within Nexusguard, monitoring and performance analysis on ESX
+ servers and VMs;
+*Develop administrative procedures for recurring system administration
+ activities;
+*Investigate technical possibilities and new solutions in answer to requests
+ from management and customers;
+*Support the design, deployment and configuration of new server-side
+ solutions and further support engineering and implementation activities;
+*Participate in activities related to the procurement of IT equipment,
+ hardware and software;
+*Provide on-call technical support as part of the team on-call rota;
+*This position might require participation in a shift system including
+ weekends and nights as well as participation in on-call duty.
+
+
+Qualifications / Requirements
+*Relevant Diploma or Degree in information systems or technology
+*Good knowledge of ITIL based ICT delivery processes, ideally  ITIL v3
+ Foundation qualified
+*High degree of knowledge with Windows Server 2003/2008 Operating Systems
+*Excellent understanding of networking principles including DNS, DHCP,
+ TCP/IP is assumed
+*At least 10 years of ICT experience, the last 2 in a team leader or project
+ manger capacity.
+*Experience with understanding all monitoring thresholds and alerts and
+ associated escalation paths.
+*Desire and ability to keep up to date with the latest technical developments
+ within their service area.
+*Effective experience of report preparation and presentation to wide-ranging
+ audiences.
+*Fluency in both English and Mandarin
+
+Operation Manager
+Job Responsibilities :
+*To develop and manage operation team to achieve operation efficiency and
+ customer satisfaction
+*Establish work processes that are aligned towards achieving committed SLAs
+ and KPIs
+*Oversee the development, implementation and administration of staff training
+ procedures and polices
+*Implementation and governance of end to end fault management process in the
+ operation team system
+*Responsible for the proper operation of the operation centre where 24x7
+ surveillance of ICT services is required
+*Service provisioning of customer ICT and ensuring that the various service
+ level agreements are kept
+
+Job Requirements :
+*Bachelor degree in computer science / Information technology /
+computer engineering
+*Minimum 6 years of working experience in IT industry with at least 2 years
+experience in managerial role
+*Strong operations and management skills
+*Sound knowledge of WAN\LAN networking
+*Experienced in project management, designing and implementation of end to end
+ IT infrastructure
+*Excellent communications and interpersonal skills
+*Independent and willing to work with different time zones
+
+
+Web Developer
+Key Job Duties & Responsibilities
+
+*Development of customer-facing web portals to include data from a variety of
+ mediums displayed in a cohesive fashion.
+*Development of internal dashboards to show the current status of the
+ operations and infrastructure to achieve business goals.
+*Research and develop innovative methods of presenting information in
+ efficient, yet meaningful manners.
+*Work with operations teams to enhance and streamline workflows for portal
+ and dashboard navigation.
+
+Qualifications / Requirements
+*Degree or Diploma in Computer Engineering or related technical field
+*More than 2 years experience in web development.
+*Good organization and communication skills
+*Experience in PHP/Python development in LAMP (Linux, Apache, MySQL,
+ PHP/Python) environment
+*Experience in AJAX, Javascript, XML, CSS and HTML
+*Able to work in a collaborative team environment and adapt to changes quickly
+ in high pressure evolving environment
+
+
+Solution Engineer
+Key Job Duties & Responsibilities
+維持全天候的機房維運和技術服務，並且讓客戶商務平台以及網路連線能穩定運作。
+工作負責項目：
+1. 提供技術支援和諮詢，盡可能的快速解決客戶運作平台問題，並且提供診斷報告。
+2. 在特定的網路架構中，分析、研究以及評估所有領域的信息通信技術服務、
+   商業以及開放性軟體和外圍技術，以及引進新技術。
+3. 對於標準、安全化信息和通信技術設備能有效率建置、建議。
+4. 對於標準化流程、文件、配置，文件和程序，能有效率配合以及履行
+5. 技術知識分享及學習，協助專案建置
+6. 24小時網路營運監控
+7. 主動關懷客戶並給予正確架構的建議。
+
+Qualifications / Requirements
+1. 對網路與電腦資訊以及新科技有濃厚興趣
+2. 熟悉 Juniper/Cisco, L2/L3/firewall網路設備與TCP/IP技術與應用
+3. 具備機房管理與設備維護經驗，且能進行障礙排除與問題分析
+4. 熟悉服務監控軟體(如:MRTG/PRTG/What's Up)
+5. 高配合度且能快速適應高科技產業運作
+6. 可以配合輪班制度
+7. 有責任感與團隊合作精神
+
+

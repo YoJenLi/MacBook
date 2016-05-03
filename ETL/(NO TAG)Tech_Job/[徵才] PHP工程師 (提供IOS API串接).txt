@@ -1,0 +1,51 @@
+
+作者liljack ()看板Tech_Job標題[徵才] PHP工程師 (提供IOS API串接)時間Wed Mar  5 19:47:01 2014
+職務名稱：PHP工程師 (提供IOS API串接)
+需求人數：    1~2人
+職務類別：    通訊軟體工程師、Internet程式設計師、軟體設計工程師
+職務說明：    應徵職稱: PHP工程師，(提供IOS API串接)
+
+應徵公司名稱:Digital Drift Co.LTD.
+
+公司自我簡介
+
+創立一年的APP 公司
+
+致力於設計系統類型的APP設計公司
+開發的產品， 為觀察人最細微的日常使用
+做出生活中的系統．做出APP更大的創新與應用
+
+http://54.235.159.10:8088/company/
+
+
+
+上班地點：    台北市大安區(遠企百貨正對面)
+
+全新裝潢，環境良好，交通方便
+
+
+工作待遇： 35000~50000
+
+職務類別：    通訊軟體工程師、Internet程式設計師、軟體設計工程師
+
+聯絡人：        黃健維
+
+履歷投遞
+E-mail：  edward@gracehan.com
+
+
+
+希望的職位條件
+
+1,溝通良好，對程式有熱誠
+
+2 兩年以上PHP 開發經驗, 具備物件導向和REST API觀念
+
+3.對PHP開發框架Codeigniter者佳
+
+4.熟悉並能應用Web前端開發技術,包含CSS3, JSON, XML, JQUERY, AJAX 等等
+
+5.具LAMP[Linux+Apache+Mysql+PHP] 開發經驗者佳。
+
+6.具Android / iOS 相關開發專案的工作經驗者佳
+

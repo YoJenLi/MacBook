@@ -1,0 +1,14 @@
+
+作者emptyspace (none)看板Tech_Job標題[徵才] JAVA高手，2-3天工作日，薪 9000元。時間Tue Aug 26 04:52:04 2014
+
+徵JAVA高手，2-3天工作日，薪 9000元。
+建置一個OpenSource Library http://ppt.cc/98OK
+在 Ubuntu 13.04上
+然後加一個簡單的應用程式
+
+你可以自己準備Ubuntu，或者我們可提供已灌好 Ubuntu 的 NB
+
+我們已建置 C 語言版的相同 Library，所以可以支援你背景知識
+
+意者請洽 0934086580 陳小姐 yalin78900@gmail.com
+

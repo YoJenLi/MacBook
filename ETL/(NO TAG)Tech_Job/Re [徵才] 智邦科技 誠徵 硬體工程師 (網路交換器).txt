@@ -1,0 +1,20 @@
+
+作者adame ()看板Tech_Job標題Re: [徵才] 智邦科技 誠徵 硬體工程師 (網路交換器)時間Sat Mar  7 14:38:24 2015
+※ 引述《hfli (我想當一隻小鳥)》之銘言：
+: 【公司名稱】智邦科技股份有限公司 http://www.accton.com/
+: 【工作職缺】硬體工程師
+: 【工作內容】Ethernet Switch (網路交換器) design & verification
+:  1. Schematic design (ORCAD)
+:  2. Cowork with layout engineer (Allegro)
+:  3. Spec/test plan documentation
+:  4. CPLD code design
+:  5. BOM/material maintaining
+:  6. Product debugging/testing/maintaining
+: 【徵才條件】大學以上學歷, 具有系統設計和驗證經驗, 網通產品尤佳
+: 【薪資範圍】45000~70000 依能力和學經歷而定, 能力卓越者可談更高薪
+: 【工作地點】新竹市
+: 【聯絡方式】請將履歷寄至 jasonli@accton.com Mr. Li
+
+看到旭哥對智邦這樣付出，今天純推旭哥，但智邦該噓的還是要噓，RD不被重視，要馬兒
+跑又不給馬兒吃草，小弟閃的早，外面天空是寬廣的!祝福還在智邦的各位!一切順心~
+

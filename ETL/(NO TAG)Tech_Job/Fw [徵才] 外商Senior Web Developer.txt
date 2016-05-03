@@ -1,0 +1,35 @@
+
+作者arashi233 (arashi233)看板Tech_Job標題Fw: [徵才] 外商Senior Web Developer 時間Wed Jun 24 19:55:30 2015
+※ [本文轉錄自 Soft_Job 看板 #1LYfeyaL ]
+
+作者: arashi233 (arashi233) 看板: Soft_Job
+標題: [徵才] 外商Senior Web Developer 
+時間: Wed Jun 24 19:53:25 2015
+
+【公司名稱】
+ Robert Walters 代外商徵
+ 官方網站：http://www.robertwalters.com.tw/
+
+【工作職缺】
+ Senior Web Developer
+
+【工作內容】
+‧ Participate in design phase to generate design document
+‧ Implement software application in web as well as mobile platform
+‧ Review functional test case and provide maintenance support
+
+【徵求條件】
+‧ Degree in cs or equivalent field with at least 3 years experience in Java
+   & Web development
+‧ Knowledge of jQuery, HTML5, JavaScript, and database schema and SQL
+‧ Hands-on JAVA SE programming experience in various data structure and
+   concurrent utilities.
+‧ Realize design patterns into program, apply MVC in web program, and embed
+   object oriented design.
+‧ Experience in native mobile application development or familiar with cross
+   browser app support would be a big plus.
+‧ Experience in payment gateway integration is a bonus.
+
+【工作地點】台北市內湖
+
+【工作時間】週一

@@ -1,0 +1,78 @@
+
+作者alexforme (鴻爺)看板Tech_Job標題[徵才]Openings at a quant research firm時間Fri Nov 15 22:15:36 2013
+ABOUT US:
+Alluvium Global Research Limited (＂Alluvium＂) provides quantitative
+research and technology solutions for use in the financial industry to
+sophisticated clients. Alluvium employs a systematic and mathematical
+approach to analyzing global financial markets for inefficiencies that can be
+captured using high-tech trading solutions. Its founders have extensive
+experience in the financial industry and advanced degrees in science,
+technology, engineering, and mathematics from the world’s top universities.
+Our offices are located in Hong Kong, China, and Taiwan.
+
+We are currently seeking bright, articulate, highly-motivated candidates who
+will contribute to the design, development, and maintenance of automated
+trading systems, quantitative research tools, high-performance data
+management systems, portfolio management tools, and technical
+architecture/infrastructure.
+
+The responsibilities of new hires will span a wide variety of programming,
+data analysis, statistical and other quantitative projects. These projects
+often range in duration and programming environment. This position will have
+a high degree of autonomy as well as responsibility in the design, direction,
+and approach in these tasks.
+
+We believe in a casual and collaborative atmosphere in which the candidate
+can become an integral part of a smaller team. This position allows for a
+high degree of freedom as well as the ability to be actively involved in the
+solutions to a variety of challenging problems. While the work is rigorous
+and demands a high level of commitment, the firm maintains an open,
+cooperative and collegial atmosphere. We look for candidates who are
+effective at working in a team environment, and who are interested in a
+long-term career.
+
+Company website: http://www.alluviumresearch.com/
+
+
+***********************
+POSITION 1
+Software Engineer/Developer & IT Support (Full-time or Part-time contract)
+Main offices: near Taipei 101 and ZhongXiao DunHua
+Additional locations: 台中,台南,高雄,新竹,新北市,桃園縣
+
+Requirements:
+‧ Familiar with at least one programming language: C++, C#, Python, or Java
+‧ Degree in any of the following: computer science, engineering,
+math/statistics, operations research, or physics
+‧ Knowledge of design patterns
+Duties:
+‧ Develop/debug software and support servers/networks
+‧ Implement algorithms for data manipulation
+‧ Maintain documentation of procedures, models, and programming work
+
+
+
+***********************
+POSITION 2
+Quantitative Programmer & Data Analyst (Full-time or Part-time contract)
+Main offices: near Taipei 101 and ZhongXiao DunHua
+Additional locations: 台中,台南,高雄,新竹,新北市,桃園縣
+
+Requirements:
+‧ Familiar with R or Matlab (or NumPy/SciPy)
+‧ Degree in any of the following: engineering, math/statistics,
+econometrics, operations research, or physics
+‧ Knowledge of probability theory, stochastic processes, or time series
+analysis
+Duties:
+‧ Perform statistical analysis/modeling on large data sets; prepare research
+reports
+‧ Maintain documentation of procedures, models, and programming work
+
+
+Applicants should send the following documents to
+human.resources@alluviumresearch.com:
+‧ Resume (in English or Chinese)
+‧ Sample of past work: code or research reports
+
+

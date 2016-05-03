@@ -1,0 +1,24 @@
+
+作者lhushe (qq)看板Tech_Job標題[請益] htc  (RD S/W) Android - Software Test 時間Mon Jul 21 23:19:07 2014
+今天104收到HR寄來的通知
+
+
+請問這個職位的風評如何?
+
+
+請問各位前輩給我一些建議吧
+
+謝謝
+
+
+工作內容:
+
+1. Android / WM driver test.
+2. Android / WM AT test.
+3. Android / WM issue verification
+
+其他條件：
+1. 對手機測試有興趣者
+2. 具備電腦基本操作經驗
+3. 一年約聘人員
+

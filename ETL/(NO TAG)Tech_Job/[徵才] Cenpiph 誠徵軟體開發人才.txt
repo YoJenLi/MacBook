@@ -1,0 +1,203 @@
+
+作者alice1202 (艾莉絲)看板Tech_Job標題[徵才] Cenpiph 誠徵軟體開發人才時間Mon Aug  3 15:57:49 2015
+
+
+Cenpiph(宏焰公司)為澳洲多國電信服務商Ethan Group的子公司, 在香港、新加坡、澳
+洲、黎巴嫩等地都設有辦公室, 致力於運用雲端及大數據科技提供企業用戶最快速及具擴
+充性的解決方案, 協助客戶快速地回收投資。
+
+我們即將在台灣建立據點並持續提供客戶軟體開發的協助與服務。 公司的成功將奠基於
+誠實努力的員工及獨特有趣的企業文化, 誠摯地邀請您成為其中的一份子, 一同迎向建立
+下一世代軟體服務的挑戰。
+
+
+【公司名稱】
+
+Cenpiph (宏焰有限公司)
+
+
+【工作職缺】
+
+1. Engineering Team Lead
+2. Web Developer (Front-end)
+3. Software Engineer (Back-end)
+4. Web Designer
+
+
+【工作內容】
+
+1. Engineering Team Lead
+* Manage and oversee team of 5+ software integration engineers and web
+  developers to deploy cloud based software solutions.
+* Execute Agile development methodology.
+* Follow Agile methodology in product deployment.
+* Gather business and technical requirements and ensure development team is
+  delivering by the requirements.
+* Maintain and manage strict set delivery timelines during each sprint.
+* Act as scrum master and project manager.
+* Perform basic QA support to validate quality.
+
+
+2. Web Developer (Front-end)
+* Work closely with the web designers and create front end web pages based on
+  designer's specifications.
+* Work closely with software integration team to render dynamic data onto web
+  pages.
+* Follow Agile methodology in product deployment.
+* Writes production quality web based codes.
+* Analyze and optimize front-end and back-end codes, and pursue simplicity,
+  efficiency, reliability and performance.
+* Use independent judgment to take existing code, understand its function and
+  change/enhance as needed.
+* Mentor junior level engineers and provide technical guidance, and engage in
+  design and code review for other team members.
+* Provide documentation to all development and customizations.
+* Leverage customer existing cloud and service catalog technology and build
+  the integration features into these products.
+
+
+3. Software Engineer (Back-end)
+* Work closely with the product team to design and develop a variety of
+  features and reusable components to deploy XaaS, PaaS, IaaS product and
+  services.
+* Implement the features and follow Agile methodology in product deployment.
+* Writes production quality integration for a contained complicate feature
+  set or function area.
+* Analyze and optimize front-end and back-end codes, and pursue simplicity,
+  efficiency, reliability and performance.
+* Use independent judgment to take existing code, understand its function and
+  change/enhance as needed.
+* Mentor junior level engineers and provide technical guidance, and engage in
+  design and code review for other team members.
+* Provide documentation to all development and customizations.
+* Leverage customer existing cloud and service catalog technology and build
+  the integration features into these products.
+
+
+4. Web Designer
+* Website mock-ups and wireframes.
+* Website creative content.
+* Flash and html based user interfaces.
+* Identity assets such as logos, as well as brand specific colour/style
+  guidelines.
+* Static banners if needed.
+* Build websites to the highest standard and work closely with other
+  designers and developers to complete web projects.
+* Build and develop high quality websites and ensure that they are browser
+  compatible, SEO friendly and meet high web standards.
+* Responsibility for the design, usability and testing of new and existing
+  websites, ensuring that requirements and deadlines are met.
+* Assist the developers in the production, modification and frontend
+  maintenance of websites and web application/flash user interfaces.
+
+
+【徵求條件】
+
+1. Engineering Team Lead
+* Solid foundation in computer science, with basic competences in operating
+  systems, computer networks, data structures, and software design.
+* Excellent problem solving, collaboration and communication skills.
+* A demonstrated capability for creative thinking, intellectual and
+  entrepreneurial exploration.
+* 2+ years of software project management experience.
+* Must have fundamental knowledge of Cloud and software integration framework.
+* Must be self-sufficient, and self-discipline with ability to deliver by
+  results.
+* Speak English and able to communicate and conduct meetings in English.
+
+
+2. Web Developer (Front-end)
+* Solid foundation in computer science, with basic competences in operating
+  systems, computer networks, data structures, and software design.
+* Excellent problem solving, collaboration and communication skills.
+* A demonstrated capability for creative thinking, intellectual and
+  entrepreneurial exploration.
+* 2+ years of web development experience.
+* Experience in large system coding and debugging skills.
+* Experience in writing unit tests and testable codes.
+* Must have strong skills in JavaScript, jquery, Backbone, and Dojo.
+* Must be self-sufficient, and self-discipline with ability to deliver by
+  results.
+* Extensive experience in Web Services and REST API rendering.
+* Basic conversations in English.
+
+
+3. Software Engineer (Back-end)
+* Solid foundation in computer science, with competences in operating
+  systems, computer networks, data structures, and software design.
+* Excellent problem solving, collaboration and communication skills.
+* A demonstrated capability for creative thinking, intellectual and
+  entrepreneurial exploration.
+* 2+ years of progressive software development experience.
+* Experience in large system coding and debugging skills.
+* Experience in writing unit tests and testable codes.
+* Programming skill in either C++ or JAVA.
+* Must be self-sufficient, and self-discipline with ability to deliver by
+  results.
+* Have basic database skills to perform integration with MSSQL and/or Oracle.
+* Have experience in taking API and perform integration to any software system.
+* Extensive experience in Web Services and REST API.
+* Basic conversations in English.
+
+
+4. Web Designer
+* Extensive knowledge of Adobe Photoshop and Illustrator.
+* Excellent communication skills and attention to detail.
+* A good understanding of website information architecture to create a website.
+* Excellent problem solving, collaboration and communication skills.
+* A demonstrated capability for creative thinking.
+* 2+ years of web design experience.
+* Must be self-sufficient, and self-discipline with ability to deliver by
+  results.
+* Basic conversations in English.
+
+
+【工作地點】
+
+台北市內湖區
+
+
+【工作時間】
+
+9:00am～18:00pm
+
+
+【月休】
+
+周休二日
+
+
+【公司福利】
+
+教育訓練、三節獎金
+
+
+【薪資範圍】
+
+月薪4～9萬, 保障14個月, 依能力經驗面議
+
+
+【需求人數】
+
+1. Engineering Team Lead         2人
+2. Web Developer (Front-end)     4人
+3. Software Engineer (Back-end)  8人
+4. Web Designer                  2人
+
+
+【聯絡人/連絡方式】
+
+意者請將履歷/作品email至info@cenpiph.com
+
+
+【其他說明】
+
+1. 公司福利制度依照勞基法規定, 年休假優於勞基法, 試用期滿即享有年休假10天, 依
+   到職時間按比例計算休假天數。
+2. 辦公環境規劃有兩間獨立的Quiet Room、淋浴間, 並提供免費咖啡, 以及Friday
+   Happy Hour, 希望創造一個Work Hard Play Hard, 開心有趣的工作環境。
+3. Cenpiph歡迎有相關工作經驗的工作夥伴加入團隊, 在收到履歷後我們會儘快與您聯繫,
+   謝謝!!
+
+
+

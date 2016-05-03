@@ -1,0 +1,77 @@
+
+作者secretvickie (澎澎)看板Tech_Job標題[情報﹞﹞ 數位IC設計能力鑑定證照(9/1~15報名)時間Thu Aug 29 13:50:20 2013
+數位IC設計能力鑑定
+
+指導單位：經濟部工業局智慧電子學院
+主辦單位：國家晶片系統設計中心
+
+
+目標：
+
+(1)考生具備熟悉數位電路邏輯設計之各種輔助工具與設計流程(包含Verilog coding,
+logic synthesis, simulation, DFT, FEC, STA, cell library…等等)。
+    (2)考生具備Verilog硬體描述語言設計IC能力。
+    (3)鑑定成績可提供各校參考做為未來學生畢業之條件。
+    (4)鑑定成績可提供未來學生入學面試及工作面試的能力依據。
+    (5)鑑定及格之考生可證明自己在數位IC設計上擁有基本的知識與專業能力。
+
+考試內容:
+
+學科筆試
+
+以數位電路邏輯設計概念(包含大專院校教科書之Digital System, Logic
+Design, Logic Synthesis and Verification, VLSI Testing…等)、Verilog語法以及數
+位IC設計EDA工具流程為主；內容包含:
+ 1. Logic design
+ 2. Verilog coding
+ 3. Logic Synthesis
+ 4. Logic Verification
+ 5.Testing
+ 6.Power & Timing Analysis
+
+術科實作
+
+由主辦單位提供指定題目、設計規格、設計方塊圖及相對應之測試向量，考生
+在考試時間內利用標準元件數位電路設計方式完成符合規格之晶片設計。
+術科實作評分之4個主要項目為：
+(A)Verilog coding須符合題目所要求之功能規格
+(B)Verilog coding須通過主辦單位所提供之nLint rule檢查
+(C)邏輯合成後之gate-level simulation驗證完全無誤
+(D)電路合成軟體時序分析驗證須符合題目所要求之規格
+
+
+考試時間：
+
+2013/10/19
+
+報名時間：
+
+2013/09/01-09/15
+
+考試科目：
+
+1.學科筆試:50題，作答時間100分鐘
+
+2.術科實作：2題，作答時間240分鐘
+
+
+報考資格：
+
+大專以上在學學生
+業界人士（已經或想要從事IC設計相關產業之工程師）
+
+費用：
+
+學科筆試、術科實作合報2000元，單報學科筆試1000元。
+（推廣期間業界人士8折優惠，學生6折優惠，學生團報5折優惠）
+
+
+考試網址：
+http://www.cic.org.tw/ICDESIGN
+
+
+聯絡方式：
+
+03-5773963分機155
+icdesign@cic.narl.org.tw
+

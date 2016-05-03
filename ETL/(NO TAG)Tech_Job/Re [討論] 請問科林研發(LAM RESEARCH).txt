@@ -1,0 +1,35 @@
+
+作者f1f1f1 (f1)看板Tech_Job標題Re: [討論] 請問科林研發(LAM RESEARCH)時間Tue Jul  2 12:11:51 2013
+※ 引述《rocky5566 (56)》之銘言：
+: 借標題 請問各位前輩
+: 常聽到的幾家半導體vendor不外乎ASML LAM(科林研發) TEL(東京威力)
+: KLA(科磊) FSI ATML
+: 但都搞不清楚哪幾家是做哪段製程的 掌握的技術又是什麼??
+: 聽說目前ASML的前景是最好的(掌握XX技術??)
+: 可否請專業的前輩指點一下  給小弟點參考 謝謝!!
+
+不管是哪家Vendor
+
+記住工作的loading一定是 Etch>Litho>>>Diff=PVD=CVD>>Metrology
+公司是不是握有關鍵技術跟基層工程或銷售人員沒有太多直接關係
+因為在半導體領域 一個世代的關鍵技術通常一兩年就被另外的技術取代
+也就是都不會天天過年的
+
+<懶人包>
+ASML=Litho(獨佔最強)
+LAM+NVLS=Etch(獨佔最強)+PVD+CVD+ECD
+TEL=很雜Thermal+clean+CVD(Coating)+PVD+Ion+Display... 除了沒有Litho
+KLA=Metrology(獨佔最強)
+AMAT=最雜PVD+CVD+Etch+CMP+CuP+FEP+ALD+Metrology+Imp+Display+Solar...除了沒Litho
+還有一堆你沒聽過的...
+上一個世代關鍵技術的確在ASML的Immersion畢竟曝光曝不出來甚麼都不用做了
+
+但下一個世代目前朝多元化發展並不完全倚賴曝光拼命微縮的製程
+你可以找找下列關鍵字來入門Vendor領域:
+3D IC(FINFET),TSV,Ebeam/EUV,ALD,High-K,CNT,18吋....
+
+至於Pay的部分 同樣年資學經歷來說 每一家其實都差不了多少
+差異比較大的反而是不同年資與不同職級與不同地區(總公司與各地分公司還是有差異)
+如果進來有機會就是往上爬比較實在 但老實說外商層級扁平化 就算你很優秀
+要promote大概是看運氣的成分比較大
+

@@ -1,0 +1,43 @@
+
+作者fongminp (毆明)看板Tech_Job標題[心得] 104年中科院資料結構筆試時間Tue May 19 23:08:20 2015
+看到前面有在討論就貼在這，如有違板規自刪。
+
+本魯今天參加45號筆試，
+
+廢話不多說以下10題(滿分應該100)考60分鐘，
+
+題號順序沒記。
+
+1.寫一個recursive function 求 n!。
+
+2.給一個4層binary tree，5個節點ABCDE，tree的樣子是
+  preorder為ABCED、inorder為ECBDA，
+  求(1) Sequential and(2) Link memorized representation.
+
+3.(1) Circular list and linked list definition.
+     (這邊有點不確定是linked list還是sequential list)
+  (2) Circular list相較於第(1) 小題另外一種list的advantage是什麼
+
+4.(1) Binary search tree definition.
+  (2) 給一個很簡單的BST，求插入一個node之後的結果。
+
+5.給preorder、inorder求postorder.
+  (這邊只記得preorder應該為ABCDEFGHI)
+
+6.(1) Min/Max Heap definition.
+  (2) 給一 max heap ，求依序插入3個node結果。
+
+7.(1) Minimum spanning tree definition.
+  (2) 給一個很簡單的graph(印象只有6個節點)，求minimum spanning tree。
+
+8.給一 List F = 5374891(印象是這幾個這幾個整數)，
+  求insertion sort。
+
+9.Hashing method 相較於binary tree的 advantage是什麼？
+  and give your reason.
+
+10.Compare Binary search and Sequential search.
+   它們的advantage and disadvantage分別是什麼？
+
+以上10題，全英文命題。
+

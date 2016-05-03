@@ -1,0 +1,61 @@
+
+作者a0952864901 (fish)看板Tech_Job標題[徵才] L1 Field Support Engineer (PT)時間Wed May 27 20:21:11 2015
+第一次在板上發文,若有沒注意到的地方請見諒
+今天有收到杜拜一家SI急徵現場Part Time Support的工程師
+內容大概是:
+條件 - 能用英文溝通/電腦技能..會用Remote軟體&安裝系統
+工作內容 - 1. 5/28 10:30 到新竹某家公司做Knowledge Transfer
+           2. 到另一家公司perform KT的東西&協助安排L2 Support Remote
+Pay - 1.前兩個小時45USD,後面每一個小時17USD
+
+原文如下(有刪掉一些敏感資訊):
+10:30am  28th may.
+
+Location
+Hsinchu, Taiwan
+
+Compensation
+The rate will be 45 USD in total for first two hours, and 17 USD for every
+additional hour. This rate is inclusive of everything.
+
+Payment terms
+You will invoice us at the end of each month and  will be paid within 45 days
+from the date of invoicing by bank wire transfer.
+
+Nature of Tasks
+The scope of work is end-user support, with remote assistance provided by our
+own team and our client’s Level 2 remote team. The tasks might be like
+fixing a printer, installing Windows on a laptop, etc. For each task,
+engineer will usually receive a day’s notice. In very rare cases, the
+engineer might need to go to the site on the same day we receive it.
+
+Please note that this client is AXX (the semiconductor manufacturer). Due to
+the high-end nature of the client, we will need a Criminal Record check and
+photo ID of the engineers who work on this. In addition to this, the
+engineers will also need to fill out some forms and paperwork for AMD if
+their name gets finalized.
+
+Next Step
+We need your confirmation that you are available to perform the tasks. You
+will need to later provide your Background Check documents within 10 days of
+confirming your willingness to work. If you have shared these documents with
+GTC already, there is no need to submit them again. We will also conduct a
+fully paid site induction visit before the tasks begin to get you familiar
+with the whole process.
+
+Note: The engineer must be fluent in English and the local language.
+
+Training
+For all of the tasks we have prepared training material and procedures. Once
+you are enrolled in our system we will provide you online training on your
+preferred schedule to ensure that you will be ready for general tasks when
+needed.
+
+How to Apply
+Please email your CV (English, Word Format) to "Quratulain Akbar"
+(qurat.ul.ain@gtc247.com) with your "name" and "city and country" information
+in the subject heading of your email.
+
+I am looking forward to hearing from you.
+
+International Technical Recruiter

@@ -1,0 +1,47 @@
+
+作者rosemary0401 (rosemary)看板Tech_Job標題Re: [心得] 面試(Google/Apple/Snapchat/Light)時間Mon Oct 26 21:52:03 2015
+※ 引述《diabloiii (天才珈)》之銘言：
+
+恕刪
+
+: 白板寫出來的東西是要真的可以跑的 不可以有syntax error
+
+有點好奇要求做到這個程度是為什麼？
+
+
+syntax error一般的IDE都可以抓出問題，
+
+為什麼非得在白板上寫出無syntax error的code？
+
+
+
+有些東西就算沒有記起來，但是google搜尋一下就有了：
+
+比方說像是C++在std::vector裡面找特定的element來刪除、
+
+判斷某個element裡面是否存在std::set裡面、
+
+在std::vector裡面刪除duplicate的elements
+
+像這些google搜尋一下就可以得到的東西，為什麼非得背下來，
+
+在白板上可以寫出可以run的程式？
+
+
+
+更別提我們team裡面因為project需要碰的語言很多(e.g., C++, C#, PHP, SQL, Python)
+
+不是每個人都可以成為特定語言的expert，
+
+有些資深的engineer甚至不知道C++的class是value type，而C#的class是reference type
+
+我覺得除非你寫的是script language，
+
+有些東西沒辦法像C++一樣，在compile time幫你做一些check，
+
+不然實在想不到要求在白板上寫出可以run的程式的目的是甚麼？
+
+
+
+請大家不吝指教，謝謝
+

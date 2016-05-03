@@ -1,0 +1,16 @@
+
+作者zj44 (YY)看板Tech_Job標題[討論] Power PCB 辦的到嗎?時間Thu Nov 19 20:16:24 2015
+目前有兩個問題
+
+1.dxf<->emn 互轉問題
+
+如何讓 dxf(emn) 線路 1:1 出到Power pcb 不然互轉比例尺寸根本不符
+
+連單位都跑掉 mm 變成 mile? 需要調整哪裡?
+
+2.如圖 如何在 Power pcb 裡面建立高度限制 可以產生立體圖?
+
+http://1drv.ms/1HayxVb
+
+謝謝!
+

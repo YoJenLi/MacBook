@@ -1,0 +1,55 @@
+
+作者BlackMatrix (BlackMatrix)看板Tech_Job標題[請益] 在美國找不到工作,請各位幫忙看一下簡歷時間Sat Feb  8 10:37:48 2014
+各位大家好,
+
+我的硬體專長是ASIC, VLSI, 和一些IC Design,軟體專長有Java, 跟一些C/C++, Matlab,
+
+跟目前在自學CUDA C.
+
+
+我在美國, 也已經畢業了幾個星期, 跟我一起在實驗的同僚和朋友們都已經陸陸續續
+
+找到工作了
+
+
+可是我目前大概發了幾百篇簡歷, 只爭取到了兩個面試, 可是經過了幾個星期都沒有回覆
+
+我想請各位大大幫忙看一下我的簡歷, 是不是有問題? 還是說有在美國有工作經驗的
+
+大大覺得我簡歷的東西不夠?
+
+
+我在HP有爭取到一個Entry Level ASIC Engineer電話面試
+
+題目有:DC, AC, 電桿電容電阻, OP一些小觀念, Memory, Caching, Digital Logic
+(Karnuagh Map運算, DeMorgan's簡化), 雖然那個面試官有在做PLL, DC-DC, 不過
+沒問我就是了.
+
+
+另外一家公司有North Atlantic Industries
+
+沒有題目, 只有問一些FPGA相關的知識
+
+
+感覺難度都OK, 不過經過幾個禮拜都沒有下文
+
+
+所以想請各位大大幫忙看一下我的簡歷是不是有問題?
+
+
+還有一個小小的感想: 專精一個領域真的比較好, 我之前在交大有待過一個暑假
+
+算是我們學校跟交大的一個合作項目, 不過專精做IC的學生真的超級厲害,
+
+其實從頭到尾都是交大學生在幫我們, 很少有我們幫忙的機會. 雖然我會做一些軟體,
+
+實驗室裡面有幾個Tool跟GUI都是我做的, 可是也沒幫忙加分就是了, 如果HP的考官
+
+問到PLL跟DC-DC Converter我還真的沒有學過.
+
+舊的Resume:http://tinyurl.com/mbpy539
+
+更新的Resume(硬體):http://tinyurl.com/lhrbmph
+
+更新的Resume(軟體):http://tinyurl.com/lsdvxb4
+

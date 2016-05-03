@@ -1,0 +1,16 @@
+
+作者chihow0520 (異鄉人)看板Tech_Job標題[請益]FCBGA Roger board 生產商時間Mon Mar 30 08:56:49 2015
+大家好
+小弟的公司
+目前正在尋找量產我們的4層FCBGA roger board second source廠商
+由於設計的roger board比較小
+例如BGA pad-pad(外層) 4mil，內層3.5mil
+希望能找到合適的廠商
+但是對台灣的這方面的知識比較不足
+想要請問如何尋得這方面的知識
+或您現在工作的公司是這方面的廠商
+也歡迎與我聯絡
+我會將gerber寄給你們估價
+細節在skype會議中可以詳談
+
+

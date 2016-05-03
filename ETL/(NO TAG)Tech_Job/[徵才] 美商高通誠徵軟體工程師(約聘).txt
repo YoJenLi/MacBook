@@ -1,0 +1,59 @@
+
+作者jennyslike (JTC)看板Tech_Job標題[徵才] 美商高通誠徵軟體工程師(約聘) 時間Wed Apr 15 12:25:41 2015
+
+
+【公司名稱】
+
+  Qualcomm Communication Technologies Ltd.
+
+【工作職缺】
+
+  Linux Peripheral or Storage Engineer (約聘)
+
+【工作內容】
+
+  Looking for an entry level software engineer to work with Qualcomm
+  team in supporting Linux peripheral system software in the technical
+  areas of I2C/SPI/UART, SDIO/SDCC, eMMC.
+
+【徵求條件】
+
+  1. BS/MS in Electrical Engineering, Computer Engineering,
+     Computer Science are Required
+  2. Newly Graduated Students or 1~2 year of Working and Education
+     Experiences in Linux Driver Programming are welcomed to apply
+     this position.
+  3. Working in a team environment and good attitude in learning
+     Linux Device Drivers and supporting customers' peripheral issues
+  4. Experiences in the following are plus but not required
+     - Knowledge of Make files
+     - Experience in Perl/Python scripting
+     - Experience in TRACE32/JTAG and ARM toolchains
+
+【工作地點】
+
+  台北市信義區
+
+【月休】
+
+  週休二日
+
+【薪資範圍】
+
+  六萬以上 (依求職者的經驗/專業能力核薪)
+
+【需求人數】
+
+  1人
+
+【注意事項】
+
+  ※此為約聘職缺，因原職位同事轉為正職，原約聘職缺須重新找人
+  ※無經驗可，歡迎相關科系新鮮人應徵
+
+【聯絡方式】
+
+  請將英文履歷寄至:jtc@qti.qualcomm.com
+  聯絡人: Jenny Chen
+
+

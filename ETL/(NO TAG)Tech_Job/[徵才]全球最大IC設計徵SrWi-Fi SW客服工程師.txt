@@ -1,0 +1,43 @@
+
+作者iamchahsuan (Alicia)看板Tech_Job標題[徵才]全球最大IC設計*徵Sr.Wi-Fi SW客服工程師時間Sun Oct 11 23:45:10 2015
+公司：全球最大IC Design House
+     （Recruit Express代美商徵才）
+
+地點：台北市內湖區瑞光路
+
+月薪：100Ｋ起（薪優）
+
+＃工作內容
+- As a Computing Customer Engineer, this role must be responsible for accounts to ensure WLAN and/or Bluetooth solution successfully on module maker, SI and OEM/ODM.
+- This role establishes the person as the technical expert for specific products and the relevant domain.
+- Must have high technical competence and be able to provide in-depth technical responses to CPM, Sales, Marketing and Customers.
+- Will work very closely with engineering and program management from project start through mass production.
+- Will also be involved in working with customer's developing team, AE/FAE or third party partners.
+- This position is based in Taipei and will require domestic travel and some international travel
+
+＃應徵條件（必備!!）
+1.  Bachelor degree in Electrical Engineering, Computer Science or related discipline or 3+ years equivalent experience. Advanced degrees are a plus
+2.  3+ years of experience on developing software/applications and/or customer support in networking solutions
+3.  Good command in English speaking, reading, writing and listening
+4.  Good knowledge and experience with Windows software developing on C/C++ programming and debugging
+5.  Familiar with Windows networking applications and device driver developing/sustaining
+6.  Ability to react to customer needs coupled with superior problem solving and debugging capabilities
+7.  Ability to work independently with minimal supervision.
+8.  Great Team player with communication skills.
+9.  Must be self-motivated with good communication skills and an investigative spirit.
+10. Ability to rapidly learn multiple areas.
+
+＃加分條件
+1. Experience on Windows WLAN/BT solution developing or supporting
+2. Experience on supporting semiconductor solutions is highly desired
+3. Able to implement/maintain Windows GUI/Utility/SDK/Supplicant/installer bases on design specification
+4. Familiar with Wifi MLME
+5. Familiar with Windows NDIS/WDI device driver architecture
+6. Familiar with 802.11 protocols
+7. Familiar with Wi-Fi security
+8. Familiar with Wi-Fi P2P
+9. Familiar with Miracast
+
+應徵請寄中英文履歷到【alicia@recruitexpress.com.tw】
+標題註明應徵職務，並附上聯絡電話。
+

@@ -1,0 +1,27 @@
+
+作者foxconn1080 (鴻)看板Tech_Job標題[面試] 請問PM 產品經理 的KPI怎麼評估?時間Wed Sep  9 21:06:39 2015
+
+想請問各位前輩 PM 產品經理 的KPI要怎麼評估?
+
+
+以華碩為例,華碩分工精細
+
+RD-PM             KPI: 是否能讓project開發 on schedule,順利導入量產,良率提升..
+Fulfillment PM    KPI: 是否能順利出貨 on schedule
+
+
+
+那請問SPM 產品經理的 KPI 會要怎麼訂呢?
+
+開發Schedule 跟 RD PM有關, 出貨與FPM有關
+
+但以上內容都跟產品經理有關係且有責任,
+
+但似乎又不是SPM的Main job & achievement,
+
+
+所以想請教各位產品經理的KPI要怎麼訂與是什麼呢?
+
+
+懇請指教,感謝!
+

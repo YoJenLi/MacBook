@@ -1,0 +1,36 @@
+
+作者murray5566 (睡覺睡到自然醒)看板Tech_Job標題[新聞] Intel 正式放緩 CPU 更新時程時間Wed Mar 23 23:27:18 2016
+Intel 正式放緩 CPU 更新時程
+
+http://chinese.engadget.com/2016/03/23/intel-eliminating-tick-tock-moores-law/
+
+過去十年來，基本上一直維持著一年改進製程、一年改進微架構的著名「Tick Tock」更
+新時程的 Intel，在進入 14nm 時明顯碰壁，不得不在 Haswell 和 Broadwell 之前插入
+一個 Haswell Referesh 來「墊檔」。現在 Intel 顯然已經發現了從 14nm 向 10nm 前
+進的過程中會碰上一樣的難關，因此在一份財務報告中，將傳統的 Tick Tock 改成了
+Process, Architechture, Optimizaion（製程、架構、最佳化）三步驟的新模式。即將
+到來的 Kaby Lake 就是 PAO 當中的「O」，像早前的 Haswell Refresh 一樣，以改進
+Skylake 為主。如此一來，Intel 還是將維持著每年更新一代產品，但不再像之前那麼緊
+湊，有更充裕的時間做開發。
+
+不過另一方面，這也意味著「O」的世代改進幅度將極為有限，當形成慣例後，極可能降
+低該年度消費者換新電腦的意願。但摩爾定律的黃金時代似乎已經到頭，接下來要再縮小
+下去的難度是愈來愈高的，就算是 Intel 也難以維持之前的固定進展。另一邊，
+Samsung 和 TSMC 都在縮小技術上的差距，但 Intel 有信心自己仍然會是第一個進入
+10nm 製程，同時相信這個優勢會因為生產設備與相關技術的高門檻，而愈拉愈開。
+
+
+==============
+Intel做出trigate後 在往下走 看來卡關了?
+
+還是放假消息騙騙大家?
+
+每次想到Intel CPU就覺得很神 用了快10年沒壞 ...
+
+外星科技會卡關 大家信嗎?
+
+Intel如果真的卡關
+
+那GG能否邁入10nm 就是登頂的關鍵惹~
+
+

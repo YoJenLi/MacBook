@@ -1,0 +1,13 @@
+
+作者hellowworld (hello~world)看板Tech_Job標題[請益] 關於D ram 廠目前的device時間Tue May 12 23:41:22 2015
+眾所皆知，d ram 廠的微縮速度比ㄧ搬晶圓
+
+代工廠快，那想請問現在在d ram 廠的RD
+
+devices team ，以後d ram 也會用finfet
+
+device, 或是繼續跟著台積device 10/7
+
+nm 的走向嗎？
+
+

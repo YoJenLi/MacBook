@@ -1,0 +1,19 @@
+
+作者papago79910 (趴趴走)看板Tech_Job標題[請益] Verification與DFT的選擇時間Thu Mar  5 23:47:07 2015
+各位大大們好，
+
+小弟是碩畢新鮮人剛找工作
+
+有幸錄取兩家ic design house
+
+福利與待遇都差不多
+
+但是職位不太一樣
+
+一個是DFT工程師(design for testability)
+
+一個是 verification驗證工程師
+
+想請問各位大大如果只單看職位的話那個未來會比較有發展性呢？
+謝謝！
+

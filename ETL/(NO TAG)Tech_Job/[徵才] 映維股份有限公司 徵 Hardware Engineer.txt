@@ -1,0 +1,16 @@
+
+作者pankk (KK'Pan)看板Tech_Job標題[徵才] 映維股份有限公司 徵 Hardware Engineer時間Thu Jan 22 11:58:25 2015
+公司：映維股份有限公司 LumIO Labs, Inc.
+地點：Taipei (NTUT/國立臺北科技大學)
+職務：Hardware Engineer
+薪資範圍：NT$ 40,000 ~ NT$ 80,000
+公司網址：http://www.lumiolabs.com/
+
+公司本身在做穿戴式裝置健康醫療的產品，
+
+自己是負責公司的mobile apps跟cloud這塊，
+
+會需要跟寫firmware的硬體工程師
+
+去合作開發，歡迎有興趣的朋友可以投履歷。
+

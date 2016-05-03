@@ -1,0 +1,10 @@
+
+作者Ferrara (紅燒冰淇淋)看板Tech_Job標題[請益] 請問這工作內容算打雜嗎時間Sat Sep  5 07:22:16 2015
+1. Embedded Linux Kernel Porting.
+2. IC Bring up.
+3. Embedded Linux Driver porting, development.
+
+如題
+
+感謝大家
+

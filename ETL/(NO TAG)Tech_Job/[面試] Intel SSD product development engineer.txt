@@ -1,0 +1,11 @@
+
+作者chun980426 (小善淳)看板Tech_Job標題[面試] Intel SSD product development engineer時間Tue Apr 12 22:13:20 2016
+各位高年薪前輩們大家好，
+
+小弟有幸有機會面試intel SSD產品工程師的職缺，在此想詢問此份工作的福利與面談時
+會考C++筆試和老外面試時相關的問題，如有前輩對於此份工作有經驗，不方便的話可以
+私訊，向您請教。
+
+PS:小弟有4年數位IC設計3年firmware設計經驗，都在NAND Flash相關領域
+
+

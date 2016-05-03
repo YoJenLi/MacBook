@@ -1,0 +1,30 @@
+
+作者TSMCboy (Semiconductor)站內Tech_Job標題Re: [請益]HTC測試人才面試 時間Sun Oct 14 12:12:38 2012
+※ 引述《samchen0119 (八比諾)》之銘言：
+: 小弟收到HTC面談邀請詢問函招募【測試】人才
+: 職務內容是:
+: 1.KSP or  Key Feature Tests
+: MLHD, Camera, Car Mode, Battery Life,Thermal, System Sound Quality,
+: Wi-Fi and Bluetooth.
+: 2. Competition's test
+: 3. Work closely with Quality Champion for KSP and key feature tests
+: 4. Audit release quality
+: 請問那是哪個部門邀請.............
+: 請問有沒有去過的前輩能分享一下
+: 還有面試的時候有需要考什麼及特別注意的嗎? 謝謝啦
+
+說到這個職缺超好笑的
+之前朋友聚會就有一個清大電機畢業的朋友分享
+他說去年很奇怪接到這個職缺電話
+開頭就問 妳有沒有興趣
+朋友:可以接受試試看
+H: 請問你電子電路很熟嗎?
+朋友: 還OK 但不敢說很熟
+H: 可是我們需要這方面很熟 比如說放大器等等
+朋友: 可是你們不是測試單位嗎? 應該不需要懂很多阿 不就做些表格嗎?
+      還有我之前是在XXIC設計公司工作的 我想電子電路應該很OK
+H: .......我想等會我們會請人資再跟你確認
+
+
+從此就沒聯絡 亂槍打鳥就算了 還要裝作很專業
+

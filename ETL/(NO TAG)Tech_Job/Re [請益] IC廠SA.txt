@@ -1,0 +1,13 @@
+
+作者starshine1 (star)看板Tech_Job標題Re: [請益] IC廠SA時間Fri Oct 10 23:09:51 2014
+小妹RF工程師，工作內容是
+(1)RF layout(placement)
+(2)tune RF matching
+(3)RF Calibration/measurement
+(4)repair bad headsets RF parts
+工作算是很有挑戰性/發展性
+
+如果想往AE/SA發展(畫reference design, RFIC verification,讓自己的技能更全面)
+不曉得技能要不要砍掉重練，還是只能往FAE發展繼續拿悍槍
+不曉得有沒有好心的大大能幫忙解惑，感激不盡~~~
+

@@ -1,0 +1,20 @@
+
+作者saxlan ()看板Tech_Job標題[請益]htc 暑期實習面試時間Wed Jun  3 03:57:35 2015
+大家好，有幸收到htc暑期實習面試通知
+
+職位是Portable Device Electro-Acoustic Design Intern
+
+職務內容是
+1. Develop GUI for electro-acoustic analyzing tool by using Visual Basic and
+Matlab (ex, FR, THD, Rub & Buzz, etc.)
+2. Establish acousto-electrical test case via Audio Precision (ex. audio
+signal via I2S, double talk, frequency response, etc.)
+3. Determine and investigate the non-linearity of a micro-speaker (ex. DC
+offset determination, Compliance and force factor curve vs. nonlinear
+vibration)
+4. Study advanced material as sound reproducer in portable devices
+
+想請教各位有沒有相關資訊會考什麼考題呢?譬如visual basic or Matlab?
+
+真的很希望會上啊! 謝謝各位~
+

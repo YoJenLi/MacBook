@@ -1,0 +1,17 @@
+
+作者djviva (淡定~ 穩中求勝)看板Tech_Job標題[請益] Thermal printer module時間Tue Sep 22 13:59:58 2015
+大家好, 最近配合的老美要做一台手持式裝置, 有點像FedEx送貨時會拿的那款
+
+已經快要量產了但今天卻問我能不能幫他找Thermal printer module的台灣製替代料
+
+現在客戶用的是Fuji的FTP-638MCL103
+https://www1.elfa.se/data1/wwwroot/assets/datasheets/02579027.pdf
+
+花了整個上午至今都沒看到台灣廠商有做這種東西
+
+POS廠幾間問了後都說沒有, 所以才上來打擾一下大家
+
+不曉得有沒有版友的公司就是在做這種產品的呢?
+
+如果知道有哪間台灣公司是在做這款產品的, 還請不吝賜教, thanks!
+

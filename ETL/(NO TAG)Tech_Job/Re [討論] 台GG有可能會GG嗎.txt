@@ -1,0 +1,33 @@
+
+作者ljsnonocat (我家有乳牛貓)看板Tech_Job標題Re: [討論] 台GG有可能會GG嗎???時間Thu Nov 28 09:40:53 2013
+推 dos1019:製程包括dep etch cmp litho...3D列印能做到哪幾道？ 11/28 08:04
+  樓上  跟原Po一樣書也沒讀通喔.....
+
+  半導體製程目前主流是所謂的Top-down
+
+  就是像雕刻一樣是減法  先把一整塊材料dep上去
+
+  才會有用到litho-etch  這些製程  把不要的部分減去
+
+  但是多年以前就有人提出bottom-up的製程想法
+
+  這就像堆塑用加法  直接把材料堆上去  那這樣還需要Etching這道嗎??
+
+  只是這樣製程  要製造目前那麼複雜動輒數億顆電晶體的IC
+
+  似乎還無解  光是要材料能達到self assembly  放在你想放的位置就很困難了
+
+  以前有陣子很流行用AFM原子力顯微鏡/STM掃描穿隧顯微鏡
+
+  然後去把原子一顆一顆搬運排列  例如:可以排個台灣圖案
+  http://www.me.tnu.edu.tw/~me022/lab/quan.files/image032.gif
+
+  這最早好像是IBM發展的技術?
+  http://researcher.ibm.com/researcher/files/us-flinte/stm10.jpg
+
+  不過這樣真的太慢了......
+
+  其實3D列印也不是什麼新東西  好像機械產業以前就有快速成型機
+
+  不過我不是學機械的  這就請機械高手出來講解吧
+

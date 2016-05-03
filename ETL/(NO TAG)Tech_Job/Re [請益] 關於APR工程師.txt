@@ -1,0 +1,22 @@
+
+作者h9602b (電子學)看板Tech_Job標題Re: [請益] 關於APR工程師時間Sat Apr 19 02:36:28 2014
+就讓我這個小小APR來獻醜一下
+一般design hourse，CAD team和APR team是分開的
+CAD主要工作就是處理所有EDA tool相關的事情
+像是licence，撰寫command file，foundry lib的維護之類的
+像開發design flow有些公司是有，但像在我們公司design flow是我們APR每個人
+自己想辦法
+
+APR team的工作，APR三個字分開，automatic placement and route
+這個流程是主要為數位cell based design開發的，所以簡單說APR平常的
+工作是以數位自動佈局為主，由foundry提供的standard cell lib，IP部門提供的
+macro，到整個電路的佈局完成，除了要滿足layout的PV外，也要滿足RD的設計需求
+所以經常須跟RD以及layout部門溝通，由於佈局已經是IC design最後階段
+，常常前面RD把時間吃光光，最後壓力都在APR身上，所以APR部門通常操度比CAD還高
+，屬於那種閒的時候很閒，操的時候很操的部門
+
+至於你說手動layout的觀念有沒有直接關係，乍看之下好像都在弄APR的的TOOL沒啥關係
+但我可以跟你說，layout的觀念很重要，沒有一定程度layout的概念，做APR到後半段
+的PV，DFM的部分一定會很慘，所以我認為有layout經驗的人很適合走APR，重點是你要
+有興趣，其他東西進來在學就好
+

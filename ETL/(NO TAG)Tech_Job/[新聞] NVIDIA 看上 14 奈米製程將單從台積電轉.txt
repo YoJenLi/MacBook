@@ -1,0 +1,20 @@
+
+作者YOHOpig (喲呼豬)看板Tech_Job標題[新聞] NVIDIA 看上 14 奈米製程將單從台積電轉時間Wed Feb  4 16:13:31 2015
+韓媒 Business Korea 3 日報導，Nvidia 轉單三星，可提前一季推出次世代製程晶片。
+Meritz Securities 分析師 Park Yu-ak 表示，今年全球廠商可能會全力降低成本，以抵
+銷應用處理器價格下滑的損失。預料三星系統半導體部門今年第二季會向蘋果、高通、
+Nvidia 出貨。
+
+Tom’s Hardware 3 日報導，Nvidia 並未宣布哪些晶片將採 14 奈米製程，該網站預料
+或許是 Maxwell GPU 或 Denver CPU。
+
+與此同時，三星拓展記憶體業務，3 日宣稱量產業界首見的 ePoP（embedded package
+on package）記憶體晶片組，內含 3GB LPDDR3、DRAM、32GB eMMC（嵌入式多媒體記憶卡
+、embedded multi-media card）和控制器。新晶片組適用於旗艦型智慧機，體型極薄，
+可直接堆疊在行動處理器上，大幅節省空間。
+
+三星新聞稿稱，ePoP 提供一次性封裝的記憶體解決方案，速度更快、能源效益更高、也
+更省空間。ePoP 晶片組和傳統 PoP 相比，可省下 40%空間，能容納更大的電池零件等。
+
+來源:http://technews.tw/2015/02/04/nvidia-samsung/
+

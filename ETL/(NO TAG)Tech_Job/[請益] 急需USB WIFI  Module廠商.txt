@@ -1,0 +1,14 @@
+
+作者rodywin (Double win)看板Tech_Job標題[請益] 急需USB WIFI  Module廠商時間Fri Sep 11 10:51:26 2015
+因為我不成材的妹妹工作上遇到瓶頸，所以請我代po，跪求各位高手的解答
+
+
+（以下為不成材妹妹的請求）
+
+因為公司需求小妹我現在急需要符合下列條件的wifi module，網路資源已被我找到山窮
+水盡，求各位大大幫忙我一下（跪）
+1.   WIFI USB Module
+2.   IEEE 802.11 b/g/n
+3.   1T1R  150Mbps
+4.   Operating Temperature -20뀠~ 60뀊5.   支援win8系統
+

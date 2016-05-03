@@ -1,0 +1,27 @@
+
+作者PPX (問號？)看板Tech_Job標題[情報] AWS技術要領課程 免費報名時間Sat Jul  4 20:57:56 2015
+各位前輩好
+
+在找工作或轉職前來了解一下這雲平台吧~
+
+這次為各位帶來Amazon Web Services(AWS)在台免費的活動
+
+AWS是目前業界最強且最多新創公司使用雲平台
+
+這次很幸運可以請AWS官方講師到台灣來，講解AWS技術要領(中文授課)
+
+該課程為基礎課程，對於要成為PM與RD都適用，我想了解它不是一個壞事
+
+詳情如下，各位朋友若有興趣可以報名
+
+
+
+地點：台大土木研究大樓402室（台北市大安區辛亥路三段188號）
+時間：7月7日(週二) 10:00am~17:00pm
+
+課程詳細如下：
+http://aws.amazon.com/tw/training/course-descriptions/essentials/
+
+報名網站：
+http://www.accupass.com/event/register/1507040942055151943200
+

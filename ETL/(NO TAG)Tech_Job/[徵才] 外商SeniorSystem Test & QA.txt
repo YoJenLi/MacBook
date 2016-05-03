@@ -1,0 +1,32 @@
+
+作者arashi233 (arashi233)看板Tech_Job標題[徵才] 外商Senior/System Test & QA時間Tue Sep  1 23:27:29 2015
+
+【公司名稱】
+ Robert Walters 代外商徵
+官方網站：http://www.robertwalters.com.tw/
+
+【工作職缺】
+Senior/System Test & Quality Assurance Engineer
+Job Summary:
+As part of Global Quality team in R&D organization, responsible for ensuring products design and developed for global market meet quality, performance and system reliability specifications.
+
+【工作內容】
+·Design and develop system test applications in accordance with the functional requirement of the Sys QA test applications, typically under one of the platforms such as Android, Linux system and to simulate End-to-End system environment for test validation.
+·Conduct system validation test using the system test applications developed   and continue fine tune of test applications to maximize the test coverage and approach relevant automated testing
+·Develop test automation through test tools, procedures and checklists that effectively validate the product system quality and reliability goals specified in product requirement document productively.
+. Develop system test plan including functional and interoperability test requirement at all level of system
+·Develop test cases in accordance with Product and system requirement & all perceivable use cases associated with live implementations at all level of the system
+·Guide and mentor partners in development of system test plan, test requirement, test cases & test apps development
+. Provide clear oversight and status reporting of test apps development & test plan and test case execution
+
+【徵求條件】
+·BS degree in Computer Science, Software & Embedded system, Electrical/ Electronics Engineering.
+·Minimum 5~10 years of working experience in design and development of test applications particularly in one of the Android / Linux platforms.
+·Experience in programming or integration system testing involving Android/Linux platform products is preferred.
+·Good knowledge of C, C++.
+·Middle written/read and report generating skills.
+. Good team player and able to work with multiple sites.
+
+【工作地點】台北市信義區
+
+【工作時間】週一

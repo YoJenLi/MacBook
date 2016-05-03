@@ -1,0 +1,22 @@
+
+作者tacoffee (章魚啡)看板Tech_Job標題[請益] 請教技術文件工程師工作內容時間Thu May 21 13:25:47 2015
+在下近日要面試聯電技術文件工程師
+
+該單位主管有先mail以下內容給我參考:
+"負責DSM(Design Support Manual)
+或設計準則(TLR, EDR, Mask Tooling Rule)規劃及撰寫
+並trace schedule,
+確實執行DSM/DFM計畫.
+Strong interaction with PEI/Device/Modeling team for various DSM related
+items.
+Strong interaction with command file teams and IP teams for various DSM
+related items."
+
+我有幾年的製程整合經驗
+但是很少接觸到這些文件
+不知道有沒有前輩先進能幫忙解讀一下
+其中TLR,EDR,DFM我完全不知道是什麼
+也沒聽過file team跟IP team
+也懇請幫忙解釋一下
+謝謝
+

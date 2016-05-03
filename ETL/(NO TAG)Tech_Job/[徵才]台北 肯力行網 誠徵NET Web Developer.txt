@@ -1,0 +1,41 @@
+
+作者sirII (什麼暱稱?)看板Tech_Job標題[徵才]台北 肯力行網 誠徵.NET Web Developer時間Thu Sep  5 14:27:52 2013
+【公司名稱】
+
+ 肯力行網科技有限公司
+
+ 公司網址：
+ http://www.ConneXionONE.com
+
+【工作職缺】
+
+ .NET Web Application Developer
+
+【工作內容】
+
+ 1. Web端網站建置與程式設計
+ 2. 與行動裝置與第三方伺服器做資料介接
+
+【徵求條件】
+ -2+ years web based application development(.net)
+ -Experience with AJAX, XML, XHTML, JavaScript, jQuery and CSS
+ -Experience working with database(MS SQL/Oracle)
+ -Good knowledge of Entity Framwork(having experience with it will be even
+better)
+ -Great knowledge in data structure and algorithms
+ -Working knowledge of OOD including standard libraries and design patterns
+ -Knowledge of common cross-browser issues and fixes
+ -Good troubleshooting and problem solving skills
+ -Proven track record of building applications from the ground up
+
+ 工作經歷：
+ 2年以上
+
+ 身份：
+ 上班族、應屆畢業生、原住民
+
+ 性別, 學歷：
+ 不拘
+
+ 語文條件：
+ 英文 

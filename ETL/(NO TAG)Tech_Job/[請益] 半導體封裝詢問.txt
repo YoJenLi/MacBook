@@ -1,0 +1,18 @@
+
+作者dreamdrink (無趣的生活~*)看板Tech_Job標題[請益] 半導體封裝詢問時間Wed Dec  5 00:27:00 2012
+最近對於半導體封裝有一些問題存在，所以來這請益:
+
+查到的半導體封裝製程步驟:
+
+Die Saw => Die Bomd => Cure => Plasma Cleaning => Wire Bond => Molding =>
+
+Cure => Marking
+
+(1)那請問Bump製程是再哪一道製程中間?
+
+(2)另外，一般常見的IC都是由 Chip 四週做 Wire Bond
+
+   那它的Chip Bump製程是使用在哪?
+
+(3)是只有Flip Chip才會有Chip Bump製程嗎?
+

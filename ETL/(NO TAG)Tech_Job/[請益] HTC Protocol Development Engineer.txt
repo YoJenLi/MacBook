@@ -1,0 +1,14 @@
+
+作者chaioo (魔蠍小刀)看板Tech_Job標題[請益] HTC Protocol Development Engineer時間Tue May 14 22:15:25 2013
+最近接到HTC Protocol Development Engineer部門的面試邀請
+
+請問一下筆試內容除了C/C++會考什麼嗎?
+
+順便問一下工作內容
+
+怕會考一些OS的東西  因為沒學過加上本身是電機/通訊背景
+
+想說會考的話 就想推掉這面試
+
+感謝
+

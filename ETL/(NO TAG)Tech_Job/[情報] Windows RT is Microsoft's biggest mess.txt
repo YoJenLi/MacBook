@@ -1,0 +1,20 @@
+
+作者egnaro123 (原po是大叔)看板Tech_Job標題[情報] Windows RT is Microsoft's biggest mess時間Wed Jan 23 12:44:30 2013
+Windows RT is Microsoft's biggest mess
+
+http://www.neowin.net/news/ediorial-windows-rt-is-microsofts-biggest-mess
+
+不錯的科技文.有一段寫的很生動
+
+Customer: Can I run my Windows apps on this tablet? Like Photoshop?
+
+Salesperson: No, because it's running Windows RT, which is different to
+Windows 8 and can't run standard apps
+
+Customer: But it looks exactly like Windows 8! Why won't the apps run?
+
+Salesperson: It isn't Windows 8 though, and it can't run the apps because it
+runs on different hardware
+
+Customer: Well that's confusing...
+

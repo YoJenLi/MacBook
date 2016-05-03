@@ -1,0 +1,15 @@
+
+作者llull5566 (in the house ininder)看板Tech_Job標題[請益] 學Matlab對未來的幫助？時間Wed Sep 23 10:54:25 2015
+各位前輩好，小弟目前大學部
+
+最近在選專題題目
+
+一個是寫Matlab另一個比較偏嵌入式C
+
+想問Matlab在業界常用嗎
+
+我已經有點基礎，不知道要衝高Matlab能力
+
+還是學新的，謝謝
+
+

@@ -1,0 +1,20 @@
+
+作者takingblue (takingblue)看板Tech_Job標題[徵才] Engineer Intern, HsinChu, Broadcom時間Thu May 23 18:15:03 2013
+
+Responsibility:
+
+The position is to primary involve in IC sim support for wireless
+connectivity chips.  The candidate will work closely with design and DV team.
+
+Working hours: Mon~Fri, at least 20 hours per week and pay by hours. Expect
+               to be long term intern instead of summer intern.
+
+Salary: At least 109/hour, adjusted by experience/education
+
+Prerequisite: 1.Must be student in EE/CS or related field
+              2.Familiar with the scripting, C and Verilog/VHDL
+                language and NC or VCS simulation tool
+
+Contact Information : Please send your resume to nhuang@broadcom.com
+
+

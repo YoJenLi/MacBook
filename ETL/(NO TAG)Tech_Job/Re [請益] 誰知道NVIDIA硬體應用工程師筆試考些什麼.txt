@@ -1,0 +1,31 @@
+
+作者ASKA (壞羊男有點溫柔)看板Tech_Job標題Re: [請益] 誰知道NVIDIA硬體應用工程師筆試考些什麼時間Tue Mar  5 21:48:37 2013
+※ 引述《IgnoreSwing (舫穗)》之銘言：
+: 3). 題目說明: ARM(?) 會自動對齊每個entries 「註」還有幾題都在考ARM記憶體相關
+:     _Packet struct
+:    {
+:       char  a;
+:       int   b;
+:       char  c;
+:       short d;
+:    }
+:     3a. 在記憶體配置情形(下面有個圖應該是要畫圖)
+
+猜的
+0x00  0x01 ... 0x04  0x05 0x06 0x07
+[a ]  [b          ]  [c ] [   d   ]
+
+查了一下，應該是 __packed
+不過這算是 compiler 特有功能才對。
+
+:     3b. 不用_Packet指令要怎麼宣告struct才能節省記憶體配置
+
+改宣告順序
+struct
+{
+ char a;
+ char c;
+ short d;
+ int b;
+}
+

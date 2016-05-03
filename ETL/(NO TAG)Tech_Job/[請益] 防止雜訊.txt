@@ -1,0 +1,27 @@
+
+作者note100 (XD)看板Tech_Job標題[請益] 防止雜訊?時間Thu Dec  3 19:15:27 2015
+最近遇到棘手的案子
+
+但是我非電子電機 不懂資料參數
+
+如圖附件
+
+http://1drv.ms/1N5dZui
+http://1drv.ms/1N5e4OC
+
+連銅都無法遏制住 畢竟到-110 db
+
+那馬口鐵 或是 http://longyoung.com.tw/pr5.html (吸收率>10db)
+
+或是 http://www.quanyi.com.tw/EMI_Gasket.htm
+
+電磁遮蔽率      dB / 500MHz     >62
+
+這種材料呢?
+
+光看參數不知道準不準
+
+不知道OK嗎?
+
+
+

@@ -1,0 +1,49 @@
+
+作者twicm (WhyMe)看板Tech_Job標題Re: [討論] 台灣有在做16bit以上MCU的廠商?時間Sun Jul 19 08:39:40 2015
+以你想做的事情
+如果早 20 年就值得一拚
+
+ARM 指令及相容最著名的莫過於智原
+超過十年以上了
+
+由於指令及相容
+最後整個business 過不了 ARM 那一關
+最後只能當ARM 在台灣的小弟
+
+早期做MCU 混的最好的是 Sunplus, 後面還有一堆
+後來出現作 x86 的金麗
+傳統 MCU 的廠家 design flow 都比較老舊
+有很多現在還在用schematic entry 做design 的
+要慎入
+
+大大小小的 design house 多半都有自己個小 MCU 做各種用途
+而 license ARM/MIPs 的人也是一卡車
+有錢如大M, R 現在都跟著 ARM Road Map 用最新的 core
+
+如果你很想玩那個
+建議直接去ARM 的 design center
+他們在台灣有個 team 做 M series
+可能是 for 穿戴市場
+
+車用方面目前是瑞薩的天下
+有特殊的門檻
+
+以上如有訛誤
+還請版上先進指證
+
+
+
+
+※ 引述《Kovainen (卡瓦寧)》之銘言：
+: 由於將來想走MCU的IC設計
+: 特別是汽車用電子系統的MCU
+: 本身的研究則是在做ARM指令集相容的IP設計
+: 聽說台灣廠商都是以做8bit的MCU為主
+: 有聽過的MCU廠商像是盛群、義隆、新唐
+: 請問台灣有哪一家廠商是有在做16bit以上
+: 甚至是做32bit的MCU?
+: 或者是哪些廠商有向ARM買32bit的IP Core矽智材
+: 像是ARM7
+: 來當做是微控制器的呢?
+: 謝謝
+

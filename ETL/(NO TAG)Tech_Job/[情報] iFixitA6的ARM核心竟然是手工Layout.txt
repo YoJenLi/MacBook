@@ -1,0 +1,36 @@
+
+作者chrispherd (Mr. Darcy)看板Tech_Job標題[情報] iFixit:A6的ARM核心竟然是手工Layout 時間Wed Sep 26 11:18:14 2012
+
+原文在這：http://ppt.cc/rv0u
+      這：http://ppt.cc/uDZ7
+  還有這：http://ppt.cc/8jNp
+
+
+According to iFixIt:
+
+When compared to the rigid, efficient layout of the GPU cores directly below
+it, the layout of the ARM cores looks a little homespun—at first.
+
+- Generally, logic blocks are automagically laid out with the use of advanced
+computer software. However, it looks like the ARM core blocks were laid out
+manually—as in, by hand.
+
+- A manual layout will usually result in faster processing speeds, but it is
+much more expensive and time consuming.
+
+- The manual layout of the ARM processors lends much credence to the rumor
+that Apple designed a custom processor of the same caliber as the all-new
+Cortex-A15, and it just might be the only manual layout in a chip to hit the
+market in several years.
+
+
+_____________________
+
+雖然我對Intrinsity真的採取Full Costum保持懷疑，Manual Layout這個說法也太籠統。
+
+不過感覺得出來阿婆已經開始朝用 ARM 架構授權而自行開發處理器的路發展。現在在A6
+
+這個看到高度客製化的成果，又看到IP5一無可取得超爛發表會，難道阿婆開始要走硬體
+
+路線嗎?
+

@@ -1,0 +1,53 @@
+
+作者Emerson158 (紅豆 X 八嘎 X 烏魯賽)看板Tech_Job標題Fw: [新聞] AMD展示Turbo Dock技術 快速切換運作效時間Mon Feb 25 17:25:14 2013
+※ [本文轉錄自 Gossiping 看板 #1HAnsheZ ]
+
+作者: chaos1001 (ka4) 看板: Gossiping
+標題: [新聞] AMD展示Turbo Dock技術 快速切換運作效
+時間: Mon Feb 25 16:15:36 2013
+
+
+
+AMD展示Turbo Dock技術 快速切換運作效能
+
+‧數位資訊 2013/02/25
+
+
+先前預告將於MWC 2013展期展示針對混合式平板筆電所設計的Turbo Dock技術，AMD也實
+際透過由仁寶電腦代工製作的Temash平板筆電作為示範。
+
+
+
+【聯合新聞網／記者楊又肇／報導】
+先前預告將於MWC 2013展期展示針對混合式平板筆電所設計的Turbo Dock技術，AMD也實
+際透過由仁寶電腦代工製作的Temash平板筆電作為示範。
+
+
+
+AMD在MWC 2013期間依然以搭載四核心架構Temash APU，同時由仁寶電腦代工設計的平板
+電腦裝置作為展示 (與先前由台灣Wistron代工設計版本不同)，現場也實際展示先前所預
+告的Turbo Dock技術，讓搭載AMD解決方案的混合式筆電可以在平板型態下以省電模式運
+作，接上具備鍵盤的Dock莊滯後即可以全速狀態使用，而無須由使用者費心手動進行調整
+。
+
+目前AMD針對搭載Temash之後平台的APU均對應Turbo Dock技術，讓使用者在使用混合式平
+板筆電時也能有高效能表現。目前採用Temash APU將可支援1080P畫質輸出，同時搭配
+Turbo Dock技術約僅有8W-15W左右的耗電量，同時效能將等同於採用競爭對手Intel
+Core i3等級處理器的筆電表現。
+
+至於接下來是否會有配合Dock內建第二張顯示卡以CrossFire顯示架構運作，或許就看AMD
+未來是否會有這樣的規劃產生。
+
+詳細效能表現可以參考Engadget英文主站於現場的動手玩影片：
+
+
+
+
+http://mag.udn.com/mag/digital/storypage.jsp?f_MAIN_ID=320&f_SUB_ID=2942&f_ART_ID=442720
+http://tinyurl.com/b36fdrg
+
+
+
+4.備註:
+
+好像很讚喔,但我完全看不懂O_Q

@@ -1,0 +1,42 @@
+
+作者UncleHS (艋舺金城武)看板Tech_Job標題[徵才] Multicoreware in TW 徵Compiler工程師時間Tue Jun  2 12:57:18 2015
+MulticoreWare is hiring (again) in Taiwan now:
+
+[公司介紹]
+Founded in 2009, MulticoreWare has grown rapidly and
+today has one of the largest high performance computing
+teams worldwide. MulticoreWare has over 200 engineers
+globally with offices in the USA, China, India, and
+Taiwan. Our customers include global technology companies.
+Our technologies and services have enabled well-known
+applications and global events. Our Mission is to empower
+our customers to leverage advanced, high performing
+computing capabilities so as to deliver enhanced value everywhere.
+
+[公司官網]
+http://www.multicorewareinc.com/
+
+Job description: Compiler engineer
+- Qualification: BS/MS/PhD in CS/CE/CSIE
+- Fluent in C++
+- Comfortable working on a large code base under Linux/OS X
+- Strong background in computer architecture (must) and compilers (a plus)
+- Comfortable with software dev tools such as gdb/lldb, git, mercurial hg, valgrind
+- Experience with LLVM and/or other compiler infrastructures is a plus
+- Experience with CUDA/OpenCL is a plus
+- Experience with Windows programming is a plus
+
+[工作地點]
+Work from home
+
+[薪水]
+這薪水是在台灣工作的薪水喔
+年薪30k USD ~ 80k USD 視經驗及能力而定
+
+[Bonus]
+視能力與績效可H1B轉美國正職
+
+[聯絡方式]
+有意願者請email CV至 ray@multicorewareinc.com
+請註明是在Ptt看到的
+

@@ -1,0 +1,24 @@
+
+作者physoar07 (骨折)看板Tech_Job標題[徵才]iOS App Developer 月薪10萬時間Sun Jul 26 20:11:38 2015
+公司名稱 CANDY HOUSE
+公司地址 645 High St., Palo Alto, CA 94301
+         www.candyhouse.co
+職缺     iOS App Developer, full time
+薪資     10萬台幣月薪 + 美國公司股份RSU
+工作地點 台北市敦化南路
+
+工作要求 1. Bluetooth 4.0+ encryption & connection
+         2. Server connection via XMPP and MQTT
+         3. 操作 Adobe illustrator 的基本技能
+         4. 英文好(需要不斷學習新知與跟team 溝通)
+         5. 一年以上的相關工作經驗 或 有app作品在架上
+         6. [非必要]如果也會Android App 的開發更好
+
+其他說明
+         沒有 每天一定要來台北辦公室的要求, 只希望把事情做好
+         但 會出差加州跟韓國(頻率大概兩個月一次)
+         相關工作經驗只有要求一年以上, 請踴躍跟我們聯絡
+         常有海外旅遊
+
+聯絡方式 jerming@candyhouse.co 古先生
+

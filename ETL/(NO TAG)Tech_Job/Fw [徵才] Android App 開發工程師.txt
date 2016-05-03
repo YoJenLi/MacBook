@@ -1,0 +1,37 @@
+
+作者sean72 (.)看板Tech_Job標題Fw: [徵才] Android App 開發工程師  時間Thu Jun  4 14:17:52 2015
+※ [本文轉錄自 Soft_Job 看板 #1LR-rKBL ]
+
+作者: sean72 (.) 看板: Soft_Job
+標題: [徵才] Android App 開發工程師  
+時間: Thu Jun  4 14:16:47 2015
+
+公司: 微碧愛普科技 http://www.weibyapps.com/
+
+職務分類: 行動應用程式設計師
+
+工作地點: 台中市北屯區
+
+薪資範圍: NT$ 35,000 - NT$ 50,000
+
+履歷投遞: https://goo.gl/c7Fz3B
+
+工作內容
+維護及開發目前的 Android 版點餐 App 提供系統架構設計建議
+
+需求技能
+-二年以上工作經驗
+-熟悉 Android 開發相關技術
+-具備獨立完成 Android App 的能力
+-熟悉 AWS 各項服務 (S3, SNS, SimpleDB)
+-熟悉 Source Control 系統，如: GitHub, BitBucket, SVN
+-熟悉 SQL 語言
+-了解 NoSQL Database 使用及特性
+
+其它
+-對於新創公司有基本的認知與心理準備
+-需要直接面對使用客戶 (客戶服務或田野調查)
+-可以遠距上班，但每天均須溝通工作內容 (視訊或當面)
+-你可以在這裡 (https://weichengchu.wordpress.com/尋人啟事/)
+了解更多相關的基本需求。
+

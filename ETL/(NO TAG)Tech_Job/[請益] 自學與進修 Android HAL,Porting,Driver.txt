@@ -1,0 +1,25 @@
+
+作者smartcsie (magic)看板Tech_Job標題[請益] 自學與進修 Android HAL,Porting,Driver時間Fri Jan 30 15:01:40 2015
+
+
+大家好
+請教 Android BSP,Driver,Porting方面的人
+洨魯現在想把自己的Android Know How擴大
+背景業界碰過Android Application,Framework,CTS
+現在想往下層學
+
+完全沒有Driver概念
+之後會先自己看一些基本的東西
+再到外面去上課
+主要目的是為了以後換公司準備
+我相信沒辦法到業界那麼強,畢竟沒有實務
+但至少到一定程度
+
+目前計畫藍圖是
+(1)自學一點Linux,含撰寫簡單的Driver
+(2)外面上課
+(3)開始Trace Android Driver相關的Code (挑幾個部分,如Bluebooth)
+
+這樣的想法有沒有需要修改?
+另外,linux driver用書,Linux 驅動程式 (Linux Device Drivers, 3/e)可以嗎?
+

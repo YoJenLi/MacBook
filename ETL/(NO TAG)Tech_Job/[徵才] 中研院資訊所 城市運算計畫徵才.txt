@@ -1,0 +1,36 @@
+
+作者LPC (慶)看板Tech_Job標題[徵才] 中研院資訊所 城市運算計畫徵才時間Thu Mar  5 15:29:15 2015
+刊登期間：      2015-01-27 – 2015-12-31
+
+職　　稱：      博士後研究及碩士級研究助理(研發替代役可)
+
+工作內容：      Data analytics in city profiling project
+
+應徵資格/條件：
+
+1. Having Ph.D. or Master degree in Computer Science,
+
+Statistics, or related fields
+
+2. Fluent in Python, SQL, and R/SAS. (Familiar with other languages, such as
+
+JAVA, C, C++, is a plus.)
+
+3. Having experiences in data analytics and applications is preferred.
+
+4. Having background in machine learning, NLP, information security, etc. is
+
+favored.
+
+5. 替代役亦可.
+
+工作待遇：      比照科技部或中研院標準  博士後研究員56650起 碩士36050起
+
+應徵方式：      履歷表並內附程式開發作品集，EMAIL至聯絡人信箱
+
+黃小姐 kathyh@iis.sinica.edu.tw 02-27883799#1379
+
+參考網站：
+
+http://ants.iis.sinica.edu.tw
+

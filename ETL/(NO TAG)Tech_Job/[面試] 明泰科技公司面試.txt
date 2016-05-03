@@ -1,0 +1,25 @@
+
+作者godhands (努力不見得有成果)看板Tech_Job標題[面試] 明泰科技公司面試時間Wed Jul 11 00:11:14 2012
+各位大家好~
+有收到明泰科技公司的面試邀請
+
+職缺為 : 數位多媒體(資深)軟韌體研發工程師
+
+職務說明：
+1. Linux kernel, driver & application programming.
+2. Android driver, application programming.
+3. Flash, java script, html, rss & php programming.
+4. Multimedia streaming protocol, UPnP, RTSP, MCST development.
+5. Software module and middleware stack development.
+6. iOS driver & application programming.
+
+有爬文過了 , 但提供的訊息沒有很多
+想請問大家
+
+(1) 面試時 , 會考那些呢 ?
+(2) 是否有完整的教育訓練呢?
+(3) 內部工作氣氛如何?
+
+請各位如果知道的話 , 請解答.
+謝謝
+

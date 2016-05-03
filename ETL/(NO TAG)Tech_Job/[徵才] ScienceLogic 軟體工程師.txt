@@ -1,0 +1,173 @@
+
+作者GeorgeToad (博班加油啦)看板Tech_Job標題[徵才] ScienceLogic 軟體工程師時間Sat Sep  5 11:59:49 2015
+
+ [徵才] ScienceLogic 工程師 (120k/月)
+
+【公司名稱】ScienceLogic, Inc.
+【公司網址】www.sciencelogic.com
+【工作職缺】Technical Support Engineer / Professional Services Engineer
+【徵求條件】
+
+Technical Support Engineer
+1.  Strong English
+2.  A bachelor degree in computer science/engineering or equivalent work
+    experience
+3.  Strong support, deployment and/or administration experience for
+    enterprise software solutions
+4.  System administration/support experience in Windows and Unix environments
+    with an emphasis on Linux
+5.  Configuration and troubleshooting SNMP based Network/Systems Management
+    platforms
+6.  MySQL Database knowledge is recommended
+7.  Knowledge of scripting, PHP and/or Python is a plus
+8.  Solid understanding of TCP/IP networking
+9.  Handling customer cases via phone and email systems; on-site experience a
+    plus
+
+Professional Services Engineer
+1.  Strong English
+
+2.  A bachelor degree in computer science/engineering or equivalent work
+    experience
+
+3.  Proven experience with implementation of enterprise level network
+    management or security products or similar projects
+
+4.  Thorough understanding of IT infrastructure, application, and enterprise
+    infrastructure best practices
+
+5.  Excellent written and verbal communication skills
+
+6.  5+ years experience supporting/using enterprise class infrastructure
+    monitoring platforms
+
+7.  5+ years Linux operating system experience
+
+8.  3+ years MySQL Database experience
+
+9.  3+ years of experience with Cisco network equipment to include solid
+    understanding of L2 and L3 layers
+
+10. 3+ years of experience with SNMP and vendor MIB architecture and how to
+    query for status
+
+11. 3+ years of experience configuring SNMP trap alerts based on requirements
+
+12. Strong knowledge of WMI, XML, SOAP, PHP and/or Python
+
+13. Proficient in Linux scripting
+
+14. Have exceptional troubleshooting and customer-handling skills
+
+15. Be a self-starter
+
+【工作地點】
+Technical Support Engineer: 上手以前在內湖, 上手以後在你家
+Professional Services Engineer: 上手以前在內湖, 上手以後在你家
+
+【工作時間】
+Technical Support Engineer
+兩種, 都是上四天休息三天
+1.  週日至週三 早上 8 點至下午 7 點，含午休12點至1點1小時
+2.  週三至週六 早上 8 點至下午 7 點，含午休12點至1點1小時
+
+Professional Services Engineer
+周一至周五 早上9點至下午6點半，含午休12點至1點半1.5小時
+
+【工作內容】
+Technical Support Engineer
+1.  Provide technical support to ScienceLogic customers by answering
+    telephone calls and replying to emails in line with departmental measures,
+    with a focus on high quality, accuracy and customer satisfaction
+
+2.  Document and record all activity and communication with customers over
+    telephone and email according to departmental standards of quality
+
+3.  Record all activity in the department’s ticketing system, updating cases
+    at least every 3 days in order that progress can be tracked with each
+    customer's incident, viewed via the customer portal.
+
+4.  Meet or exceed departmental goals for Case Management, Phone and Email
+    response times, and Customer Satisfaction scores
+
+5.  Review cases for technical complexity and make recommendations to team
+    members with regards escalation according to departmental Best Practice
+
+6.  Use and create knowledgebase articles based on new product information,
+    support incidents, and/or common or critical issues
+
+7.  Adhere to ScienceLogic Support Services best practices
+
+8.  Participate in departmental projects
+
+9.  Actively participate in team and departmental meetings by providing
+    feedback on current day to day activity and recommendations for improvement
+
+10. Perform hands-on installation, configuration, and troubleshooting of
+    ScienceLogic appliances as they relate to the ScienceLogic suite of
+    products
+11. Expect approximately 20-40% travel for on-site work with customers and
+    partners
+
+Professional Services Engineer
+1.  Perform hands-on installation, configuration, and troubleshooting of
+    ScienceLogic appliances as they relate to the ScienceLogic suite of
+    products.
+2.  Act as the internal customer advocate for problem resolution, new product
+    features, and future product direction
+
+3.  Flexible and willing to learn new technologies and applications
+
+4.  Record all activity in the department’s ticketing system
+
+5.  Use and create knowledgebase articles based on new product information,
+    field incidents, and/or common or critical issues
+
+6.  Adhere to ScienceLogic Professional Services best practices
+
+7.  Participate in departmental projects
+
+8.  Self-motivated and able to work independently on multiple
+    engagements/projects
+
+9.  Ability to maintain a positive and cooperative attitude in sometimes
+    stressful situations
+
+10. Strong project management skills with the ability to prioritize competing
+    project timelines
+
+11. Creative person who looks for new and innovative ways to resolve problems
+
+12. Effective team player willing to assist others when needed
+
+13. Expect over 70% travel for on-site work with customers and partners
+
+【公司福利】
+Technical Support Engineer
+1.  台灣國定假日, 國定假日坐落在周休則轉成特休
+2.  周休四五六 或是 日一二 (看是上哪一班)
+3.  特休十天
+
+Professional Services Engineer
+1.  台灣國定假日, 國定假日坐落在周休則轉成特休
+2.  周休六日
+3.  特休十天
+
+【薪資範圍】
+Technical Support Engineer
+年薪 4 萬美金
+
+Professional Services Engineer
+年薪 4.8 萬美金
+
+【需求人數】
+Technical Support Engineer 2人
+Professional Services Engineer 1人
+
+【聯絡人/連絡方式】
+請將英語履歷寄到 Henry Hsiao <hhsiao@sciencelogic.com>
+
+【其他備註】
+外商公司不會怕給薪水, 只要表現良好調薪是一定會的.  因為95% 的客戶都只會說英文
+, 所以英文溝通能力必須要非常流暢.
+

@@ -1,0 +1,31 @@
+
+作者smartcsie (magic)看板Tech_Job標題[請益] MTK面試請益時間Wed Jun  3 14:27:07 2015
+
+下週要面試
+嵌入式Linux軟體工程師  WSD/OSS1
+職缺要求
+1. 熟悉嵌入式 Linux 軟體開發
+2. 熟悉 ARM 架構及 RTOS
+3. 熟悉 C programming
+4. 具 Linux device driver 及 kernel 相關經驗
+5. 具 Android Framework 相關經驗尤佳
+
+好像是寫Driver的
+一整個就覺得我背景不太像
+我是 Android AP和Android Framework的
+有沒有甚麼要準備?
+
+p.s.今年我去大M收到好多感謝卡
+希望別再收惹
+2015/01/23
+WCD/CD1 Android 資深軟體工程師[SW4214061802]
+
+2015/03/27
+WSD/OSS9 Android 多媒體軟體工程師[SW4213052101]
+
+2015/03/30
+WSD/OSS10/SS7 Android 系統開發工程師[SW4214102101]
+
+2015/05/26
+WSD/ACF Android telephony application framework software engineer[SW4214101701]
+

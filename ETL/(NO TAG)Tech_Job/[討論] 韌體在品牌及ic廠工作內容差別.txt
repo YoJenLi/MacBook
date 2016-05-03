@@ -1,0 +1,25 @@
+
+作者eguyo (一估一估優)看板Tech_Job標題[討論] 韌體在品牌及ic廠工作內容差別時間Fri Aug  8 18:14:33 2014
+研究所所學僅僅兩年的linux device porting
+論文撰寫過Android Sensor HAL module code
+雖說大部分實作但就在porting及debug
+依我了解做的完全是系統廠的動作
+
+
+因為研替有面試過許多品牌系統廠及IC廠fw缺的經驗,但還是分不太出兩者之間的差別
+
+
+系統廠fw：
+做board bring up、改register、debug，研究所做兩年了，坦白說有點無趣
+除了某些大廠有說會自己開發driver，不過我覺得只是架構相同的大改而已
+
+IC廠：
+fw可能就比較有料一點，要自己寫ic driver，不過問主管也說絕大部分都有個架構作小修改而已，非常小的機會是driver從頭開始寫
+
+在我認知裡系統廠與IC廠的fw作的內容其實差沒很多，不過這是我的猜測拉
+因為看到有人說到vendor跳系統廠比較好跳，系統廠跳vendor只能做AE
+
+不清楚是hw才有這明顯區別還是fw/sw也是如此呢?
+
+討論看看囉
+

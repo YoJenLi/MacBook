@@ -1,0 +1,49 @@
+
+作者jonesking (瓊斯王)看板Tech_Job標題Fw: [徵才] Alorth 誠徵 Backend PhP 工程師時間Sat Dec 12 09:25:36 2015
+※ [本文轉錄自 Soft_Job 看板 #1MQtDivw ]
+
+作者: jonesking (瓊斯王) 看板: Soft_Job
+標題: [徵才] Alorth 誠徵 Backend PhP 工程師
+時間: Sat Dec 12 09:07:42 2015
+
+【公司名稱】 Alorth , Inc .             http://www.alorth.com/
+
+產品介紹:https://www.youtube.com/watch?v=5Paupn_yzgY
+
+產品Demo:https://m.youtube.com/watch?v=lMVyRzNK1P4
+
+
+【工作職缺】Backend工程師 3年以上經驗
+
+1.熟悉PHP ，My SQL
+
+2.熟悉AWS : EC2，S3，Cloudfront
+
+3.碰過Streaming engine (Wowza)
+
+
+【加分條件】
+
+ 1.碰過金流( Stripe )
+
+ 2.開發過彈幕Server端，或使用過以下套件
+   https://github.com/jabbany/CommentCoreLibrary
+https://github.com/socketio/socket.io-client
+
+ 薪資: TWD90,000up
+
+【公司簡介】
+
+Alorth 是手機電子商務的Startup，目前產品準備上線(送審中)
+
+產品是手機透過影片銷售產品，因應上線後維護與預計新增功能，懇請高手加盟
+
+
+【工作地點】 台北市大安區瑞安街256巷16號
+             (可在家遠端辦公)
+
+【連絡方式】 請將您的履歷和作品連結 email 至 : jones@alorth.com
+
+
+    【福利】 會跟網路紅人與Model合作，有機會認識新朋友
+

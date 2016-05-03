@@ -1,0 +1,14 @@
+
+作者lexical (萊斯康電腦辭典)看板Tech_Job標題[徵才] 熟 Bluetooth 和 Linux 的人時間Mon Aug  3 22:43:42 2015
+
+【公司名稱】 Canonical (Ubuntu 的母公司)
+【職務名稱】 未定/可能是 software engineer
+【工作內容】 手機和PC上的bluetooth除錯。主要是 bluez
+             和相關的 profile （如 obex）。
+
+【徵求條件】 熟 bluetooth(必需) 及 bluez(加分) 和 wifi(加分)
+【工作地點】 台北101 46F
+【薪資範圍】 年新 100 萬以上開始談。
+【應徵方式】 resume 寄到 kengyu@ubuntu.com
+
+

@@ -1,0 +1,36 @@
+
+作者zack30106opz (超級酷炫)看板Tech_Job標題[請益] 台積電IT 研替 BSID時間Sat Dec 14 13:01:38 2013
+昨天去GG座談會@竹科, IT共1x人, 對內部情況有了多一點認識
+
+IT分成3大Division
+1.ICSD(Infrastructure Communication Service)
+2.BSID(Business System Integration)
+3.TSID(Technical System Integration) 其中一子部門EMITD(Engineering Mfg IT)
+
+其中好像TSID偏產線自動化, ICSD我聽到有聊天內容是關於網路等設施維修維護
+跟fab相關程度(輪班?): 3>1>2, 據說BSID相對壓力較小, 很少需要on call
+
+BSID分成2大類別, 共5個team, 主要在2廠
+e-commerce=> customer, vendor
+e-business=> supply chain, sales, 機動組
+
+當天來的人數ICSD最多, TSID次之, 主管說BSID目前只有我一個@"@
+大概BSID需求比較小吧? 不過好奇大家面試被問志願序時會比較不考慮BSID嗎?
+結果午飯時間變成ICSD, TSID主管和他們聊天, BSID的大部分時間只和我聊
+//是說部門成員滿喜歡游泳的, 一周會有2,3天中午去游, 午餐時間彈性
+//對了我滿喜歡游泳的, 更喜歡打網球XD
+
+之後的星巴克下午茶聊天也是一對多, 一對多, 一對一orz這樣
+這時的BSID主管就是當時的面試官了
+因為面試時就提過網球, 一開始就聊網球的事:P
+他說禮拜五中午會在公司網球社教球
+也常隨公司球隊出征, 據說大概一個月就有一次
+
+其實找研替方面算是心有所屬了,
+這次去座談會也是想多了解一下(還有吃免費便當A_A)
+兩個BSID主管人感覺都很親和好溝通, 面試官那位說目前BSID只有找我時有點shock
+游泳還有網球阿阿阿阿阿
+
+有沒有板友願意分享在GG IT BSID的一些經驗呢? 內部氣氛如何?
+Thx
+

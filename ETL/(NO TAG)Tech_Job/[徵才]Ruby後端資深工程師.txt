@@ -1,0 +1,26 @@
+
+作者KatherineSU (Katherine)看板Tech_Job標題[徵才]Ruby後端資深工程師時間Wed Oct 29 19:37:37 2014
+[待遇] 台幣200,000- 260,000 / 月 (最多三個月獎金)
+
+
+[需求人數]1人
+
+
+[詳細描述]
+
+https://www.dropbox.com/s/258vtohdo1j7ylj/JobDescriptionSeniorSoftwareDeveloperforChengbaoRuby.docx?dl=0
+
+
+
+
+[徵求條件]
+1. 熟悉 Ruby on Rails 和 RSpec
+2. 熟悉MongoDB, Redis, Javascript, deep MySQL, Chef/Puppet/Ansible 為佳。
+3. 具備英文溝通能力。
+
+
+[工作地點]香港
+
+
+[聯絡方式]  recruiting@aonlabs.com  (來信請附上英文履歷、作品等)
+

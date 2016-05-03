@@ -1,0 +1,56 @@
+
+作者rawpacket (rawpacket)看板Tech_Job標題Re: [請益] 四十歲還在做工程師的嗎?時間Tue Feb 15 02:15:05 2011
+※ 引述《ryanliu7 (Ryan)》之銘言：
+: 相當中肯的一篇分析, jccko.
+: 我自己對軟體界不能說非常的熟,但因為看透台灣的軟體界. 我選擇儘早離開.
+: 我在Microsoft待過, 在Motorola待過, 在台灣一家國際知名軟體公司待過.
+: 先說明國外公司應徵流程.(簡略板)
+
+隨便寫寫, 只要和軟體有關的應該都算.
+
+為什麼要在四十歲之前要升主管職?
+
+因為三十五歲時你己經具備所有在台灣需要的 RD 技能
+
+台灣有研發嗎?
+嚴格說來, 台灣比較像是系統整合, 系統整合顧名思義,
+就是整別人己經弄好的東西.
+
+像是現在搞 SoC 的, CPU/BUS/L2/DMA 向 ARM 買.
+USB 3/SATA 6.0G 向 Synopsys, GPU 向 PowerVR
+ASIC designer 大概就像 tester(不是 ggg12345)
+專門驗 block .
+
+有沒有自己研發的東西? 很少了.
+
+系統廠也是, BSP 拿來整 OpenWRT 大概就可以上一半的系統了.
+其他的從別的 project 拿過來改一改, 頂多 endian 不一樣 patch 一下.
+
+這需要很高深的技術嗎? 應該不用.
+
+Web Base 的市場太小, 要 tune performance 就是加人加機器
+像 Facebook 重新改寫 SLAB(SLUB?) 層的需求是 0.
+還研究什麼 Loading pipeline,
+你這麼努力研究了 Performance tuning, 結果不如換新機器.
+
+到是 QA 要做好一點, 確保不一樣的系統都能 pass QA.
+這樣就算大功告成了.
+
+你改良了 subversion 到 git 會不會比較好? 不會
+你改良了演算法有工作嗎? 沒有.
+你精通 OS, compiler, 有什麼工作嗎? Andes, 也只有一家 SUN+ 早就放棄自己做了.
+
+換個方向好了,
+台灣有人自己刻商用 OS 嗎? 有這個需求嗎?
+台灣有人自己刻 CPU 嗎(買 ARM/MIPS 自己刻也算)?
+兩灣兩大本土軟體商, PowerDVD(sorry)/Trend, 軟體有路可以走嗎?
+
+多少指揮軟體做事情的是 hardware/sales 出身的老闆.
+當你講出 network 之前, 就可以下指令叫你搞出 IPv6 infrastructure ,
+或是寫個 TCP/IP stack, 在你發完最後一個音之前, 還可以補一句
+"不要騙我這個很難, 應該最多一星期就可以 demo"
+
+軟體產值強嗎(不要騙我了, software 很重要, 不過營收是零)
+
+認清現實吧, 這是台灣, 不是米國, 不要有錯誤的期待了.
+

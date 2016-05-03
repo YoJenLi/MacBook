@@ -1,0 +1,14 @@
+
+作者egnaro123 (原po是大叔)看板Tech_Job標題Re: [新聞] 電子業瘦身風 吹向IC設計時間Fri Nov  9 21:54:48 2012
+SIS算是台灣IC的濫觴與悲傷,有些是聽說的和個人心得,看看就好
+
+SIS在這場game中,
+
+做了 486/586/686 chipset, 網卡IC,
+
+網卡 gigabit PHY(這個我認為,開案開的莫名奇妙)
+
+WLAN MAC/BB
+
+graphics card (6326,315,xabre)
+

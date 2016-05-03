@@ -1,0 +1,55 @@
+
+作者llyre (r^^||)看板Tech_Job標題Fw: [台北] 台北360徵Linux/Android安全研究員時間Fri Jul 17 01:49:23 2015
+※ [本文轉錄自 job 看板 #1LfoyFs- ]
+
+作者: llyre (r^^||) 看板: job
+標題: [台北] 台北360徵Linux/Android安全研究員
+時間: Thu Jul 16 12:11:57 2015
+
+
+
+job版禁止張貼違反「就業服務法」、「性別平等工作法」、「勞基法」與其他法律之文章
+發文者已同意一切遵循現行法律，並確知文責自負。本工作確實勞健保!
+
+【公司名稱】
+台灣奇虎 360
+
+【工作職缺】
+Linux/Android安全研究員
+
+【工作內容】
+1. 研究Linux Kernel/AOSP Vulnerabilities, 開發Exploits
+2. 開發static analysis tools, fuzzers
+3. 撰寫技術文件,投稿安全會議(e.g., BlackHat)
+
+【徵求條件】
+1. 三年以上Linux Kernel開發經驗
+2. 熟悉Linux Kernel任何一個以上的模塊(e.g., mm, net, drivers)
+3. 對基本安全知識有一定了解(e.g., stack overflow, heap overflow)
+4. 有開發Root Exploits經驗者優先
+5. 熟悉Android Framework者尤佳
+
+【工作地點】
+台北市信義區
+
+【工作時間】
+1000~1900
+
+【月休】
+週休二日 國定假日
+
+【公司福利】
+生日禮金
+
+【薪資範圍】
+80k ~ 120k
+
+【需求人數】
+2
+
+【聯絡人/連絡方式】
+張小姐 <zhangshuting@360.cn>
+
+【其他備註】
+無
+

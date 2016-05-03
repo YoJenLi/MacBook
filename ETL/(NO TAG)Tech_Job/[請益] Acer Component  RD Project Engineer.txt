@@ -1,0 +1,18 @@
+
+作者qoo77613 (BIman)看板Tech_Job標題[請益] Acer Component  RD Project Engineer時間Fri Oct 17 09:16:36 2014
+最近收到此職缺的面試邀約信，
+
+工作內容如下:
+- Define the spec for Storage components (SSD, eMMC, HDD),
+  and perform the component-level qualification & system integration verification
+- Ensure no quality issue
+- Will work closely with Procurement, Platform RD, and PM team
+- Deliver professional assessments for component architecture & firmware design
+- Develop advanced technologies for leading performance in industry
+- Deliver innovation ideas & file the patents
+
+有先爬了一些文，還是不太了解...
+因為是公司主動邀約，且家住南部，不知道是否值得跑一趟北部去?
+
+麻煩版上鄉民能分享相關經驗或給予建議。  謝謝
+

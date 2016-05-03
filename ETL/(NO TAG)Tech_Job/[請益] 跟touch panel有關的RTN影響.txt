@@ -1,0 +1,15 @@
+
+作者ccwl (ccwl)看板Tech_Job標題[請益] 跟touch panel有關的RTN引響時間Sun Nov 25 09:44:45 2012
+
+   我已經google過了
+
+   這兩者的關係好像還找不到
+
+   不知道板上有沒有這方面的神人
+
+   我想了解一下touch panel跟RTN (random telegraph noise)現象的關係
+
+   希望可以得到解答 >""<　
+
+　 謝謝　~~
+

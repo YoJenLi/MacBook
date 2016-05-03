@@ -1,0 +1,25 @@
+
+作者yobook (@@)看板Tech_Job標題[請益] 該選哪一種kit?時間Wed Dec 17 22:01:40 2014
+想問一下
+
+市面上一堆開發板
+
+Arduino
+
+raspberry pi
+
+TI ARM Cortex-M
+
+MSP430....
+
+不過書上都是LED 不然就是蜂鳴器 Hello World!
+
+該學哪一種 比較符合業界需求?
+
+不過TI 似乎有特有的lib寫法
+
+可以用軟體語法 謝code 不用C語言 一個一個寫!
+
+TI以前還有sample 要
+
+現在可能是TI獲利不佳?

@@ -1,0 +1,36 @@
+
+作者jpw (...)看板Tech_Job標題[徵才] 美商徵CMOS Memory Design Engineer時間Fri Mar 20 22:31:24 2015
+
+【工作職缺】台北美商Design House Memory Design Engineer
+【工作時間】每日8小時 時間彈性 周休二日
+【工作內容】
+
+1. Layout design
+2. Design and verify low power and area efficient embedded memory circuits
+3. Schematic entry, simulation of major blocks, layout supervision and
+interface with CAD engineers for EDA model generation
+4. Develop memory architectures and circuit implementation of CMOS memory
+blocks
+
+【工作條件】
+
+1. Solid experience of design embedded memories for Soc applications
+2. Proficient with CMOS memory design and circuit simulation
+3. Good at pitch-match memory layout designs
+4. Hands-on embedded memory design flow
+5. Proficient with pitch-matched memory layout designs and layout supervision
+
+【薪資】
+Depends on working experience, on top of NTD 2 million per annual
+
+【需求人數】
+1 person
+
+【工作地點】
+Taipei
+
+【申請方式】
+Please send your resume to
+judy.yu@robertwalters.com.tw
+
+

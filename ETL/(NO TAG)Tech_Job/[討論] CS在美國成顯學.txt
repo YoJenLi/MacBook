@@ -1,0 +1,45 @@
+
+作者xiemark (aisinjuro)看板Tech_Job標題[討論] CS在美國成顯學時間Fri May 22 15:30:57 2015
+
+
+強者我學長在美國的分析:
+If you kids want to major in Computer Science in US Universities, how
+much computer knowledge in high school will be needed. Here is my
+humble suggestions:
+(1) Basic Office tools: Word, Excel, Powepoint (Grade 3-6)
+(or equivalent)
+(2) Digital Graphics and Digital Image Design (Grade 6-12)
+Inkscape (Adobe Illustrator equivalent but free open source)
+Adobe Photoshop (For digital photography and digital image
+processing)
+(3) Web Design (grade 6-10)
+HTML5
+CSS3 (After digital Graphics)
+JavaScript (Basic, after Algebra 1)
+(4) Programming Language and Introduction to Computer Science:
+Python Language (Grade 8-12, after algebra 1)
+(First Programming language)
+Introduction to Computer Technology, Python Language Rules,
+Object-oriented Programming
+Advanced JavaScript (After Algebra 1, Maybe After Python 1)
+GUI, DOM, HTTP (network programming)
+Java Langauge (AP Computer Science A, Grade 11 suggested,
+after python 1, after Algebra 2)
+Introduction to Computer Science, Java Language,
+Object-Oriented Programming, Basic Algorithm (Searching,
+Sorting, Recursion)
+Advanced Java (AP Computer Science AB, Grade 12 Suggested,
+after python 1, Java 1, after algebra 3, some Discrete
+Math understanding)
+GUI, Data Structures, and Algorithm Analysis
+(5) AP Computer Science A preparation (May, Junior year suggested)
+(6) SAT II Math 2, and at least 1 SAT II in Science
+Right now, admission to good Computer Science Department is very very
+hard. Here is my humble suggestions for how to get your kid prepared
+early enough in the K-12 school years.
+
+現在美國的Computer Science 當紅. 有人剛大學畢業, 年薪十三萬. 在灣區, 只
+要男生, 都想Major in Computer Science. GPA 4.0/SAT 2370 可能都會被USC,
+UCLAReject. 中國有一百萬大軍在美國念大學
+
+

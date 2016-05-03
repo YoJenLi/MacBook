@@ -1,0 +1,16 @@
+
+作者Karennano (現在怎麼了？)看板Tech_Job標題[請益] 一個應徵的問題，是謎語=.=時間Wed Aug  7 17:40:22 2013
+Instructions:
+Below you will find a riddle. Once you solved it, locate the cell it's
+pointing to and read it's content.
+
+Row Hint:
+
+esacreppusirEbmunworeht.llewyreV?detacoLsinoitseuqtercEsehterehWrevocsidoTsuoiruc
+
+Column Hint:
+Subtract the row number you obtained from 15 and convert it to its
+corresponding letter
+
+我實在google不到，所以請教版上神人的協助，謝謝。
+

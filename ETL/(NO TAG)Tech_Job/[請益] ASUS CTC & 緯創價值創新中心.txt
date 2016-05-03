@@ -1,0 +1,12 @@
+
+作者mimi0213 (提拉米蘇好好吃喔)站內Tech_Job標題[請益] ASUS CTC & 緯創價值創新中心時間Sat Jun 16 20:57:47 2012
+想請問板上有沒有人對這兩個研發中心有熟悉的，可以提供一下小弟想法。
+
+小弟目前Phd在學中，專長是Linux kernel & driver，特別是 cpu architecture，
+
+virtual memory/TLB/cache aliasing/SMP，and kernel booting process。
+
+想要找可以深入研究的環境，所以特別挑了研發中心性質比較重的單位，
+
+希望各位先進給點意見。thanks
+

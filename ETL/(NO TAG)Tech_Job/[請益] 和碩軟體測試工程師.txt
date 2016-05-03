@@ -1,0 +1,15 @@
+
+作者pinkowa (pinkowa)看板Tech_Job標題[請益] 和碩軟體測試工程師時間Sat Mar 21 08:06:07 2015
+
+
+最近接到和碩邀約任職測試工程師...
+
+主要開發網路通訊性品的自動化測試程式，程式用以測試產品功能外，還有包括VoIP,
+Wireless以及gateway router功能性。開發工具有AutoIt, ITest, TCL,
+Ronarex,(VB.net , Java..)等自動化Script開發工具。
+
+
+請問一下,這樣要怎麼準備面試???
+
+單位的工作環境如何?
+

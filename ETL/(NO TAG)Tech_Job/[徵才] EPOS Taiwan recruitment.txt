@@ -1,0 +1,88 @@
+
+作者ababybee (鋼鐵泡泡)看板Tech_Job標題[徵才] EPOS Taiwan recruitment時間Mon Feb  1 11:20:50 2016
+公司簡介：
+EPOS成立於2009年，致力於提供中小型企業完善有效率的資訊技術整合方案，是新加坡前
+三大的POS系統開發商。在新加坡政府的中小企業補助方案中，EPOS是其中少數政府認可的POS
+方案提供者，服務的產業類別超過60餘種，是一個具有成熟技術研發能力可支持高度彈性客
+製化產品的團隊。
+
+因應產業變化與需求，EPOS以POS系統出發，衍伸開發各種型態的加值整合方案，如雲端
+POS系統，Kiosk自助收銀, 網路商店平台整合，會計作帳系統等。為中小企業打造高效率與
+智慧化的營運管理環境。
+
+
+徵求職位：Python 全端工程師
+
+工作內容：
+  1.POS系統軟體開發與整合
+  2.Web應用開發
+
+工作待遇： 50K*14個月(畢業生程度)，有經驗者另議。
+
+工作性質：全職
+
+上班地點：在家工作，台北辦公室預計2016年6月成立
+
+出差外派：胡志明與新加坡各約一個月
+
+上班時段：日班
+
+休假制度：依公司規定
+
+工作經驗：不拘
+學歷要求：不拘
+語文條件：英文聽說讀寫中等
+
+擅長工具：PythonCompany Overview:
+
+聯絡人 韓小姐 ruth@epos.com.sg
+
+EPOS, founded in 2009, is a leading software developer dedicating to provide
+SMEs the comprehensive and efficient IT solutions. We are one of the top three POS
+companies in Singapore and the certificated POS seller for all kinds of Singapore
+government grant.
+
+Our products have been used in over 60 different kinds of industries,
+including major Singapore government agencies and MNCs. We have an active and strong team capable for
+flexible customisation requirements and handling of major projects (e.g. major clients
+will have 2030 outlets, with more than 40 systems). Our clients include Citibank and LVMH.
+We are a onestop technology provider for SMEs and aim to provide seamless wellintegrated
+software for SMEs. We aim to support our clients from their initial creation
+as a small company and purchase of their first POS and website to their eventual growth into
+large companies.
+
+
+EPOS IT Solutions for SMEs include:
+
+Enterprise Resource Planning (ERP) system
+Point of Sale systems (retail and F&B)
+Online store that is integrated with ERP and POS
+Selfservice kiosks and terminals
+Tablet ordering systems (mainly F&B)
+Accounting system
+Email marketing system with advanced machine learning and recommendation system.
+Advanced analytics and machine learning
+Gamification and recommendation systems
+
+
+EPOS currently supplies POS systems and Technology solutions to Singapore,
+Malaysia and Brunei.
+
+EPOS currently has sales office in Singapore and development office in
+Vietnam. The company is looking to develop a new software development HQ in Taipei, with
+expectations to build up to a team of 15 developers by Q4 2016.
+
+We are looking for driven, talented and responsible developers who we can
+nurture into the future leaders and managers of our Taiwan office. Our company policy is to
+promote internally as much as possible. Our current managers have all been promoted internally
+from within the company.
+
+At EPOS, it is possible to very quickly achieve a leadership
+position with excellent work performance.
+
+Based on POS systems, we built various of integrated solutions such as
+cloudbase system,selfservice kiosk, ecommerce platform, and accounting software to enhance SMEs daily
+operation and to help them with a highly efficient and intelligent management
+system.
+
+

@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="">
+		<script src=""></script>
+		<title>Salary</title>
+	</head>
+	<style>  
+    </style>
+	<body>
+
+		<h2>搜尋公司</h2>
+		<hr>
+	
+		<form>
+			<p>
+				<label>關鍵字:</label>
+				
+				<input type="text" name="name" >
+			</p>
+			<p>你輸入的關鍵字:{{name}}</p>				
+			<input type="submit" value="傳送" placeholder="日月光 復興航空....">
+		</form>
+		<div>
+			<h2>一共 {{job|length}} 筆搜尋結果</h2>
+			{% for post in job %}
+				<h3>第{{forloop.counter}}家</h3>
+				<p>
+				<td>公司：{{post.name}}</td>
+				<td>工作地點：{{post.location}}
+				<td>產業型態：{{post.type}}</td>
+				<td>職業類別：{{post.jobtype}}</td>
+				<td>薪水：{{post.salary}}元</td>
+				
+				</p>
+				
+				
+			{% endfor %}
+		</div>
+
+	</body>
+<html>
